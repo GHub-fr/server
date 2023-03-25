@@ -1,0 +1,1 @@
+tar czf /backup.tar.gz --exclude=/backup.tar.gz /

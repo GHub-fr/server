@@ -1,0 +1,1 @@
+tar czf /backup.tar.gz --exclude=/backup.tar.gz --exclude=/backup --exclude=/boot --exclude=/run --exclude=/.disk --exclude=/opt --exclude=/media --exclude=/dev --exclude=/mnt --exclude=/proc --exclude=/sys --exclude=/tmp --exclude=/snap --exclude=/home --exclude=/lost+found /
