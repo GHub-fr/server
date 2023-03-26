@@ -2,7 +2,7 @@
 Server configuration files
 
 # Applications  
-Apache2, Discord bot, Minecraft servers & plugin
+Apache2 + HTTPS/SSL, Discord bot, Minecraft servers & plugin
 
 ---
 
