@@ -2,3 +2,4 @@
 /Serveurs/Hub/start.sh
 /Serveurs/SkyBlock/start.sh
 /Serveurs/Survie/start.sh
+/DiscordBot/start.sh
