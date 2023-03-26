@@ -54,16 +54,14 @@ mkdir -p /Serveurs/Waterfall
 wget -O /Serveurs/DataFolder/paper.jar 'https://api.papermc.io/v2/projects/paper/versions/1.19.2/builds/307/downloads/paper-1.19.2-307.jar'
 wget -O /Serveurs/Waterfall/waterfall.jar 'https://api.papermc.io/v2/projects/waterfall/versions/1.19/builds/510/downloads/waterfall-1.19-510.jar'
 
+# Ajouter bot discord Jar (release github)
+# Ajouter plugin Jar (release github)
 
 #Start Minecraft servers
 chmod +x start.sh
 start.sh
 
-
-
-# To do
-#
 # Ajouter map Stocker en huge file ? 
-# Ajouter bot discord Jar (release github)
-# Ajouter plugin Jar (release github)
+# Zip file ?
+
 # https://doc.ubuntu-fr.org/ufw
