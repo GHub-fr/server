@@ -90,8 +90,9 @@ chmod +x /DiscordBot/start.sh
 
 
 #Start Minecraft servers & Discord bot
+wget -O /start.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/start.sh'
 chmod +x start.sh
-start.sh
+/start.sh
 
 
 # Ajouter map Stocker en huge file ? 
