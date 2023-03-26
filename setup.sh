@@ -79,13 +79,17 @@ mkdir -p /Serveurs/Survie
 wget -O /Serveurs/Survie/start.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Survie/start.sh'
 chmod +x /Serveurs/Survie/start.sh
 #
+mkdir -p /Serveurs/DataFolder
 wget -O /Serveurs/DataFolder/ln-s.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/ln-s.sh'
 chmod +x /Serveurs/DataFolder/ln-s.sh
 /Serveurs/DataFolder/ln-s.sh
 #
+mkdir -p /DiscordBot
+wget -O /DiscordBot/start.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DiscordBot/start.sh'
+chmod +x /DiscordBot/start.sh
 
 
-#Start Minecraft servers
+#Start Minecraft servers & Discord bot
 chmod +x start.sh
 start.sh
 
