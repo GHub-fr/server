@@ -1,0 +1,142 @@
+enforce_secure_profile: false
+listeners:
+- query_port: 25565
+  motd: §r[ §2§lGHub§r.fr §r] §6Hub §r! §rGHub.fr/§2discord
+  tab_list: GLOBAL_PING
+  query_enabled: true
+  proxy_protocol: false
+  ping_passthrough: true
+  priorities:
+  - hub
+  bind_local_address: true
+  host: 0.0.0.0:25565
+  max_players: 0
+  tab_size: 50
+  force_default_server: true
+  forced_hosts: &id006
+    pvp.md-5.net: pvp
+- query_port: 25564
+  motd: §r[ §2§lGHub§r.fr §r] §6Survie §r! §rGHub.fr/§2discord
+  tab_list: SERVER
+  query_enabled: true
+  proxy_protocol: false
+  ping_passthrough: true
+  priorities:
+  - survie
+  - hub
+  bind_local_address: true
+  host: 0.0.0.0:25564
+  max_players: 0
+  tab_size: 50
+  force_default_server: true
+  forced_hosts: *id006
+- query_port: 25563
+  motd: §r[ §2§lGHub§r.fr §r] §6SUHC §r! §rGHub.fr/§2discord
+  tab_list: SERVER
+  query_enabled: true
+  proxy_protocol: false
+  ping_passthrough: true
+  priorities:
+  - suhc
+  - hub
+  bind_local_address: true
+  host: 0.0.0.0:25563
+  max_players: 0
+  tab_size: 50
+  force_default_server: true
+  forced_hosts: *id006
+- query_port: 25562
+  motd: §r[ §2§lGHub§r.fr §r] §6RPG §r! §rGHub.fr/§2discord
+  tab_list: SERVER
+  query_enabled: true
+  proxy_protocol: false
+  ping_passthrough: true
+  priorities:
+  - rpg
+  - hub
+  bind_local_address: true
+  host: 0.0.0.0:25562
+  max_players: 0
+  tab_size: 50
+  force_default_server: true
+  forced_hosts: *id006
+- query_port: 25561
+  motd: §r[ §2§lGHub§r.fr §r] §6SkyBlock §r! §rGHub.fr/§2discord
+  tab_list: SERVER
+  query_enabled: true
+  proxy_protocol: false
+  ping_passthrough: true
+  priorities:
+  - skyblock
+  - hub
+  bind_local_address: true
+  host: 0.0.0.0:25561
+  max_players: 0
+  tab_size: 50
+  force_default_server: true
+  forced_hosts: *id006
+- query_port: 25560
+  motd: §r[ §2§lGHub§r.fr §r] §6Creatif §r! §rGHub.fr/§2discord
+  tab_list: SERVER
+  query_enabled: true
+  proxy_protocol: false
+  ping_passthrough: true
+  priorities:
+  - creatif
+  - hub
+  bind_local_address: true
+  host: 0.0.0.0:25560
+  max_players: 0
+  tab_size: 50
+  force_default_server: true
+  forced_hosts: *id006
+remote_ping_cache: -1
+network_compression_threshold: 256
+permissions:
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+log_pings: true
+connection_throttle_limit: 3
+server_connect_timeout: 5000
+timeout: 30000
+player_limit: -1
+prevent_proxy_connections: false
+ip_forward: true
+remote_ping_timeout: 5000
+connection_throttle: 4000
+log_commands: false
+online_mode: true
+forge_support: true
+disabled_commands:
+- disabledcommandhere
+servers:
+  hub:
+    motd: §r[ §2§lGHub§r.fr §r] §6Hub §r!
+    address: localhost:25500
+    restricted: false
+  survie:
+    motd: §r[ §2§lGHub§r.fr §r] §6Survie §r!
+    address: localhost:25505
+    restricted: false
+  suhc:
+    motd: §r[ §2§lGHub§r.fr §r] §6SUHC §r!
+    address: localhost:25504
+    restricted: false
+  rpg:
+    motd: §r[ §2§lGHub§r.fr §r] §6RPG §r!
+    address: localhost:25502
+    restricted: false
+  skyblock:
+    motd: §r[ §2§lGHub§r.fr §r] §6SkyBlock §r!
+    address: localhost:25503
+    restricted: false
+  creatif:
+    motd: §r[ §2§lGHub§r.fr §r] §6Creatif §r!
+    address: localhost:25501
+    restricted: false

@@ -55,11 +55,15 @@ wget -O /Serveurs/DataFolder/paper.jar 'https://api.papermc.io/v2/projects/paper
 wget -O /Serveurs/Waterfall/waterfall.jar 'https://api.papermc.io/v2/projects/waterfall/versions/1.19/builds/510/downloads/waterfall-1.19-510.jar'
 
 
+#Start Minecraft servers
+chmod +x start.sh
+start.sh
+
+
+
 # To do
+#
 # Ajouter map Stocker en huge file ? 
 # Ajouter bot discord Jar (release github)
 # Ajouter plugin Jar (release github)
-
 # https://doc.ubuntu-fr.org/ufw
-
-# Lancer le SH start all
