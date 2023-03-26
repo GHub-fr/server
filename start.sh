@@ -13,3 +13,6 @@ chmod +x /Serveurs/DataFolder/ln-s.sh
 /Serveurs/Hub/start.sh
 /Serveurs/SkyBlock/start.sh
 /Serveurs/Survie/start.sh
+
+chmod +x /DiscordBot/start.sh
+/DiscordBot/start.sh
