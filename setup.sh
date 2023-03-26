@@ -30,13 +30,13 @@ snap install --classic certbot
 #
 ln -s /snap/bin/certbot /usr/bin/certbot
 #
-certbot --apache --standalone --agree-tos --register-unsafely-without-email -d ghub.fr
+certbot --apache --agree-tos --register-unsafely-without-email -d ghub.fr
 #
 sudo certbot renew --dry-run
 
 
 #
-service apache2 start
+service apache2 restart
 #
 
 
