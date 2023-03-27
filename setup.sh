@@ -87,6 +87,10 @@ chmod +x /Serveurs/DataFolder/ln-s.sh
 mkdir -p /DiscordBot
 wget -O /DiscordBot/start.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DiscordBot/start.sh'
 chmod +x /DiscordBot/start.sh
+#
+mkdir -p /DiscordBot/data
+wget -O /DiscordBot/data/tokens.yml -L 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DiscordBot/data/tokens.yml'
+
 
 
 #Start Minecraft servers & Discord bot
