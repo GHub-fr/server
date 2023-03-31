@@ -86,6 +86,11 @@ chmod +x /Serveurs/DataFolder/ln-s.sh
 #
 mkdir -p /DiscordBot
 wget -O /DiscordBot/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/DiscordBot/start.sh'
+#
+#Test
+wget 'https://raw.githubusercontent.com/GHub-fr/server/main/DiscordBot/start.sh' -O /DiscordBot/start.sh
+#Test
+#
 chmod +x /DiscordBot/start.sh
 #
 mkdir -p /DiscordBot/data
