@@ -14,7 +14,7 @@ useradd www-data
 chmod -R 755 /var/www/html && chown -R www-data:www-data /var/www/html
 #
 a2enmod rewrite
-wget -O /etc/apache2/sites-available/ghub.fr.conf -L 'https://raw.githubusercontent.com/GHub-fr/server/main/etc/apache2/sites-available/ghub.fr.conf'
+wget -O /etc/apache2/sites-available/ghub.fr.conf 'https://raw.githubusercontent.com/GHub-fr/server/main/etc/apache2/sites-available/ghub.fr.conf'
 a2ensite ghub.fr.conf
 a2dissite 000-default.conf
 
@@ -52,35 +52,35 @@ wget -O /Serveurs/Waterfall/waterfall.jar 'https://api.papermc.io/v2/projects/wa
 # Ajouter plugin Jar (release github)
 #
 mkdir -p /Serveurs/Waterfall
-wget -O /Serveurs/Waterfall/start.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Waterfall/start.sh'
+wget -O /Serveurs/Waterfall/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Waterfall/start.sh'
 chmod +x /Serveurs/Waterfall/start.sh
 #
 mkdir -p /Serveurs/Creatif
-wget -O /Serveurs/Creatif/start.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Creatif/start.sh'
+wget -O /Serveurs/Creatif/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Creatif/start.sh'
 chmod +x /Serveurs/Creatif/start.sh
 #
 mkdir -p /Serveurs/Hub
-wget -O /Serveurs/Hub/start.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Hub/start.sh'
+wget -O /Serveurs/Hub/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Hub/start.sh'
 chmod +x /Serveurs/Hub/start.sh
 #
 mkdir -p /Serveurs/RPG
-wget -O /Serveurs/RPG/start.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/RPG/start.sh'
+wget -O /Serveurs/RPG/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/RPG/start.sh'
 chmod +x /Serveurs/RPG/start.sh
 #
 mkdir -p /Serveurs/SkyBlock
-wget -O /Serveurs/SkyBlock/start.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/SkyBlock/start.sh'
+wget -O /Serveurs/SkyBlock/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/SkyBlock/start.sh'
 chmod +x /Serveurs/SkyBlock/start.sh
 #
 mkdir -p /Serveurs/SUHC
-wget -O /Serveurs/SUHC/start.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/SUHC/start.sh'
+wget -O /Serveurs/SUHC/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/SUHC/start.sh'
 chmod +x /Serveurs/SUHC/start.sh
 #
 mkdir -p /Serveurs/Survie
-wget -O /Serveurs/Survie/start.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Survie/start.sh'
+wget -O /Serveurs/Survie/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Survie/start.sh'
 chmod +x /Serveurs/Survie/start.sh
 #
 mkdir -p /Serveurs/DataFolder
-wget -O /Serveurs/DataFolder/ln-s.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/ln-s.sh'
+wget -O /Serveurs/DataFolder/ln-s.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/ln-s.sh'
 chmod +x /Serveurs/DataFolder/ln-s.sh
 /Serveurs/DataFolder/ln-s.sh
 #
@@ -89,12 +89,12 @@ wget -O /DiscordBot/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/m
 chmod +x /DiscordBot/start.sh
 #
 mkdir -p /DiscordBot/data
-wget -O /DiscordBot/data/tokens.yml -L 'https://raw.githubusercontent.com/GHub-fr/server/main/DiscordBot/data/tokens.yml'
+wget -O /DiscordBot/data/tokens.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/DiscordBot/data/tokens.yml'
 
 
 
 #Start Minecraft servers & Discord bot
-wget -O /start.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/start.sh'
+wget -O /start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/start.sh'
 chmod +x start.sh
 /start.sh
 
