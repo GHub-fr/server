@@ -96,12 +96,20 @@ wget -O /DiscordBot/data/tokens.yml 'https://raw.githubusercontent.com/GHub-fr/s
 
 #Ajouter plugin EULA, OPS, Conf File srv, ServerTypeFile, icons...
 
+#
+# update
+wget -O /update.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/update.sh'
+chmod +x update.sh
+#
 #Start Minecraft servers & Discord bot
 wget -O /start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/start.sh'
 chmod +x start.sh
 #
 /start.sh
 #
+
+# Migerer update du setup dans le fichier update
+# utiliser plus que celui ci pour version jar 
 # Ajouter map Stocker en huge file ? 
 
 # https://doc.ubuntu-fr.org/ufw
