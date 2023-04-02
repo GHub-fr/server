@@ -74,12 +74,6 @@ mkdir -p /Serveurs/DataFolder
 wget -O /Serveurs/DataFolder/ln-s.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/ln-s.sh'
 chmod +x /Serveurs/DataFolder/ln-s.sh
 #
-wget -O /DiscordBot/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/DiscordBot/start.sh'
-chmod +x /DiscordBot/start.sh
-#
-mkdir -p /DiscordBot/data
-wget -O /DiscordBot/data/tokens.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/DiscordBot/data/tokens.yml'
-#
 /Serveurs/DataFolder/ln-s.sh
 
 #Ajouter plugin EULA, OPS, Conf File srv, ServerTypeFile, icons...
