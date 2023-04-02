@@ -30,7 +30,7 @@ ln -s /snap/bin/certbot /usr/bin/certbot
 certbot --apache --agree-tos --register-unsafely-without-email -d ghub.fr
 sudo certbot renew --dry-run
 #
-service apache2 restart
+service apache2 start
 #
 
 
@@ -42,13 +42,16 @@ service apache2 restart
 
 
 # Minecraft
-mkdir -p /Serveurs/DataFolder
-mkdir -p /Serveurs/Waterfall
 #
+mkdir -p /Serveurs/DataFolder
 wget -O /Serveurs/DataFolder/paper.jar 'https://api.papermc.io/v2/projects/paper/versions/1.19.2/builds/307/downloads/paper-1.19.2-307.jar'
+#
+mkdir -p /Serveurs/Waterfall
 wget -O /Serveurs/Waterfall/waterfall.jar 'https://api.papermc.io/v2/projects/waterfall/versions/1.19/builds/510/downloads/waterfall-1.19-510.jar'
 #
-# Ajouter bot discord Jar (release github)
+mkdir -p /DiscordBot
+wget -O /DiscordBot/bot.jar 'https://github.com/GHub-fr/bot/releases/latest/download/bot-1.0-fat.jar'
+#
 # Ajouter plugin Jar (release github)
 #
 mkdir -p /Serveurs/Waterfall
@@ -82,29 +85,23 @@ chmod +x /Serveurs/Survie/start.sh
 mkdir -p /Serveurs/DataFolder
 wget -O /Serveurs/DataFolder/ln-s.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/ln-s.sh'
 chmod +x /Serveurs/DataFolder/ln-s.sh
-/Serveurs/DataFolder/ln-s.sh
 #
-mkdir -p /DiscordBot
 wget -O /DiscordBot/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/DiscordBot/start.sh'
-#
-#Test
-wget 'https://raw.githubusercontent.com/GHub-fr/server/main/DiscordBot/start.sh' -O /DiscordBot/start.sh
-#Test
-#
 chmod +x /DiscordBot/start.sh
 #
 mkdir -p /DiscordBot/data
 wget -O /DiscordBot/data/tokens.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/DiscordBot/data/tokens.yml'
+#
+/Serveurs/DataFolder/ln-s.sh
 
-
+#Ajouter plugin EULA, OPS, Conf File srv, ServerTypeFile, icons...
 
 #Start Minecraft servers & Discord bot
 wget -O /start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/start.sh'
 chmod +x start.sh
+#
 /start.sh
-
-
+#
 # Ajouter map Stocker en huge file ? 
-# Zip file ?
 
 # https://doc.ubuntu-fr.org/ufw
