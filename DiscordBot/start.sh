@@ -1,1 +1,1 @@
-screen -dmS Bot java -jar bot.jar
+screen -dmS bot java -jar bot.jar
