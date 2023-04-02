@@ -41,18 +41,6 @@ service apache2 start
 # mysql -e "GRANT ALL PRIVILEGES ON dbsite.* TO 'site'@'127.0.0.1' WITH GRANT OPTION;"
 
 
-# Minecraft
-#
-mkdir -p /Serveurs/DataFolder
-wget -O /Serveurs/DataFolder/paper.jar 'https://api.papermc.io/v2/projects/paper/versions/1.19.2/builds/307/downloads/paper-1.19.2-307.jar'
-#
-mkdir -p /Serveurs/Waterfall
-wget -O /Serveurs/Waterfall/waterfall.jar 'https://api.papermc.io/v2/projects/waterfall/versions/1.19/builds/510/downloads/waterfall-1.19-510.jar'
-#
-mkdir -p /DiscordBot
-wget -O /DiscordBot/bot.jar 'https://github.com/GHub-fr/bot/releases/latest/download/bot-1.0-fat.jar'
-#
-# Ajouter plugin Jar (release github)
 #
 mkdir -p /Serveurs/Waterfall
 wget -O /Serveurs/Waterfall/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Waterfall/start.sh'
@@ -100,6 +88,8 @@ wget -O /DiscordBot/data/tokens.yml 'https://raw.githubusercontent.com/GHub-fr/s
 # update
 wget -O /update.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/update.sh'
 chmod +x update.sh
+#
+/update.sh
 #
 #Start Minecraft servers & Discord bot
 wget -O /start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/start.sh'
