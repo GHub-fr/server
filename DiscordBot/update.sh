@@ -17,4 +17,7 @@ mkdir -p /DiscordBot/Data # bot data
 mkdir -p /DiscordBot
 wget -O /DiscordBot/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/DiscordBot/start.sh'
 chmod +x /DiscordBot/start.sh
+#
 /DiscordBot/start.sh
+#
+echo END : Starting Discord Bot

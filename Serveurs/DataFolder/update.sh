@@ -62,4 +62,7 @@ chmod +x /Serveurs/DataFolder/ln-s.sh
 # start
 wget -O /Serveurs/DataFolder/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/start.sh'
 chmod +x /Serveurs/DataFolder/start.sh
+#
 /Serveurs/DataFolder/start.sh
+#
+echo END ! Starting Minecraft servers
