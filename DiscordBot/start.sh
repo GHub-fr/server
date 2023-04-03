@@ -1,2 +1,2 @@
-screen -dmS bot java -jar bot.jar
+screen -dmS bot java -jar /DiscordBot/bot.jar
 echo screen bot
