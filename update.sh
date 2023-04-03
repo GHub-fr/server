@@ -1,6 +1,3 @@
-/newupdaters.sh
-#
-/DiscordBot/update.sh # Discord
-/Serveurs/DataFolder/update.sh # Minecraft
-#
-/newjars.sh
+wget -O /newconfigs.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/newconfigs.sh'
+chmod +x /newconfigs.sh
+/newconfigs.sh

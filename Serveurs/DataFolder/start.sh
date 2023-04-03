@@ -3,6 +3,6 @@
 /Serveurs/SkyBlock/start.sh
 /Serveurs/Survie/start.sh
 
-/DiscordBot/start.sh
-
-#Same for plugin
+# /Serveurs/Creatif/start.sh
+# /Serveurs/RPG/start.sh
+# /Serveurs/Anarchie/start.sh
