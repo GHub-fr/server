@@ -51,6 +51,7 @@ wget -O /Serveurs/DataFolder/ops.json 'https://raw.githubusercontent.com/GHub-fr
 wget -O /Serveurs/DataFolder/server-icon.png 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/server-icon.png'
 wget -O /Serveurs/DataFolder/serverTypeFile.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/serverTypeFile.yml'
 # plugin
+mkdir -p /Serveurs/DataFolder/plugins
 wget -O /Serveurs/DataFolder/plugins/plugin.jar 'https://github.com/GHub-fr/plugin/releases/latest/download/plugin-1.0-fat.jar'
 # paper
 wget -O /Serveurs/DataFolder/paper.jar 'https://api.papermc.io/v2/projects/paper/versions/1.19.2/builds/307/downloads/paper-1.19.2-307.jar'
