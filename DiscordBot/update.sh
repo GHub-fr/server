@@ -7,7 +7,7 @@ wget -O /DiscordBot/bot.jar 'https://github.com/GHub-fr/bot/releases/latest/down
 
 # token
 mkdir -p /DiscordBot/data
- # Removed to avoid overwrite 2 # wget -O /DiscordBot/data/tokens.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/DiscordBot/data/tokens.yml'
+# wget -O /DiscordBot/data/tokens.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/DiscordBot/data/tokens.yml'
 
 
 mkdir -p /DiscordBot/Data # bot data
@@ -18,6 +18,5 @@ mkdir -p /DiscordBot
 wget -O /DiscordBot/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/DiscordBot/start.sh'
 chmod +x /DiscordBot/start.sh
 #
+echo ~ Starting Discord Bot
 /DiscordBot/start.sh
-#
-echo END : Starting Discord Bot

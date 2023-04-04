@@ -25,5 +25,5 @@ chmod +x /setup.sh
 [Discord token](/DiscordBot/data/tokens.yml)  
 [Minecraft Discord token](Soon)  
 
-# Start
+# Start  
 /install.sh  
