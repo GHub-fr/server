@@ -12,11 +12,18 @@ Server configuration files
 <a href=""><img src="https://img.shields.io/github/repo-size/GHub-fr/server?color=red"></a>
 
 # Applications  
-Apache2 + HTTPS/SSL, Discord bot, Minecraft servers & plugin
+Apache2 + HTTPS/SSL,  
+Discord bot, Minecraft servers & plugin  
 
----
-
-# Download and run the shell script  
+# Setup  
 wget -O /setup.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/setup.sh'  
 chmod +x /setup.sh  
-/setup.sh
+/setup.sh  
+
+# Configuration  
+[MySQL password](/setup.mysql.sh)  
+[Discord token](/DiscordBot/data/tokens.yml)  
+[Minecraft Discord token](Soon)  
+
+# Start
+/install.sh  
