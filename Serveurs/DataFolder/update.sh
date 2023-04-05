@@ -45,11 +45,25 @@ chmod +x /Serveurs/Survie/start.sh
 
 
 mkdir -p /Serveurs/DataFolder
-# config
+# global config
 wget -O /Serveurs/DataFolder/eula.txt 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/eula.txt'
 wget -O /Serveurs/DataFolder/ops.json 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/ops.json'
 wget -O /Serveurs/DataFolder/server-icon.png 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/server-icon.png'
 wget -O /Serveurs/DataFolder/serverTypeFile.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/serverTypeFile.yml'
+# NEW NEW NEW
+wget -O /Serveurs/DataFolder/spigot.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/spigot.yml'
+wget -O /Serveurs/DataFolder/bukkit.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/bukkit.yml'
+#
+mkdir -p /Serveurs/DataFolder/paper-config
+wget -O /Serveurs/DataFolder/paper-config/paper-world-defaults.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/paper-config/paper-world-defaults.yml'
+wget -O /Serveurs/DataFolder/paper-config/paper-global.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/paper-config/paper-global.yml'
+# per server config
+wget -O /Serveurs/Anarchie/server.properties 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Anarchie/server.properties'
+wget -O /Serveurs/Creatif/server.properties 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Creatif/server.properties'
+wget -O /Serveurs/Hub/server.properties 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Hub/server.properties'
+wget -O /Serveurs/RPG/server.properties 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/RPG/server.properties'
+wget -O /Serveurs/SkyBlock/server.properties 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/SkyBlock/server.properties'
+wget -O /Serveurs/Survie/server.properties 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Survie/server.properties'
 # plugin
 mkdir -p /Serveurs/DataFolder/plugins
 wget -O /Serveurs/DataFolder/plugins/plugin.jar 'https://github.com/GHub-fr/plugin/releases/latest/download/plugin-1.0-fat.jar'
