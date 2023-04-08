@@ -20,7 +20,7 @@ settings:
   restart-script: ./start.sh
   user-cache-size: 1000
   player-shuffle: 0
-  bungeecord: false
+  bungeecord: true
   sample-count: 12
   netty-threads: 4
   log-villager-deaths: true
