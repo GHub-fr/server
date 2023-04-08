@@ -23,7 +23,7 @@ chmod +x /setup.sh
 # Configuration  
 [MySQL password](/setup.mysql.sh)  
 [Discord token](/DiscordBot/data/tokens.yml)  
-[Minecraft Discord token](Soon) | [exemple](Soon)  
+[Minecraft Discord token](/Serveurs/DataFolder/tokens.yml)  
 [Minecraft RCON Password](/Serveurs/SERVERNAME/server.properties) | [exemple](/Serveurs/Hub/server.properties)  
 
 # Start  
