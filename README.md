@@ -28,3 +28,8 @@ chmod +x /setup.sh
 
 # Start  
 /install.sh  
+
+# Force update
+wget -O /update.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/update.sh'  
+chmod +x /update.sh  
+/update.sh  
