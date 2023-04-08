@@ -19,6 +19,9 @@ chmod +x /setup.certbot.sh
 chmod +x /setup.mysql.sh
 /setup.mysql.sh
 
+#
+service apache2 restart
+#
 
 # update
 wget -O /update.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/update.sh'
