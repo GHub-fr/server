@@ -11,7 +11,7 @@ chmod +x /install.sh
 # azuriom
 wget -O /setup.azuriom.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/setup.azuriom.sh'
 chmod +x /setup.azuriom.sh
-wget -O /var/www/site/resources/lang/fr/messages.php.txt 'https://raw.githubusercontent.com/GHub-fr/server/main/var/www/site/resources/lang/fr/messages.php.txt' # Water mark
+wget -O /var/www/site/resources/lang/fr/messages.php 'https://raw.githubusercontent.com/GHub-fr/server/main/var/www/site/resources/lang/fr/messages.php' # Water mark
 # certbot
 wget -O /setup.certbot.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/setup.certbot.sh'
 chmod +x /setup.certbot.sh
