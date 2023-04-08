@@ -4,7 +4,10 @@ apt install -y wget
 
 wget -O /setup.mysql.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/setup.mysql.sh'
 #
+mkdir -p /DiscordBot/data
 wget -O /DiscordBot/data/tokens.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/DiscordBot/data/tokens.yml'
+#
+mkdir -p /Serveurs/DataFolder
 wget -O /Serveurs/DataFolder/tokens.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/tokens.yml'
 #
 mkdir -p /Serveurs/Anarchie
