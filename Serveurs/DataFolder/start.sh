@@ -16,5 +16,5 @@ cd /Serveurs/Survie
 # cd /Serveurs/RPG
 # /Serveurs/RPG/start.sh
 
-# cd /Serveurs/Anarchie
-# /Serveurs/Anarchie/start.sh
+cd /Serveurs/Anarchie
+/Serveurs/Anarchie/start.sh
