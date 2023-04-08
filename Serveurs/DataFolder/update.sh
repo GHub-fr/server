@@ -41,7 +41,7 @@ chmod +x /Serveurs/Survie/start.sh
 
 mkdir -p /Serveurs/DataFolder
 # tokens
-wget -O /Serveurs/DataFolder/tokens.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/tokens.yml'
+# wget -O /Serveurs/DataFolder/tokens.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/tokens.yml'
 # global config
 wget -O /Serveurs/DataFolder/eula.txt 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/eula.txt'
 wget -O /Serveurs/DataFolder/ops.json 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/ops.json'
