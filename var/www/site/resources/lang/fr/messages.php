@@ -105,7 +105,7 @@ return [
     'servers' => 'Serveurs',
     'news' => 'Nouveautés',
     'welcome' => 'Bienvenue sur :name',
-    'copyright' => '<a href="https://github.com/GHub-fr" target="_blank" rel="noopener noreferrer">Open source</a>',
+    'copyright' => '',
 
     'maintenance' => [
         'title' => 'Maintenance',

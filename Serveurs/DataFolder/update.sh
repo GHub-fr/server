@@ -50,6 +50,9 @@ wget -O /Serveurs/DataFolder/serverTypeFile.yml 'https://raw.githubusercontent.c
 wget -O /Serveurs/DataFolder/spigot.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/spigot.yml'
 wget -O /Serveurs/DataFolder/bukkit.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/bukkit.yml'
 #
+mkdir -p /Serveurs/DataFolder/players/d0a8d68a-69b6-4dfc-bc03-9679841e7199
+wget -O /Serveurs/DataFolder/players/d0a8d68a-69b6-4dfc-bc03-9679841e7199/tag.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/players/d0a8d68a-69b6-4dfc-bc03-9679841e7199/tag.yml'
+#
 mkdir -p /Serveurs/DataFolder/paper-config
 wget -O /Serveurs/DataFolder/paper-config/paper-world-defaults.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/paper-config/paper-world-defaults.yml'
 wget -O /Serveurs/DataFolder/paper-config/paper-global.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/paper-config/paper-global.yml'
