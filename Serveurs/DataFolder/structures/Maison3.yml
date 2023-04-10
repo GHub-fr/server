@@ -1,0 +1,9703 @@
+'1':
+  type: STONE_BRICK_WALL
+  location:
+    x: 42
+    y: 70
+    z: 61
+  data: minecraft:stone_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=none]
+'2':
+  type: STONE_BRICKS
+  location:
+    x: 42
+    y: 70
+    z: 62
+  data: minecraft:stone_bricks
+'3':
+  type: STONE_BRICKS
+  location:
+    x: 42
+    y: 70
+    z: 63
+  data: minecraft:stone_bricks
+'4':
+  type: STONE_BRICKS
+  location:
+    x: 42
+    y: 70
+    z: 64
+  data: minecraft:stone_bricks
+'5':
+  type: STONE_BRICKS
+  location:
+    x: 42
+    y: 70
+    z: 65
+  data: minecraft:stone_bricks
+'6':
+  type: STONE_BRICKS
+  location:
+    x: 42
+    y: 70
+    z: 66
+  data: minecraft:stone_bricks
+'7':
+  type: STONE_BRICKS
+  location:
+    x: 42
+    y: 70
+    z: 67
+  data: minecraft:stone_bricks
+'8':
+  type: STONE_BRICKS
+  location:
+    x: 42
+    y: 70
+    z: 68
+  data: minecraft:stone_bricks
+'9':
+  type: STONE_BRICKS
+  location:
+    x: 42
+    y: 70
+    z: 69
+  data: minecraft:stone_bricks
+'10':
+  type: STONE_BRICKS
+  location:
+    x: 42
+    y: 70
+    z: 70
+  data: minecraft:stone_bricks
+'11':
+  type: STONE_BRICKS
+  location:
+    x: 42
+    y: 70
+    z: 71
+  data: minecraft:stone_bricks
+'12':
+  type: STONE_BRICKS
+  location:
+    x: 42
+    y: 70
+    z: 72
+  data: minecraft:stone_bricks
+'13':
+  type: STONE_BRICK_WALL
+  location:
+    x: 42
+    y: 70
+    z: 73
+  data: minecraft:stone_brick_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=none]
+'14':
+  type: STONE_BRICK_WALL
+  location:
+    x: 42
+    y: 71
+    z: 61
+  data: minecraft:stone_brick_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=none]
+'15':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 42
+    y: 71
+    z: 62
+  data: minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+'16':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 42
+    y: 71
+    z: 63
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'17':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 42
+    y: 71
+    z: 64
+  data: minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+'18':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 42
+    y: 71
+    z: 65
+  data: minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+'19':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 42
+    y: 71
+    z: 66
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'20':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 42
+    y: 71
+    z: 67
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'21':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 42
+    y: 71
+    z: 68
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'22':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 42
+    y: 71
+    z: 69
+  data: minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+'23':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 42
+    y: 71
+    z: 70
+  data: minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+'24':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 42
+    y: 71
+    z: 71
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'25':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 42
+    y: 71
+    z: 72
+  data: minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+'26':
+  type: STONE_BRICK_WALL
+  location:
+    x: 42
+    y: 71
+    z: 73
+  data: minecraft:stone_brick_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=none]
+'27':
+  type: SPRUCE_FENCE
+  location:
+    x: 42
+    y: 72
+    z: 61
+  data: minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+'28':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 42
+    y: 72
+    z: 62
+  data: minecraft:spruce_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]
+'29':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 42
+    y: 72
+    z: 66
+  data: minecraft:spruce_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]
+'30':
+  type: SPRUCE_FENCE
+  location:
+    x: 42
+    y: 72
+    z: 67
+  data: minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+'31':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 42
+    y: 72
+    z: 68
+  data: minecraft:spruce_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]
+'32':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 42
+    y: 72
+    z: 72
+  data: minecraft:spruce_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]
+'33':
+  type: SPRUCE_FENCE
+  location:
+    x: 42
+    y: 72
+    z: 73
+  data: minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+'34':
+  type: SPRUCE_FENCE
+  location:
+    x: 42
+    y: 73
+    z: 61
+  data: minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+'35':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 42
+    y: 73
+    z: 62
+  data: minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]
+'36':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 42
+    y: 73
+    z: 66
+  data: minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]
+'37':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 42
+    y: 73
+    z: 67
+  data: minecraft:spruce_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]
+'38':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 42
+    y: 73
+    z: 68
+  data: minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]
+'39':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 42
+    y: 73
+    z: 72
+  data: minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]
+'40':
+  type: SPRUCE_FENCE
+  location:
+    x: 42
+    y: 73
+    z: 73
+  data: minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+'41':
+  type: SPRUCE_LOG
+  location:
+    x: 42
+    y: 74
+    z: 61
+  data: minecraft:spruce_log[axis=x]
+'42':
+  type: SPRUCE_SLAB
+  location:
+    x: 42
+    y: 74
+    z: 62
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'43':
+  type: SPRUCE_SLAB
+  location:
+    x: 42
+    y: 74
+    z: 63
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'44':
+  type: SPRUCE_SLAB
+  location:
+    x: 42
+    y: 74
+    z: 64
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'45':
+  type: SPRUCE_SLAB
+  location:
+    x: 42
+    y: 74
+    z: 65
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'46':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 42
+    y: 74
+    z: 66
+  data: minecraft:spruce_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]
+'47':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 42
+    y: 74
+    z: 68
+  data: minecraft:spruce_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]
+'48':
+  type: SPRUCE_SLAB
+  location:
+    x: 42
+    y: 74
+    z: 69
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'49':
+  type: SPRUCE_SLAB
+  location:
+    x: 42
+    y: 74
+    z: 70
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'50':
+  type: SPRUCE_SLAB
+  location:
+    x: 42
+    y: 74
+    z: 71
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'51':
+  type: SPRUCE_SLAB
+  location:
+    x: 42
+    y: 74
+    z: 72
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'52':
+  type: SPRUCE_LOG
+  location:
+    x: 42
+    y: 74
+    z: 73
+  data: minecraft:spruce_log[axis=x]
+'53':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 42
+    y: 79
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'54':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 42
+    y: 79
+    z: 62
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'55':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 42
+    y: 79
+    z: 63
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'56':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 42
+    y: 79
+    z: 64
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'57':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 42
+    y: 79
+    z: 65
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'58':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 42
+    y: 79
+    z: 66
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'59':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 42
+    y: 79
+    z: 67
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'60':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 42
+    y: 79
+    z: 68
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'61':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 42
+    y: 79
+    z: 69
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'62':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 42
+    y: 79
+    z: 70
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'63':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 42
+    y: 79
+    z: 71
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'64':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 42
+    y: 79
+    z: 72
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'65':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 42
+    y: 79
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'66':
+  type: STONE_BRICK_WALL
+  location:
+    x: 43
+    y: 70
+    z: 60
+  data: minecraft:stone_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=none]
+'67':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 70
+    z: 61
+  data: minecraft:spruce_log[axis=y]
+'68':
+  type: STONE_BRICKS
+  location:
+    x: 43
+    y: 70
+    z: 62
+  data: minecraft:stone_bricks
+'69':
+  type: STONE_BRICKS
+  location:
+    x: 43
+    y: 70
+    z: 63
+  data: minecraft:stone_bricks
+'70':
+  type: STONE_BRICKS
+  location:
+    x: 43
+    y: 70
+    z: 64
+  data: minecraft:stone_bricks
+'71':
+  type: DIRT
+  location:
+    x: 43
+    y: 70
+    z: 65
+  data: minecraft:dirt
+'72':
+  type: DIRT
+  location:
+    x: 43
+    y: 70
+    z: 66
+  data: minecraft:dirt
+'73':
+  type: DIRT
+  location:
+    x: 43
+    y: 70
+    z: 67
+  data: minecraft:dirt
+'74':
+  type: DIRT
+  location:
+    x: 43
+    y: 70
+    z: 68
+  data: minecraft:dirt
+'75':
+  type: DIRT
+  location:
+    x: 43
+    y: 70
+    z: 69
+  data: minecraft:dirt
+'76':
+  type: DIRT
+  location:
+    x: 43
+    y: 70
+    z: 70
+  data: minecraft:dirt
+'77':
+  type: DIRT
+  location:
+    x: 43
+    y: 70
+    z: 71
+  data: minecraft:dirt
+'78':
+  type: DIRT
+  location:
+    x: 43
+    y: 70
+    z: 72
+  data: minecraft:dirt
+'79':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 70
+    z: 73
+  data: minecraft:spruce_log[axis=y]
+'80':
+  type: STONE_BRICK_WALL
+  location:
+    x: 43
+    y: 70
+    z: 74
+  data: minecraft:stone_brick_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=none]
+'81':
+  type: STONE_BRICK_WALL
+  location:
+    x: 43
+    y: 71
+    z: 60
+  data: minecraft:stone_brick_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=none]
+'82':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 71
+    z: 61
+  data: minecraft:spruce_log[axis=y]
+'83':
+  type: STONE_BRICKS
+  location:
+    x: 43
+    y: 71
+    z: 62
+  data: minecraft:stone_bricks
+'84':
+  type: STONE_BRICKS
+  location:
+    x: 43
+    y: 71
+    z: 63
+  data: minecraft:stone_bricks
+'85':
+  type: STONE_BRICKS
+  location:
+    x: 43
+    y: 71
+    z: 64
+  data: minecraft:stone_bricks
+'86':
+  type: STONE_BRICKS
+  location:
+    x: 43
+    y: 71
+    z: 65
+  data: minecraft:stone_bricks
+'87':
+  type: STONE_BRICKS
+  location:
+    x: 43
+    y: 71
+    z: 66
+  data: minecraft:stone_bricks
+'88':
+  type: STONE_BRICKS
+  location:
+    x: 43
+    y: 71
+    z: 67
+  data: minecraft:stone_bricks
+'89':
+  type: STONE_BRICKS
+  location:
+    x: 43
+    y: 71
+    z: 68
+  data: minecraft:stone_bricks
+'90':
+  type: STONE_BRICKS
+  location:
+    x: 43
+    y: 71
+    z: 69
+  data: minecraft:stone_bricks
+'91':
+  type: STONE_BRICKS
+  location:
+    x: 43
+    y: 71
+    z: 70
+  data: minecraft:stone_bricks
+'92':
+  type: STONE_BRICKS
+  location:
+    x: 43
+    y: 71
+    z: 71
+  data: minecraft:stone_bricks
+'93':
+  type: STONE_BRICKS
+  location:
+    x: 43
+    y: 71
+    z: 72
+  data: minecraft:stone_bricks
+'94':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 71
+    z: 73
+  data: minecraft:spruce_log[axis=y]
+'95':
+  type: STONE_BRICK_WALL
+  location:
+    x: 43
+    y: 71
+    z: 74
+  data: minecraft:stone_brick_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=none]
+'96':
+  type: SPRUCE_FENCE
+  location:
+    x: 43
+    y: 72
+    z: 60
+  data: minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+'97':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 72
+    z: 61
+  data: minecraft:spruce_log[axis=y]
+'98':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 72
+    z: 62
+  data: minecraft:spruce_planks
+'99':
+  type: GLASS_PANE
+  location:
+    x: 43
+    y: 72
+    z: 63
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'100':
+  type: GLASS_PANE
+  location:
+    x: 43
+    y: 72
+    z: 64
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'101':
+  type: GLASS_PANE
+  location:
+    x: 43
+    y: 72
+    z: 65
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'102':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 72
+    z: 66
+  data: minecraft:spruce_planks
+'103':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 72
+    z: 67
+  data: minecraft:spruce_planks
+'104':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 72
+    z: 68
+  data: minecraft:spruce_planks
+'105':
+  type: GLASS_PANE
+  location:
+    x: 43
+    y: 72
+    z: 69
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'106':
+  type: GLASS_PANE
+  location:
+    x: 43
+    y: 72
+    z: 70
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'107':
+  type: GLASS_PANE
+  location:
+    x: 43
+    y: 72
+    z: 71
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'108':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 72
+    z: 72
+  data: minecraft:spruce_planks
+'109':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 72
+    z: 73
+  data: minecraft:spruce_log[axis=y]
+'110':
+  type: SPRUCE_FENCE
+  location:
+    x: 43
+    y: 72
+    z: 74
+  data: minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+'111':
+  type: SPRUCE_FENCE
+  location:
+    x: 43
+    y: 73
+    z: 60
+  data: minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+'112':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 73
+    z: 61
+  data: minecraft:spruce_log[axis=y]
+'113':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 73
+    z: 62
+  data: minecraft:spruce_planks
+'114':
+  type: GLASS_PANE
+  location:
+    x: 43
+    y: 73
+    z: 63
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'115':
+  type: GLASS_PANE
+  location:
+    x: 43
+    y: 73
+    z: 64
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'116':
+  type: GLASS_PANE
+  location:
+    x: 43
+    y: 73
+    z: 65
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'117':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 73
+    z: 66
+  data: minecraft:spruce_planks
+'118':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 73
+    z: 67
+  data: minecraft:spruce_planks
+'119':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 73
+    z: 68
+  data: minecraft:spruce_planks
+'120':
+  type: GLASS_PANE
+  location:
+    x: 43
+    y: 73
+    z: 69
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'121':
+  type: GLASS_PANE
+  location:
+    x: 43
+    y: 73
+    z: 70
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'122':
+  type: GLASS_PANE
+  location:
+    x: 43
+    y: 73
+    z: 71
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'123':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 73
+    z: 72
+  data: minecraft:spruce_planks
+'124':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 73
+    z: 73
+  data: minecraft:spruce_log[axis=y]
+'125':
+  type: SPRUCE_FENCE
+  location:
+    x: 43
+    y: 73
+    z: 74
+  data: minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+'126':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 74
+    z: 60
+  data: minecraft:spruce_log[axis=z]
+'127':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 74
+    z: 61
+  data: minecraft:spruce_log[axis=y]
+'128':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 74
+    z: 62
+  data: minecraft:spruce_log[axis=z]
+'129':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 74
+    z: 63
+  data: minecraft:spruce_log[axis=z]
+'130':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 74
+    z: 64
+  data: minecraft:spruce_log[axis=z]
+'131':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 74
+    z: 65
+  data: minecraft:spruce_log[axis=z]
+'132':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 74
+    z: 66
+  data: minecraft:spruce_log[axis=z]
+'133':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 74
+    z: 67
+  data: minecraft:spruce_log[axis=z]
+'134':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 74
+    z: 68
+  data: minecraft:spruce_log[axis=z]
+'135':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 74
+    z: 69
+  data: minecraft:spruce_log[axis=z]
+'136':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 74
+    z: 70
+  data: minecraft:spruce_log[axis=z]
+'137':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 74
+    z: 71
+  data: minecraft:spruce_log[axis=z]
+'138':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 74
+    z: 72
+  data: minecraft:spruce_log[axis=z]
+'139':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 74
+    z: 73
+  data: minecraft:spruce_log[axis=y]
+'140':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 74
+    z: 74
+  data: minecraft:spruce_log[axis=z]
+'141':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 43
+    y: 75
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]
+'142':
+  type: STONE_BRICK_WALL
+  location:
+    x: 43
+    y: 75
+    z: 62
+  data: minecraft:stone_brick_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=none]
+'143':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 43
+    y: 75
+    z: 63
+  data: minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+'144':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 43
+    y: 75
+    z: 64
+  data: minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'145':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 43
+    y: 75
+    z: 65
+  data: minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'146':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 43
+    y: 75
+    z: 66
+  data: minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+'147':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 43
+    y: 75
+    z: 67
+  data: minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'148':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 43
+    y: 75
+    z: 68
+  data: minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+'149':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 43
+    y: 75
+    z: 69
+  data: minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'150':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 43
+    y: 75
+    z: 70
+  data: minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'151':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 43
+    y: 75
+    z: 71
+  data: minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+'152':
+  type: STONE_BRICK_WALL
+  location:
+    x: 43
+    y: 75
+    z: 72
+  data: minecraft:stone_brick_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=none]
+'153':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 43
+    y: 75
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]
+'154':
+  type: SPRUCE_FENCE
+  location:
+    x: 43
+    y: 76
+    z: 62
+  data: minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+'155':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 43
+    y: 76
+    z: 63
+  data: minecraft:spruce_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]
+'156':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 43
+    y: 76
+    z: 67
+  data: minecraft:spruce_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]
+'157':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 43
+    y: 76
+    z: 71
+  data: minecraft:spruce_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]
+'158':
+  type: SPRUCE_FENCE
+  location:
+    x: 43
+    y: 76
+    z: 72
+  data: minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+'159':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 43
+    y: 77
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]
+'160':
+  type: SPRUCE_FENCE
+  location:
+    x: 43
+    y: 77
+    z: 62
+  data: minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+'161':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 43
+    y: 77
+    z: 63
+  data: minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]
+'162':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 43
+    y: 77
+    z: 67
+  data: minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]
+'163':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 43
+    y: 77
+    z: 71
+  data: minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]
+'164':
+  type: SPRUCE_FENCE
+  location:
+    x: 43
+    y: 77
+    z: 72
+  data: minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+'165':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 43
+    y: 77
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]
+'166':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 43
+    y: 78
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]
+'167':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 78
+    z: 62
+  data: minecraft:spruce_log[axis=x]
+'168':
+  type: SPRUCE_SLAB
+  location:
+    x: 43
+    y: 78
+    z: 63
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'169':
+  type: SPRUCE_SLAB
+  location:
+    x: 43
+    y: 78
+    z: 64
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'170':
+  type: SPRUCE_SLAB
+  location:
+    x: 43
+    y: 78
+    z: 65
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'171':
+  type: SPRUCE_SLAB
+  location:
+    x: 43
+    y: 78
+    z: 66
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'172':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 43
+    y: 78
+    z: 67
+  data: minecraft:spruce_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]
+'173':
+  type: SPRUCE_SLAB
+  location:
+    x: 43
+    y: 78
+    z: 68
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'174':
+  type: SPRUCE_SLAB
+  location:
+    x: 43
+    y: 78
+    z: 69
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'175':
+  type: SPRUCE_SLAB
+  location:
+    x: 43
+    y: 78
+    z: 70
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'176':
+  type: SPRUCE_SLAB
+  location:
+    x: 43
+    y: 78
+    z: 71
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'177':
+  type: SPRUCE_LOG
+  location:
+    x: 43
+    y: 78
+    z: 72
+  data: minecraft:spruce_log[axis=x]
+'178':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 43
+    y: 78
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]
+'179':
+  type: STONE_BRICKS
+  location:
+    x: 43
+    y: 79
+    z: 61
+  data: minecraft:stone_bricks
+'180':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 79
+    z: 62
+  data: minecraft:spruce_planks
+'181':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 79
+    z: 63
+  data: minecraft:spruce_planks
+'182':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 79
+    z: 64
+  data: minecraft:spruce_planks
+'183':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 79
+    z: 65
+  data: minecraft:spruce_planks
+'184':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 79
+    z: 66
+  data: minecraft:spruce_planks
+'185':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 79
+    z: 67
+  data: minecraft:spruce_planks
+'186':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 79
+    z: 68
+  data: minecraft:spruce_planks
+'187':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 79
+    z: 69
+  data: minecraft:spruce_planks
+'188':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 79
+    z: 70
+  data: minecraft:spruce_planks
+'189':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 79
+    z: 71
+  data: minecraft:spruce_planks
+'190':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 79
+    z: 72
+  data: minecraft:spruce_planks
+'191':
+  type: STONE_BRICKS
+  location:
+    x: 43
+    y: 79
+    z: 73
+  data: minecraft:stone_bricks
+'192':
+  type: STONE_BRICKS
+  location:
+    x: 43
+    y: 80
+    z: 61
+  data: minecraft:stone_bricks
+'193':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 80
+    z: 62
+  data: minecraft:spruce_planks
+'194':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 80
+    z: 63
+  data: minecraft:spruce_planks
+'195':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 80
+    z: 64
+  data: minecraft:spruce_planks
+'196':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 80
+    z: 65
+  data: minecraft:spruce_planks
+'197':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 80
+    z: 66
+  data: minecraft:spruce_planks
+'198':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 80
+    z: 67
+  data: minecraft:spruce_planks
+'199':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 80
+    z: 68
+  data: minecraft:spruce_planks
+'200':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 80
+    z: 69
+  data: minecraft:spruce_planks
+'201':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 80
+    z: 70
+  data: minecraft:spruce_planks
+'202':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 80
+    z: 71
+  data: minecraft:spruce_planks
+'203':
+  type: SPRUCE_PLANKS
+  location:
+    x: 43
+    y: 80
+    z: 72
+  data: minecraft:spruce_planks
+'204':
+  type: STONE_BRICKS
+  location:
+    x: 43
+    y: 80
+    z: 73
+  data: minecraft:stone_bricks
+'205':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 43
+    y: 81
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'206':
+  type: SPRUCE_STAIRS
+  location:
+    x: 43
+    y: 81
+    z: 62
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'207':
+  type: SPRUCE_STAIRS
+  location:
+    x: 43
+    y: 81
+    z: 63
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'208':
+  type: SPRUCE_STAIRS
+  location:
+    x: 43
+    y: 81
+    z: 64
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'209':
+  type: SPRUCE_STAIRS
+  location:
+    x: 43
+    y: 81
+    z: 65
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'210':
+  type: SPRUCE_STAIRS
+  location:
+    x: 43
+    y: 81
+    z: 66
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'211':
+  type: SPRUCE_STAIRS
+  location:
+    x: 43
+    y: 81
+    z: 67
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'212':
+  type: SPRUCE_STAIRS
+  location:
+    x: 43
+    y: 81
+    z: 68
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'213':
+  type: SPRUCE_STAIRS
+  location:
+    x: 43
+    y: 81
+    z: 69
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'214':
+  type: SPRUCE_STAIRS
+  location:
+    x: 43
+    y: 81
+    z: 70
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'215':
+  type: SPRUCE_STAIRS
+  location:
+    x: 43
+    y: 81
+    z: 71
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'216':
+  type: SPRUCE_STAIRS
+  location:
+    x: 43
+    y: 81
+    z: 72
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'217':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 43
+    y: 81
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'218':
+  type: STONE_BRICKS
+  location:
+    x: 44
+    y: 70
+    z: 60
+  data: minecraft:stone_bricks
+'219':
+  type: STONE_BRICKS
+  location:
+    x: 44
+    y: 70
+    z: 61
+  data: minecraft:stone_bricks
+'220':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 70
+    z: 62
+  data: minecraft:spruce_planks
+'221':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 70
+    z: 63
+  data: minecraft:spruce_planks
+'222':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 70
+    z: 64
+  data: minecraft:spruce_planks
+'223':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 70
+    z: 65
+  data: minecraft:spruce_planks
+'224':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 70
+    z: 66
+  data: minecraft:spruce_planks
+'225':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 70
+    z: 67
+  data: minecraft:spruce_planks
+'226':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 70
+    z: 68
+  data: minecraft:spruce_planks
+'227':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 70
+    z: 69
+  data: minecraft:spruce_planks
+'228':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 70
+    z: 70
+  data: minecraft:spruce_planks
+'229':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 70
+    z: 71
+  data: minecraft:spruce_planks
+'230':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 70
+    z: 72
+  data: minecraft:spruce_planks
+'231':
+  type: DIRT
+  location:
+    x: 44
+    y: 70
+    z: 73
+  data: minecraft:dirt
+'232':
+  type: STONE_BRICKS
+  location:
+    x: 44
+    y: 70
+    z: 74
+  data: minecraft:stone_bricks
+'233':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 44
+    y: 71
+    z: 60
+  data: minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'234':
+  type: STONE_BRICKS
+  location:
+    x: 44
+    y: 71
+    z: 61
+  data: minecraft:stone_bricks
+'235':
+  type: STONE_BRICKS
+  location:
+    x: 44
+    y: 71
+    z: 73
+  data: minecraft:stone_bricks
+'236':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 44
+    y: 71
+    z: 74
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'237':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 44
+    y: 72
+    z: 60
+  data: minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]
+'238':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 72
+    z: 61
+  data: minecraft:spruce_planks
+'239':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 72
+    z: 73
+  data: minecraft:spruce_planks
+'240':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 44
+    y: 72
+    z: 74
+  data: minecraft:spruce_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]
+'241':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 44
+    y: 73
+    z: 60
+  data: minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]
+'242':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 73
+    z: 61
+  data: minecraft:spruce_planks
+'243':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 73
+    z: 73
+  data: minecraft:spruce_planks
+'244':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 44
+    y: 73
+    z: 74
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]
+'245':
+  type: SPRUCE_SLAB
+  location:
+    x: 44
+    y: 74
+    z: 60
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'246':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 74
+    z: 61
+  data: minecraft:spruce_log[axis=x]
+'247':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 74
+    z: 62
+  data: minecraft:spruce_planks
+'248':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 74
+    z: 63
+  data: minecraft:spruce_planks
+'249':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 74
+    z: 64
+  data: minecraft:spruce_planks
+'250':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 74
+    z: 65
+  data: minecraft:spruce_planks
+'251':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 74
+    z: 66
+  data: minecraft:spruce_planks
+'252':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 74
+    z: 67
+  data: minecraft:spruce_planks
+'253':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 74
+    z: 68
+  data: minecraft:spruce_planks
+'254':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 74
+    z: 69
+  data: minecraft:spruce_planks
+'255':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 74
+    z: 70
+  data: minecraft:spruce_planks
+'256':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 74
+    z: 71
+  data: minecraft:spruce_planks
+'257':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 74
+    z: 72
+  data: minecraft:spruce_planks
+'258':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 74
+    z: 73
+  data: minecraft:spruce_log[axis=x]
+'259':
+  type: SPRUCE_SLAB
+  location:
+    x: 44
+    y: 74
+    z: 74
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'260':
+  type: STONE_BRICK_WALL
+  location:
+    x: 44
+    y: 75
+    z: 61
+  data: minecraft:stone_brick_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=none]
+'261':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 75
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'262':
+  type: STONE_BRICKS
+  location:
+    x: 44
+    y: 75
+    z: 63
+  data: minecraft:stone_bricks
+'263':
+  type: STONE_BRICKS
+  location:
+    x: 44
+    y: 75
+    z: 64
+  data: minecraft:stone_bricks
+'264':
+  type: STONE_BRICKS
+  location:
+    x: 44
+    y: 75
+    z: 65
+  data: minecraft:stone_bricks
+'265':
+  type: STONE_BRICKS
+  location:
+    x: 44
+    y: 75
+    z: 66
+  data: minecraft:stone_bricks
+'266':
+  type: STONE_BRICKS
+  location:
+    x: 44
+    y: 75
+    z: 67
+  data: minecraft:stone_bricks
+'267':
+  type: STONE_BRICKS
+  location:
+    x: 44
+    y: 75
+    z: 68
+  data: minecraft:stone_bricks
+'268':
+  type: STONE_BRICKS
+  location:
+    x: 44
+    y: 75
+    z: 69
+  data: minecraft:stone_bricks
+'269':
+  type: STONE_BRICKS
+  location:
+    x: 44
+    y: 75
+    z: 70
+  data: minecraft:stone_bricks
+'270':
+  type: STONE_BRICKS
+  location:
+    x: 44
+    y: 75
+    z: 71
+  data: minecraft:stone_bricks
+'271':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 75
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'272':
+  type: STONE_BRICK_WALL
+  location:
+    x: 44
+    y: 75
+    z: 73
+  data: minecraft:stone_brick_wall[east=low,north=tall,south=none,up=true,waterlogged=false,west=none]
+'273':
+  type: SPRUCE_FENCE
+  location:
+    x: 44
+    y: 76
+    z: 61
+  data: minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+'274':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 76
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'275':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 76
+    z: 63
+  data: minecraft:spruce_planks
+'276':
+  type: GLASS_PANE
+  location:
+    x: 44
+    y: 76
+    z: 64
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'277':
+  type: GLASS_PANE
+  location:
+    x: 44
+    y: 76
+    z: 65
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'278':
+  type: GLASS_PANE
+  location:
+    x: 44
+    y: 76
+    z: 66
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'279':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 76
+    z: 67
+  data: minecraft:spruce_planks
+'280':
+  type: GLASS_PANE
+  location:
+    x: 44
+    y: 76
+    z: 68
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'281':
+  type: GLASS_PANE
+  location:
+    x: 44
+    y: 76
+    z: 69
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'282':
+  type: GLASS_PANE
+  location:
+    x: 44
+    y: 76
+    z: 70
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'283':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 76
+    z: 71
+  data: minecraft:spruce_planks
+'284':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 76
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'285':
+  type: SPRUCE_FENCE
+  location:
+    x: 44
+    y: 76
+    z: 73
+  data: minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+'286':
+  type: SPRUCE_FENCE
+  location:
+    x: 44
+    y: 77
+    z: 61
+  data: minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+'287':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 77
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'288':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 77
+    z: 63
+  data: minecraft:spruce_planks
+'289':
+  type: GLASS_PANE
+  location:
+    x: 44
+    y: 77
+    z: 64
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'290':
+  type: GLASS_PANE
+  location:
+    x: 44
+    y: 77
+    z: 65
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'291':
+  type: GLASS_PANE
+  location:
+    x: 44
+    y: 77
+    z: 66
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'292':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 77
+    z: 67
+  data: minecraft:spruce_planks
+'293':
+  type: GLASS_PANE
+  location:
+    x: 44
+    y: 77
+    z: 68
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'294':
+  type: GLASS_PANE
+  location:
+    x: 44
+    y: 77
+    z: 69
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'295':
+  type: GLASS_PANE
+  location:
+    x: 44
+    y: 77
+    z: 70
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'296':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 77
+    z: 71
+  data: minecraft:spruce_planks
+'297':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 77
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'298':
+  type: SPRUCE_FENCE
+  location:
+    x: 44
+    y: 77
+    z: 73
+  data: minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+'299':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 78
+    z: 61
+  data: minecraft:spruce_log[axis=z]
+'300':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 78
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'301':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 78
+    z: 63
+  data: minecraft:spruce_log[axis=z]
+'302':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 78
+    z: 64
+  data: minecraft:spruce_log[axis=z]
+'303':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 78
+    z: 65
+  data: minecraft:spruce_log[axis=z]
+'304':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 78
+    z: 66
+  data: minecraft:spruce_log[axis=z]
+'305':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 78
+    z: 67
+  data: minecraft:spruce_log[axis=z]
+'306':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 78
+    z: 68
+  data: minecraft:spruce_log[axis=z]
+'307':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 78
+    z: 69
+  data: minecraft:spruce_log[axis=z]
+'308':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 78
+    z: 70
+  data: minecraft:spruce_log[axis=z]
+'309':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 78
+    z: 71
+  data: minecraft:spruce_log[axis=z]
+'310':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 78
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'311':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 78
+    z: 73
+  data: minecraft:spruce_log[axis=z]
+'312':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 79
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'313':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 79
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'314':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 80
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'315':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 80
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'316':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 44
+    y: 81
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'317':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 81
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'318':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 81
+    z: 63
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'319':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 81
+    z: 64
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'320':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 81
+    z: 65
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'321':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 81
+    z: 66
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'322':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 81
+    z: 67
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'323':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 81
+    z: 68
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'324':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 81
+    z: 69
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'325':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 81
+    z: 70
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'326':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 81
+    z: 71
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'327':
+  type: SPRUCE_LOG
+  location:
+    x: 44
+    y: 81
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'328':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 44
+    y: 81
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'329':
+  type: STONE_BRICKS
+  location:
+    x: 44
+    y: 82
+    z: 61
+  data: minecraft:stone_bricks
+'330':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 82
+    z: 62
+  data: minecraft:spruce_planks
+'331':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 82
+    z: 63
+  data: minecraft:spruce_planks
+'332':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 82
+    z: 64
+  data: minecraft:spruce_planks
+'333':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 82
+    z: 65
+  data: minecraft:spruce_planks
+'334':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 82
+    z: 66
+  data: minecraft:spruce_planks
+'335':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 82
+    z: 67
+  data: minecraft:spruce_planks
+'336':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 82
+    z: 68
+  data: minecraft:spruce_planks
+'337':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 82
+    z: 69
+  data: minecraft:spruce_planks
+'338':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 82
+    z: 70
+  data: minecraft:spruce_planks
+'339':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 82
+    z: 71
+  data: minecraft:spruce_planks
+'340':
+  type: SPRUCE_PLANKS
+  location:
+    x: 44
+    y: 82
+    z: 72
+  data: minecraft:spruce_planks
+'341':
+  type: STONE_BRICKS
+  location:
+    x: 44
+    y: 82
+    z: 73
+  data: minecraft:stone_bricks
+'342':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 44
+    y: 83
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'343':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 83
+    z: 62
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'344':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 83
+    z: 63
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'345':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 83
+    z: 64
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'346':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 83
+    z: 65
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'347':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 83
+    z: 66
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'348':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 83
+    z: 67
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'349':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 83
+    z: 68
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'350':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 83
+    z: 69
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'351':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 83
+    z: 70
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'352':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 83
+    z: 71
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'353':
+  type: SPRUCE_STAIRS
+  location:
+    x: 44
+    y: 83
+    z: 72
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'354':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 44
+    y: 83
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'355':
+  type: STONE_BRICKS
+  location:
+    x: 45
+    y: 70
+    z: 60
+  data: minecraft:stone_bricks
+'356':
+  type: STONE_BRICKS
+  location:
+    x: 45
+    y: 70
+    z: 61
+  data: minecraft:stone_bricks
+'357':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 70
+    z: 62
+  data: minecraft:spruce_planks
+'358':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 70
+    z: 63
+  data: minecraft:spruce_planks
+'359':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 70
+    z: 64
+  data: minecraft:spruce_planks
+'360':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 70
+    z: 65
+  data: minecraft:spruce_planks
+'361':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 70
+    z: 66
+  data: minecraft:spruce_planks
+'362':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 70
+    z: 67
+  data: minecraft:spruce_planks
+'363':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 70
+    z: 68
+  data: minecraft:spruce_planks
+'364':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 70
+    z: 69
+  data: minecraft:spruce_planks
+'365':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 70
+    z: 70
+  data: minecraft:spruce_planks
+'366':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 70
+    z: 71
+  data: minecraft:spruce_planks
+'367':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 70
+    z: 72
+  data: minecraft:spruce_planks
+'368':
+  type: DIRT
+  location:
+    x: 45
+    y: 70
+    z: 73
+  data: minecraft:dirt
+'369':
+  type: STONE_BRICKS
+  location:
+    x: 45
+    y: 70
+    z: 74
+  data: minecraft:stone_bricks
+'370':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 45
+    y: 71
+    z: 60
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'371':
+  type: STONE_BRICKS
+  location:
+    x: 45
+    y: 71
+    z: 61
+  data: minecraft:stone_bricks
+'372':
+  type: STONE_BRICKS
+  location:
+    x: 45
+    y: 71
+    z: 73
+  data: minecraft:stone_bricks
+'373':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 45
+    y: 71
+    z: 74
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'374':
+  type: GLASS_PANE
+  location:
+    x: 45
+    y: 72
+    z: 61
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'375':
+  type: GLASS_PANE
+  location:
+    x: 45
+    y: 72
+    z: 73
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'376':
+  type: GLASS_PANE
+  location:
+    x: 45
+    y: 73
+    z: 61
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'377':
+  type: GLASS_PANE
+  location:
+    x: 45
+    y: 73
+    z: 73
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'378':
+  type: SPRUCE_SLAB
+  location:
+    x: 45
+    y: 74
+    z: 60
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'379':
+  type: SPRUCE_LOG
+  location:
+    x: 45
+    y: 74
+    z: 61
+  data: minecraft:spruce_log[axis=x]
+'380':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 74
+    z: 62
+  data: minecraft:spruce_planks
+'381':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 74
+    z: 63
+  data: minecraft:spruce_planks
+'382':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 74
+    z: 64
+  data: minecraft:spruce_planks
+'383':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 74
+    z: 65
+  data: minecraft:spruce_planks
+'384':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 74
+    z: 66
+  data: minecraft:spruce_planks
+'385':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 74
+    z: 67
+  data: minecraft:spruce_planks
+'386':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 74
+    z: 68
+  data: minecraft:spruce_planks
+'387':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 74
+    z: 69
+  data: minecraft:spruce_planks
+'388':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 74
+    z: 70
+  data: minecraft:spruce_planks
+'389':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 74
+    z: 71
+  data: minecraft:spruce_planks
+'390':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 74
+    z: 72
+  data: minecraft:spruce_planks
+'391':
+  type: SPRUCE_LOG
+  location:
+    x: 45
+    y: 74
+    z: 73
+  data: minecraft:spruce_log[axis=x]
+'392':
+  type: SPRUCE_SLAB
+  location:
+    x: 45
+    y: 74
+    z: 74
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'393':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 45
+    y: 75
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'394':
+  type: STONE_BRICKS
+  location:
+    x: 45
+    y: 75
+    z: 62
+  data: minecraft:stone_bricks
+'395':
+  type: STONE_BRICKS
+  location:
+    x: 45
+    y: 75
+    z: 72
+  data: minecraft:stone_bricks
+'396':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 45
+    y: 75
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'397':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 45
+    y: 76
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]
+'398':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 76
+    z: 62
+  data: minecraft:spruce_planks
+'399':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 76
+    z: 72
+  data: minecraft:spruce_planks
+'400':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 45
+    y: 76
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]
+'401':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 45
+    y: 77
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]
+'402':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 77
+    z: 62
+  data: minecraft:spruce_planks
+'403':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 77
+    z: 72
+  data: minecraft:spruce_planks
+'404':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 45
+    y: 77
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]
+'405':
+  type: SPRUCE_SLAB
+  location:
+    x: 45
+    y: 78
+    z: 61
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'406':
+  type: SPRUCE_LOG
+  location:
+    x: 45
+    y: 78
+    z: 62
+  data: minecraft:spruce_log[axis=x]
+'407':
+  type: SPRUCE_LOG
+  location:
+    x: 45
+    y: 78
+    z: 72
+  data: minecraft:spruce_log[axis=x]
+'408':
+  type: SPRUCE_SLAB
+  location:
+    x: 45
+    y: 78
+    z: 73
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'409':
+  type: STONE_BRICKS
+  location:
+    x: 45
+    y: 79
+    z: 62
+  data: minecraft:stone_bricks
+'410':
+  type: STONE_BRICKS
+  location:
+    x: 45
+    y: 79
+    z: 72
+  data: minecraft:stone_bricks
+'411':
+  type: STONE_BRICKS
+  location:
+    x: 45
+    y: 80
+    z: 62
+  data: minecraft:stone_bricks
+'412':
+  type: STONE_BRICKS
+  location:
+    x: 45
+    y: 80
+    z: 72
+  data: minecraft:stone_bricks
+'413':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 81
+    z: 62
+  data: minecraft:spruce_planks
+'414':
+  type: SPRUCE_PLANKS
+  location:
+    x: 45
+    y: 81
+    z: 72
+  data: minecraft:spruce_planks
+'415':
+  type: SPRUCE_LOG
+  location:
+    x: 45
+    y: 82
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'416':
+  type: SPRUCE_LOG
+  location:
+    x: 45
+    y: 82
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'417':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 45
+    y: 83
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'418':
+  type: SPRUCE_LOG
+  location:
+    x: 45
+    y: 83
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'419':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 83
+    z: 63
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'420':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 83
+    z: 64
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'421':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 83
+    z: 65
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'422':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 83
+    z: 66
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'423':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 83
+    z: 67
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'424':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 83
+    z: 68
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'425':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 83
+    z: 69
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'426':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 83
+    z: 70
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'427':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 83
+    z: 71
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'428':
+  type: SPRUCE_LOG
+  location:
+    x: 45
+    y: 83
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'429':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 45
+    y: 83
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'430':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 45
+    y: 84
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'431':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 84
+    z: 62
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'432':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 84
+    z: 63
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'433':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 84
+    z: 64
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'434':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 84
+    z: 65
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'435':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 84
+    z: 66
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'436':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 84
+    z: 67
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'437':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 84
+    z: 68
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'438':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 84
+    z: 69
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'439':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 84
+    z: 70
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'440':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 84
+    z: 71
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'441':
+  type: SPRUCE_STAIRS
+  location:
+    x: 45
+    y: 84
+    z: 72
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'442':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 45
+    y: 84
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'443':
+  type: STONE_BRICKS
+  location:
+    x: 46
+    y: 70
+    z: 60
+  data: minecraft:stone_bricks
+'444':
+  type: STONE_BRICKS
+  location:
+    x: 46
+    y: 70
+    z: 61
+  data: minecraft:stone_bricks
+'445':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 70
+    z: 62
+  data: minecraft:spruce_planks
+'446':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 70
+    z: 63
+  data: minecraft:spruce_planks
+'447':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 70
+    z: 64
+  data: minecraft:spruce_planks
+'448':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 70
+    z: 65
+  data: minecraft:spruce_planks
+'449':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 70
+    z: 66
+  data: minecraft:spruce_planks
+'450':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 70
+    z: 67
+  data: minecraft:spruce_planks
+'451':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 70
+    z: 68
+  data: minecraft:spruce_planks
+'452':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 70
+    z: 69
+  data: minecraft:spruce_planks
+'453':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 70
+    z: 70
+  data: minecraft:spruce_planks
+'454':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 70
+    z: 71
+  data: minecraft:spruce_planks
+'455':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 70
+    z: 72
+  data: minecraft:spruce_planks
+'456':
+  type: DIRT
+  location:
+    x: 46
+    y: 70
+    z: 73
+  data: minecraft:dirt
+'457':
+  type: STONE_BRICKS
+  location:
+    x: 46
+    y: 70
+    z: 74
+  data: minecraft:stone_bricks
+'458':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 46
+    y: 71
+    z: 60
+  data: minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+'459':
+  type: STONE_BRICKS
+  location:
+    x: 46
+    y: 71
+    z: 61
+  data: minecraft:stone_bricks
+'460':
+  type: STONE_BRICKS
+  location:
+    x: 46
+    y: 71
+    z: 73
+  data: minecraft:stone_bricks
+'461':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 46
+    y: 71
+    z: 74
+  data: minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'462':
+  type: GLASS_PANE
+  location:
+    x: 46
+    y: 72
+    z: 61
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'463':
+  type: GLASS_PANE
+  location:
+    x: 46
+    y: 72
+    z: 73
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'464':
+  type: GLASS_PANE
+  location:
+    x: 46
+    y: 73
+    z: 61
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'465':
+  type: GLASS_PANE
+  location:
+    x: 46
+    y: 73
+    z: 73
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'466':
+  type: SPRUCE_SLAB
+  location:
+    x: 46
+    y: 74
+    z: 60
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'467':
+  type: SPRUCE_LOG
+  location:
+    x: 46
+    y: 74
+    z: 61
+  data: minecraft:spruce_log[axis=x]
+'468':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 74
+    z: 62
+  data: minecraft:spruce_planks
+'469':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 74
+    z: 63
+  data: minecraft:spruce_planks
+'470':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 74
+    z: 64
+  data: minecraft:spruce_planks
+'471':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 74
+    z: 65
+  data: minecraft:spruce_planks
+'472':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 74
+    z: 66
+  data: minecraft:spruce_planks
+'473':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 74
+    z: 67
+  data: minecraft:spruce_planks
+'474':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 74
+    z: 68
+  data: minecraft:spruce_planks
+'475':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 74
+    z: 69
+  data: minecraft:spruce_planks
+'476':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 74
+    z: 70
+  data: minecraft:spruce_planks
+'477':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 74
+    z: 71
+  data: minecraft:spruce_planks
+'478':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 74
+    z: 72
+  data: minecraft:spruce_planks
+'479':
+  type: SPRUCE_LOG
+  location:
+    x: 46
+    y: 74
+    z: 73
+  data: minecraft:spruce_log[axis=x]
+'480':
+  type: SPRUCE_SLAB
+  location:
+    x: 46
+    y: 74
+    z: 74
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'481':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 46
+    y: 75
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'482':
+  type: STONE_BRICKS
+  location:
+    x: 46
+    y: 75
+    z: 62
+  data: minecraft:stone_bricks
+'483':
+  type: STONE_BRICKS
+  location:
+    x: 46
+    y: 75
+    z: 72
+  data: minecraft:stone_bricks
+'484':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 46
+    y: 75
+    z: 73
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'485':
+  type: GLASS_PANE
+  location:
+    x: 46
+    y: 76
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'486':
+  type: GLASS_PANE
+  location:
+    x: 46
+    y: 76
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'487':
+  type: GLASS_PANE
+  location:
+    x: 46
+    y: 77
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'488':
+  type: GLASS_PANE
+  location:
+    x: 46
+    y: 77
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'489':
+  type: SPRUCE_SLAB
+  location:
+    x: 46
+    y: 78
+    z: 61
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'490':
+  type: SPRUCE_LOG
+  location:
+    x: 46
+    y: 78
+    z: 62
+  data: minecraft:spruce_log[axis=x]
+'491':
+  type: SPRUCE_LOG
+  location:
+    x: 46
+    y: 78
+    z: 72
+  data: minecraft:spruce_log[axis=x]
+'492':
+  type: SPRUCE_SLAB
+  location:
+    x: 46
+    y: 78
+    z: 73
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'493':
+  type: STONE_BRICKS
+  location:
+    x: 46
+    y: 79
+    z: 62
+  data: minecraft:stone_bricks
+'494':
+  type: STONE_BRICKS
+  location:
+    x: 46
+    y: 79
+    z: 72
+  data: minecraft:stone_bricks
+'495':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 46
+    y: 80
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]
+'496':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 80
+    z: 62
+  data: minecraft:spruce_planks
+'497':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 80
+    z: 72
+  data: minecraft:spruce_planks
+'498':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 46
+    y: 80
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]
+'499':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 46
+    y: 81
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]
+'500':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 81
+    z: 62
+  data: minecraft:spruce_planks
+'501':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 81
+    z: 72
+  data: minecraft:spruce_planks
+'502':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 46
+    y: 81
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]
+'503':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 46
+    y: 82
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]
+'504':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 82
+    z: 62
+  data: minecraft:spruce_planks
+'505':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 82
+    z: 72
+  data: minecraft:spruce_planks
+'506':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 46
+    y: 82
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]
+'507':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 46
+    y: 83
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]
+'508':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 83
+    z: 62
+  data: minecraft:spruce_planks
+'509':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 83
+    z: 72
+  data: minecraft:spruce_planks
+'510':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 46
+    y: 83
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]
+'511':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 46
+    y: 84
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'512':
+  type: SPRUCE_LOG
+  location:
+    x: 46
+    y: 84
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'513':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 84
+    z: 63
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'514':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 84
+    z: 64
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'515':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 84
+    z: 65
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'516':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 84
+    z: 66
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'517':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 84
+    z: 67
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'518':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 84
+    z: 68
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'519':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 84
+    z: 69
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'520':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 84
+    z: 70
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'521':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 84
+    z: 71
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'522':
+  type: SPRUCE_LOG
+  location:
+    x: 46
+    y: 84
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'523':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 46
+    y: 84
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'524':
+  type: STONE_BRICKS
+  location:
+    x: 46
+    y: 85
+    z: 61
+  data: minecraft:stone_bricks
+'525':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 85
+    z: 62
+  data: minecraft:spruce_planks
+'526':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 85
+    z: 63
+  data: minecraft:spruce_planks
+'527':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 85
+    z: 64
+  data: minecraft:spruce_planks
+'528':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 85
+    z: 65
+  data: minecraft:spruce_planks
+'529':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 85
+    z: 66
+  data: minecraft:spruce_planks
+'530':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 85
+    z: 67
+  data: minecraft:spruce_planks
+'531':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 85
+    z: 68
+  data: minecraft:spruce_planks
+'532':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 85
+    z: 69
+  data: minecraft:spruce_planks
+'533':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 85
+    z: 70
+  data: minecraft:spruce_planks
+'534':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 85
+    z: 71
+  data: minecraft:spruce_planks
+'535':
+  type: SPRUCE_PLANKS
+  location:
+    x: 46
+    y: 85
+    z: 72
+  data: minecraft:spruce_planks
+'536':
+  type: STONE_BRICKS
+  location:
+    x: 46
+    y: 85
+    z: 73
+  data: minecraft:stone_bricks
+'537':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 46
+    y: 86
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'538':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 86
+    z: 62
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'539':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 86
+    z: 63
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'540':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 86
+    z: 64
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'541':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 86
+    z: 65
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'542':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 86
+    z: 66
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'543':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 86
+    z: 67
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'544':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 86
+    z: 68
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'545':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 86
+    z: 69
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'546':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 86
+    z: 70
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'547':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 86
+    z: 71
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'548':
+  type: SPRUCE_STAIRS
+  location:
+    x: 46
+    y: 86
+    z: 72
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'549':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 46
+    y: 86
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'550':
+  type: STONE_BRICKS
+  location:
+    x: 47
+    y: 70
+    z: 60
+  data: minecraft:stone_bricks
+'551':
+  type: DIRT
+  location:
+    x: 47
+    y: 70
+    z: 61
+  data: minecraft:dirt
+'552':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 70
+    z: 62
+  data: minecraft:spruce_planks
+'553':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 70
+    z: 63
+  data: minecraft:spruce_planks
+'554':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 70
+    z: 64
+  data: minecraft:spruce_planks
+'555':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 70
+    z: 65
+  data: minecraft:spruce_planks
+'556':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 70
+    z: 66
+  data: minecraft:spruce_planks
+'557':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 70
+    z: 67
+  data: minecraft:spruce_planks
+'558':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 70
+    z: 68
+  data: minecraft:spruce_planks
+'559':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 70
+    z: 69
+  data: minecraft:spruce_planks
+'560':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 70
+    z: 70
+  data: minecraft:spruce_planks
+'561':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 70
+    z: 71
+  data: minecraft:spruce_planks
+'562':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 70
+    z: 72
+  data: minecraft:spruce_planks
+'563':
+  type: DIRT
+  location:
+    x: 47
+    y: 70
+    z: 73
+  data: minecraft:dirt
+'564':
+  type: STONE_BRICKS
+  location:
+    x: 47
+    y: 70
+    z: 74
+  data: minecraft:stone_bricks
+'565':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 47
+    y: 71
+    z: 60
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'566':
+  type: STONE_BRICKS
+  location:
+    x: 47
+    y: 71
+    z: 61
+  data: minecraft:stone_bricks
+'567':
+  type: STONE_BRICKS
+  location:
+    x: 47
+    y: 71
+    z: 73
+  data: minecraft:stone_bricks
+'568':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 47
+    y: 71
+    z: 74
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'569':
+  type: GLASS_PANE
+  location:
+    x: 47
+    y: 72
+    z: 61
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'570':
+  type: GLASS_PANE
+  location:
+    x: 47
+    y: 72
+    z: 73
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'571':
+  type: GLASS_PANE
+  location:
+    x: 47
+    y: 73
+    z: 61
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'572':
+  type: GLASS_PANE
+  location:
+    x: 47
+    y: 73
+    z: 73
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'573':
+  type: SPRUCE_SLAB
+  location:
+    x: 47
+    y: 74
+    z: 60
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'574':
+  type: SPRUCE_LOG
+  location:
+    x: 47
+    y: 74
+    z: 61
+  data: minecraft:spruce_log[axis=x]
+'575':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 74
+    z: 62
+  data: minecraft:spruce_planks
+'576':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 74
+    z: 63
+  data: minecraft:spruce_planks
+'577':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 74
+    z: 64
+  data: minecraft:spruce_planks
+'578':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 74
+    z: 65
+  data: minecraft:spruce_planks
+'579':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 74
+    z: 66
+  data: minecraft:spruce_planks
+'580':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 74
+    z: 67
+  data: minecraft:spruce_planks
+'581':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 74
+    z: 68
+  data: minecraft:spruce_planks
+'582':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 74
+    z: 69
+  data: minecraft:spruce_planks
+'583':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 74
+    z: 70
+  data: minecraft:spruce_planks
+'584':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 74
+    z: 71
+  data: minecraft:spruce_planks
+'585':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 74
+    z: 72
+  data: minecraft:spruce_planks
+'586':
+  type: SPRUCE_LOG
+  location:
+    x: 47
+    y: 74
+    z: 73
+  data: minecraft:spruce_log[axis=x]
+'587':
+  type: SPRUCE_SLAB
+  location:
+    x: 47
+    y: 74
+    z: 74
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'588':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 47
+    y: 75
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'589':
+  type: STONE_BRICKS
+  location:
+    x: 47
+    y: 75
+    z: 62
+  data: minecraft:stone_bricks
+'590':
+  type: STONE_BRICKS
+  location:
+    x: 47
+    y: 75
+    z: 72
+  data: minecraft:stone_bricks
+'591':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 47
+    y: 75
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'592':
+  type: GLASS_PANE
+  location:
+    x: 47
+    y: 76
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'593':
+  type: GLASS_PANE
+  location:
+    x: 47
+    y: 76
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'594':
+  type: GLASS_PANE
+  location:
+    x: 47
+    y: 77
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'595':
+  type: GLASS_PANE
+  location:
+    x: 47
+    y: 77
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'596':
+  type: SPRUCE_SLAB
+  location:
+    x: 47
+    y: 78
+    z: 61
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'597':
+  type: SPRUCE_LOG
+  location:
+    x: 47
+    y: 78
+    z: 62
+  data: minecraft:spruce_log[axis=x]
+'598':
+  type: SPRUCE_LOG
+  location:
+    x: 47
+    y: 78
+    z: 72
+  data: minecraft:spruce_log[axis=x]
+'599':
+  type: SPRUCE_SLAB
+  location:
+    x: 47
+    y: 78
+    z: 73
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'600':
+  type: STONE_BRICKS
+  location:
+    x: 47
+    y: 79
+    z: 62
+  data: minecraft:stone_bricks
+'601':
+  type: STONE_BRICKS
+  location:
+    x: 47
+    y: 79
+    z: 72
+  data: minecraft:stone_bricks
+'602':
+  type: GLASS_PANE
+  location:
+    x: 47
+    y: 80
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'603':
+  type: GLASS_PANE
+  location:
+    x: 47
+    y: 80
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'604':
+  type: GLASS_PANE
+  location:
+    x: 47
+    y: 81
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'605':
+  type: GLASS_PANE
+  location:
+    x: 47
+    y: 81
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'606':
+  type: GLASS_PANE
+  location:
+    x: 47
+    y: 82
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'607':
+  type: GLASS_PANE
+  location:
+    x: 47
+    y: 82
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'608':
+  type: GLASS_PANE
+  location:
+    x: 47
+    y: 83
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'609':
+  type: GLASS_PANE
+  location:
+    x: 47
+    y: 83
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'610':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 47
+    y: 84
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]
+'611':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 84
+    z: 62
+  data: minecraft:spruce_planks
+'612':
+  type: SPRUCE_PLANKS
+  location:
+    x: 47
+    y: 84
+    z: 72
+  data: minecraft:spruce_planks
+'613':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 47
+    y: 84
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]
+'614':
+  type: SPRUCE_LOG
+  location:
+    x: 47
+    y: 85
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'615':
+  type: SPRUCE_LOG
+  location:
+    x: 47
+    y: 85
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'616':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 47
+    y: 86
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'617':
+  type: SPRUCE_LOG
+  location:
+    x: 47
+    y: 86
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'618':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 86
+    z: 63
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'619':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 86
+    z: 64
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'620':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 86
+    z: 65
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'621':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 86
+    z: 66
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'622':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 86
+    z: 67
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'623':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 86
+    z: 68
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'624':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 86
+    z: 69
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'625':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 86
+    z: 70
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'626':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 86
+    z: 71
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'627':
+  type: SPRUCE_LOG
+  location:
+    x: 47
+    y: 86
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'628':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 47
+    y: 86
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'629':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 47
+    y: 87
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'630':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 87
+    z: 62
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'631':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 87
+    z: 63
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'632':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 87
+    z: 64
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'633':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 87
+    z: 65
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'634':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 87
+    z: 66
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'635':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 87
+    z: 67
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'636':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 87
+    z: 68
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'637':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 87
+    z: 69
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'638':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 87
+    z: 70
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'639':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 87
+    z: 71
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'640':
+  type: SPRUCE_STAIRS
+  location:
+    x: 47
+    y: 87
+    z: 72
+  data: minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'641':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 47
+    y: 87
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'642':
+  type: STONE_BRICKS
+  location:
+    x: 48
+    y: 70
+    z: 60
+  data: minecraft:stone_bricks
+'643':
+  type: DIRT
+  location:
+    x: 48
+    y: 70
+    z: 61
+  data: minecraft:dirt
+'644':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 70
+    z: 62
+  data: minecraft:spruce_planks
+'645':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 70
+    z: 63
+  data: minecraft:spruce_planks
+'646':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 70
+    z: 64
+  data: minecraft:spruce_planks
+'647':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 70
+    z: 65
+  data: minecraft:spruce_planks
+'648':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 70
+    z: 66
+  data: minecraft:spruce_planks
+'649':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 70
+    z: 67
+  data: minecraft:spruce_planks
+'650':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 70
+    z: 68
+  data: minecraft:spruce_planks
+'651':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 70
+    z: 69
+  data: minecraft:spruce_planks
+'652':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 70
+    z: 70
+  data: minecraft:spruce_planks
+'653':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 70
+    z: 71
+  data: minecraft:spruce_planks
+'654':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 70
+    z: 72
+  data: minecraft:spruce_planks
+'655':
+  type: DIRT
+  location:
+    x: 48
+    y: 70
+    z: 73
+  data: minecraft:dirt
+'656':
+  type: STONE_BRICKS
+  location:
+    x: 48
+    y: 70
+    z: 74
+  data: minecraft:stone_bricks
+'657':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 48
+    y: 71
+    z: 60
+  data: minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+'658':
+  type: STONE_BRICKS
+  location:
+    x: 48
+    y: 71
+    z: 61
+  data: minecraft:stone_bricks
+'659':
+  type: STONE_BRICKS
+  location:
+    x: 48
+    y: 71
+    z: 73
+  data: minecraft:stone_bricks
+'660':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 48
+    y: 71
+    z: 74
+  data: minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+'661':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 48
+    y: 72
+    z: 60
+  data: minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]
+'662':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 72
+    z: 61
+  data: minecraft:spruce_planks
+'663':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 72
+    z: 73
+  data: minecraft:spruce_planks
+'664':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 48
+    y: 72
+    z: 74
+  data: minecraft:spruce_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]
+'665':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 48
+    y: 73
+    z: 60
+  data: minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]
+'666':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 73
+    z: 61
+  data: minecraft:spruce_planks
+'667':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 73
+    z: 73
+  data: minecraft:spruce_planks
+'668':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 48
+    y: 73
+    z: 74
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]
+'669':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 48
+    y: 74
+    z: 60
+  data: minecraft:spruce_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]
+'670':
+  type: SPRUCE_LOG
+  location:
+    x: 48
+    y: 74
+    z: 61
+  data: minecraft:spruce_log[axis=x]
+'671':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 74
+    z: 62
+  data: minecraft:spruce_planks
+'672':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 74
+    z: 63
+  data: minecraft:spruce_planks
+'673':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 74
+    z: 64
+  data: minecraft:spruce_planks
+'674':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 74
+    z: 65
+  data: minecraft:spruce_planks
+'675':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 74
+    z: 66
+  data: minecraft:spruce_planks
+'676':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 74
+    z: 67
+  data: minecraft:spruce_planks
+'677':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 74
+    z: 68
+  data: minecraft:spruce_planks
+'678':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 74
+    z: 69
+  data: minecraft:spruce_planks
+'679':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 74
+    z: 70
+  data: minecraft:spruce_planks
+'680':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 74
+    z: 71
+  data: minecraft:spruce_planks
+'681':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 74
+    z: 72
+  data: minecraft:spruce_planks
+'682':
+  type: SPRUCE_LOG
+  location:
+    x: 48
+    y: 74
+    z: 73
+  data: minecraft:spruce_log[axis=x]
+'683':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 48
+    y: 74
+    z: 74
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]
+'684':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 48
+    y: 75
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+'685':
+  type: STONE_BRICKS
+  location:
+    x: 48
+    y: 75
+    z: 62
+  data: minecraft:stone_bricks
+'686':
+  type: STONE_BRICKS
+  location:
+    x: 48
+    y: 75
+    z: 72
+  data: minecraft:stone_bricks
+'687':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 48
+    y: 75
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+'688':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 48
+    y: 76
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]
+'689':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 76
+    z: 62
+  data: minecraft:spruce_planks
+'690':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 76
+    z: 72
+  data: minecraft:spruce_planks
+'691':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 48
+    y: 76
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]
+'692':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 48
+    y: 77
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]
+'693':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 77
+    z: 62
+  data: minecraft:spruce_planks
+'694':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 77
+    z: 72
+  data: minecraft:spruce_planks
+'695':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 48
+    y: 77
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]
+'696':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 48
+    y: 78
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]
+'697':
+  type: SPRUCE_LOG
+  location:
+    x: 48
+    y: 78
+    z: 62
+  data: minecraft:spruce_log[axis=x]
+'698':
+  type: SPRUCE_LOG
+  location:
+    x: 48
+    y: 78
+    z: 72
+  data: minecraft:spruce_log[axis=x]
+'699':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 48
+    y: 78
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]
+'700':
+  type: STONE_BRICKS
+  location:
+    x: 48
+    y: 79
+    z: 62
+  data: minecraft:stone_bricks
+'701':
+  type: STONE_BRICKS
+  location:
+    x: 48
+    y: 79
+    z: 72
+  data: minecraft:stone_bricks
+'702':
+  type: GLASS_PANE
+  location:
+    x: 48
+    y: 80
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'703':
+  type: GLASS_PANE
+  location:
+    x: 48
+    y: 80
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'704':
+  type: GLASS_PANE
+  location:
+    x: 48
+    y: 81
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'705':
+  type: GLASS_PANE
+  location:
+    x: 48
+    y: 81
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'706':
+  type: GLASS_PANE
+  location:
+    x: 48
+    y: 82
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'707':
+  type: GLASS_PANE
+  location:
+    x: 48
+    y: 82
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'708':
+  type: GLASS_PANE
+  location:
+    x: 48
+    y: 83
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'709':
+  type: GLASS_PANE
+  location:
+    x: 48
+    y: 83
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'710':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 48
+    y: 84
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]
+'711':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 84
+    z: 62
+  data: minecraft:spruce_planks
+'712':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 84
+    z: 72
+  data: minecraft:spruce_planks
+'713':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 48
+    y: 84
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]
+'714':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 48
+    y: 85
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]
+'715':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 85
+    z: 62
+  data: minecraft:spruce_planks
+'716':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 85
+    z: 72
+  data: minecraft:spruce_planks
+'717':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 48
+    y: 85
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]
+'718':
+  type: SPRUCE_SLAB
+  location:
+    x: 48
+    y: 86
+    z: 61
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'719':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 86
+    z: 62
+  data: minecraft:spruce_planks
+'720':
+  type: SPRUCE_PLANKS
+  location:
+    x: 48
+    y: 86
+    z: 72
+  data: minecraft:spruce_planks
+'721':
+  type: SPRUCE_SLAB
+  location:
+    x: 48
+    y: 86
+    z: 73
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'722':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 48
+    y: 87
+    z: 60
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'723':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 48
+    y: 87
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+'724':
+  type: SPRUCE_LOG
+  location:
+    x: 48
+    y: 87
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'725':
+  type: SPRUCE_STAIRS
+  location:
+    x: 48
+    y: 87
+    z: 63
+  data: minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+'726':
+  type: SPRUCE_SLAB
+  location:
+    x: 48
+    y: 87
+    z: 64
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'727':
+  type: SPRUCE_SLAB
+  location:
+    x: 48
+    y: 87
+    z: 65
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'728':
+  type: SPRUCE_SLAB
+  location:
+    x: 48
+    y: 87
+    z: 66
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'729':
+  type: SPRUCE_SLAB
+  location:
+    x: 48
+    y: 87
+    z: 67
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'730':
+  type: SPRUCE_SLAB
+  location:
+    x: 48
+    y: 87
+    z: 68
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'731':
+  type: SPRUCE_SLAB
+  location:
+    x: 48
+    y: 87
+    z: 69
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'732':
+  type: SPRUCE_SLAB
+  location:
+    x: 48
+    y: 87
+    z: 70
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'733':
+  type: SPRUCE_STAIRS
+  location:
+    x: 48
+    y: 87
+    z: 71
+  data: minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+'734':
+  type: SPRUCE_LOG
+  location:
+    x: 48
+    y: 87
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'735':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 48
+    y: 87
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+'736':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 48
+    y: 87
+    z: 74
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'737':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 48
+    y: 88
+    z: 61
+  data: minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+'738':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 48
+    y: 88
+    z: 62
+  data: minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+'739':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 48
+    y: 88
+    z: 63
+  data: minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+'740':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 48
+    y: 88
+    z: 64
+  data: minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+'741':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 48
+    y: 88
+    z: 65
+  data: minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+'742':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 48
+    y: 88
+    z: 66
+  data: minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+'743':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 48
+    y: 88
+    z: 67
+  data: minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+'744':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 48
+    y: 88
+    z: 68
+  data: minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+'745':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 48
+    y: 88
+    z: 69
+  data: minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+'746':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 48
+    y: 88
+    z: 70
+  data: minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+'747':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 48
+    y: 88
+    z: 71
+  data: minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+'748':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 48
+    y: 88
+    z: 72
+  data: minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+'749':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 48
+    y: 88
+    z: 73
+  data: minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+'750':
+  type: STONE_BRICKS
+  location:
+    x: 49
+    y: 70
+    z: 60
+  data: minecraft:stone_bricks
+'751':
+  type: DIRT
+  location:
+    x: 49
+    y: 70
+    z: 61
+  data: minecraft:dirt
+'752':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 70
+    z: 62
+  data: minecraft:spruce_planks
+'753':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 70
+    z: 63
+  data: minecraft:spruce_planks
+'754':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 70
+    z: 64
+  data: minecraft:spruce_planks
+'755':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 70
+    z: 65
+  data: minecraft:spruce_planks
+'756':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 70
+    z: 66
+  data: minecraft:spruce_planks
+'757':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 70
+    z: 67
+  data: minecraft:spruce_planks
+'758':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 70
+    z: 68
+  data: minecraft:spruce_planks
+'759':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 70
+    z: 69
+  data: minecraft:spruce_planks
+'760':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 70
+    z: 70
+  data: minecraft:spruce_planks
+'761':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 70
+    z: 71
+  data: minecraft:spruce_planks
+'762':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 70
+    z: 72
+  data: minecraft:spruce_planks
+'763':
+  type: DIRT
+  location:
+    x: 49
+    y: 70
+    z: 73
+  data: minecraft:dirt
+'764':
+  type: STONE_BRICKS
+  location:
+    x: 49
+    y: 70
+    z: 74
+  data: minecraft:stone_bricks
+'765':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 49
+    y: 71
+    z: 60
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'766':
+  type: STONE_BRICKS
+  location:
+    x: 49
+    y: 71
+    z: 61
+  data: minecraft:stone_bricks
+'767':
+  type: STONE_BRICKS
+  location:
+    x: 49
+    y: 71
+    z: 73
+  data: minecraft:stone_bricks
+'768':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 49
+    y: 71
+    z: 74
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'769':
+  type: GLASS_PANE
+  location:
+    x: 49
+    y: 72
+    z: 61
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'770':
+  type: GLASS_PANE
+  location:
+    x: 49
+    y: 72
+    z: 73
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'771':
+  type: GLASS_PANE
+  location:
+    x: 49
+    y: 73
+    z: 61
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'772':
+  type: GLASS_PANE
+  location:
+    x: 49
+    y: 73
+    z: 73
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'773':
+  type: SPRUCE_SLAB
+  location:
+    x: 49
+    y: 74
+    z: 60
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'774':
+  type: SPRUCE_LOG
+  location:
+    x: 49
+    y: 74
+    z: 61
+  data: minecraft:spruce_log[axis=x]
+'775':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 74
+    z: 62
+  data: minecraft:spruce_planks
+'776':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 74
+    z: 63
+  data: minecraft:spruce_planks
+'777':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 74
+    z: 64
+  data: minecraft:spruce_planks
+'778':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 74
+    z: 65
+  data: minecraft:spruce_planks
+'779':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 74
+    z: 66
+  data: minecraft:spruce_planks
+'780':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 74
+    z: 68
+  data: minecraft:spruce_planks
+'781':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 74
+    z: 69
+  data: minecraft:spruce_planks
+'782':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 74
+    z: 70
+  data: minecraft:spruce_planks
+'783':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 74
+    z: 71
+  data: minecraft:spruce_planks
+'784':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 74
+    z: 72
+  data: minecraft:spruce_planks
+'785':
+  type: SPRUCE_LOG
+  location:
+    x: 49
+    y: 74
+    z: 73
+  data: minecraft:spruce_log[axis=x]
+'786':
+  type: SPRUCE_SLAB
+  location:
+    x: 49
+    y: 74
+    z: 74
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'787':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 49
+    y: 75
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'788':
+  type: STONE_BRICKS
+  location:
+    x: 49
+    y: 75
+    z: 62
+  data: minecraft:stone_bricks
+'789':
+  type: STONE_BRICKS
+  location:
+    x: 49
+    y: 75
+    z: 72
+  data: minecraft:stone_bricks
+'790':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 49
+    y: 75
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'791':
+  type: GLASS_PANE
+  location:
+    x: 49
+    y: 76
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'792':
+  type: GLASS_PANE
+  location:
+    x: 49
+    y: 76
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'793':
+  type: GLASS_PANE
+  location:
+    x: 49
+    y: 77
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'794':
+  type: GLASS_PANE
+  location:
+    x: 49
+    y: 77
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'795':
+  type: SPRUCE_SLAB
+  location:
+    x: 49
+    y: 78
+    z: 61
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'796':
+  type: SPRUCE_LOG
+  location:
+    x: 49
+    y: 78
+    z: 62
+  data: minecraft:spruce_log[axis=x]
+'797':
+  type: SPRUCE_LOG
+  location:
+    x: 49
+    y: 78
+    z: 72
+  data: minecraft:spruce_log[axis=x]
+'798':
+  type: SPRUCE_SLAB
+  location:
+    x: 49
+    y: 78
+    z: 73
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'799':
+  type: STONE_BRICKS
+  location:
+    x: 49
+    y: 79
+    z: 62
+  data: minecraft:stone_bricks
+'800':
+  type: STONE_BRICKS
+  location:
+    x: 49
+    y: 79
+    z: 72
+  data: minecraft:stone_bricks
+'801':
+  type: GLASS_PANE
+  location:
+    x: 49
+    y: 80
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'802':
+  type: GLASS_PANE
+  location:
+    x: 49
+    y: 80
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'803':
+  type: GLASS_PANE
+  location:
+    x: 49
+    y: 81
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'804':
+  type: GLASS_PANE
+  location:
+    x: 49
+    y: 81
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'805':
+  type: GLASS_PANE
+  location:
+    x: 49
+    y: 82
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'806':
+  type: GLASS_PANE
+  location:
+    x: 49
+    y: 82
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'807':
+  type: GLASS_PANE
+  location:
+    x: 49
+    y: 83
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'808':
+  type: GLASS_PANE
+  location:
+    x: 49
+    y: 83
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'809':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 49
+    y: 84
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]
+'810':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 84
+    z: 62
+  data: minecraft:spruce_planks
+'811':
+  type: SPRUCE_PLANKS
+  location:
+    x: 49
+    y: 84
+    z: 72
+  data: minecraft:spruce_planks
+'812':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 49
+    y: 84
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]
+'813':
+  type: SPRUCE_LOG
+  location:
+    x: 49
+    y: 85
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'814':
+  type: SPRUCE_LOG
+  location:
+    x: 49
+    y: 85
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'815':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 49
+    y: 86
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'816':
+  type: SPRUCE_LOG
+  location:
+    x: 49
+    y: 86
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'817':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 86
+    z: 63
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'818':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 86
+    z: 64
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'819':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 86
+    z: 65
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'820':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 86
+    z: 66
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'821':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 86
+    z: 67
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'822':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 86
+    z: 68
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'823':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 86
+    z: 69
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'824':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 86
+    z: 70
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'825':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 86
+    z: 71
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'826':
+  type: SPRUCE_LOG
+  location:
+    x: 49
+    y: 86
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'827':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 49
+    y: 86
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'828':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 49
+    y: 87
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'829':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 87
+    z: 62
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'830':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 87
+    z: 63
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'831':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 87
+    z: 64
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'832':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 87
+    z: 65
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'833':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 87
+    z: 66
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'834':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 87
+    z: 67
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'835':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 87
+    z: 68
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'836':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 87
+    z: 69
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'837':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 87
+    z: 70
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'838':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 87
+    z: 71
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'839':
+  type: SPRUCE_STAIRS
+  location:
+    x: 49
+    y: 87
+    z: 72
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'840':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 49
+    y: 87
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'841':
+  type: STONE_BRICKS
+  location:
+    x: 50
+    y: 70
+    z: 60
+  data: minecraft:stone_bricks
+'842':
+  type: DIRT
+  location:
+    x: 50
+    y: 70
+    z: 61
+  data: minecraft:dirt
+'843':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 70
+    z: 62
+  data: minecraft:spruce_planks
+'844':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 70
+    z: 63
+  data: minecraft:spruce_planks
+'845':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 70
+    z: 64
+  data: minecraft:spruce_planks
+'846':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 70
+    z: 65
+  data: minecraft:spruce_planks
+'847':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 70
+    z: 66
+  data: minecraft:spruce_planks
+'848':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 70
+    z: 67
+  data: minecraft:spruce_planks
+'849':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 70
+    z: 68
+  data: minecraft:spruce_planks
+'850':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 70
+    z: 69
+  data: minecraft:spruce_planks
+'851':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 70
+    z: 70
+  data: minecraft:spruce_planks
+'852':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 70
+    z: 71
+  data: minecraft:spruce_planks
+'853':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 70
+    z: 72
+  data: minecraft:spruce_planks
+'854':
+  type: DIRT
+  location:
+    x: 50
+    y: 70
+    z: 73
+  data: minecraft:dirt
+'855':
+  type: STONE_BRICKS
+  location:
+    x: 50
+    y: 70
+    z: 74
+  data: minecraft:stone_bricks
+'856':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 50
+    y: 71
+    z: 60
+  data: minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+'857':
+  type: STONE_BRICKS
+  location:
+    x: 50
+    y: 71
+    z: 61
+  data: minecraft:stone_bricks
+'858':
+  type: STONE_BRICKS
+  location:
+    x: 50
+    y: 71
+    z: 73
+  data: minecraft:stone_bricks
+'859':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 50
+    y: 71
+    z: 74
+  data: minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'860':
+  type: GLASS_PANE
+  location:
+    x: 50
+    y: 72
+    z: 61
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'861':
+  type: GLASS_PANE
+  location:
+    x: 50
+    y: 72
+    z: 73
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'862':
+  type: GLASS_PANE
+  location:
+    x: 50
+    y: 73
+    z: 61
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'863':
+  type: GLASS_PANE
+  location:
+    x: 50
+    y: 73
+    z: 73
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'864':
+  type: SPRUCE_SLAB
+  location:
+    x: 50
+    y: 74
+    z: 60
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'865':
+  type: SPRUCE_LOG
+  location:
+    x: 50
+    y: 74
+    z: 61
+  data: minecraft:spruce_log[axis=x]
+'866':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 74
+    z: 62
+  data: minecraft:spruce_planks
+'867':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 74
+    z: 63
+  data: minecraft:spruce_planks
+'868':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 74
+    z: 64
+  data: minecraft:spruce_planks
+'869':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 74
+    z: 65
+  data: minecraft:spruce_planks
+'870':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 74
+    z: 66
+  data: minecraft:spruce_planks
+'871':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 74
+    z: 67
+  data: minecraft:spruce_planks
+'872':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 74
+    z: 68
+  data: minecraft:spruce_planks
+'873':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 74
+    z: 69
+  data: minecraft:spruce_planks
+'874':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 74
+    z: 70
+  data: minecraft:spruce_planks
+'875':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 74
+    z: 71
+  data: minecraft:spruce_planks
+'876':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 74
+    z: 72
+  data: minecraft:spruce_planks
+'877':
+  type: SPRUCE_LOG
+  location:
+    x: 50
+    y: 74
+    z: 73
+  data: minecraft:spruce_log[axis=x]
+'878':
+  type: SPRUCE_SLAB
+  location:
+    x: 50
+    y: 74
+    z: 74
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'879':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 50
+    y: 75
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'880':
+  type: STONE_BRICKS
+  location:
+    x: 50
+    y: 75
+    z: 62
+  data: minecraft:stone_bricks
+'881':
+  type: STONE_BRICKS
+  location:
+    x: 50
+    y: 75
+    z: 72
+  data: minecraft:stone_bricks
+'882':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 50
+    y: 75
+    z: 73
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'883':
+  type: GLASS_PANE
+  location:
+    x: 50
+    y: 76
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'884':
+  type: GLASS_PANE
+  location:
+    x: 50
+    y: 76
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'885':
+  type: GLASS_PANE
+  location:
+    x: 50
+    y: 77
+    z: 62
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'886':
+  type: GLASS_PANE
+  location:
+    x: 50
+    y: 77
+    z: 72
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'887':
+  type: SPRUCE_SLAB
+  location:
+    x: 50
+    y: 78
+    z: 61
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'888':
+  type: SPRUCE_LOG
+  location:
+    x: 50
+    y: 78
+    z: 62
+  data: minecraft:spruce_log[axis=x]
+'889':
+  type: SPRUCE_LOG
+  location:
+    x: 50
+    y: 78
+    z: 72
+  data: minecraft:spruce_log[axis=x]
+'890':
+  type: SPRUCE_SLAB
+  location:
+    x: 50
+    y: 78
+    z: 73
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'891':
+  type: STONE_BRICKS
+  location:
+    x: 50
+    y: 79
+    z: 62
+  data: minecraft:stone_bricks
+'892':
+  type: STONE_BRICKS
+  location:
+    x: 50
+    y: 79
+    z: 72
+  data: minecraft:stone_bricks
+'893':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 50
+    y: 80
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]
+'894':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 80
+    z: 62
+  data: minecraft:spruce_planks
+'895':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 80
+    z: 72
+  data: minecraft:spruce_planks
+'896':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 50
+    y: 80
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]
+'897':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 50
+    y: 81
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]
+'898':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 81
+    z: 62
+  data: minecraft:spruce_planks
+'899':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 81
+    z: 72
+  data: minecraft:spruce_planks
+'900':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 50
+    y: 81
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]
+'901':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 50
+    y: 82
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]
+'902':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 82
+    z: 62
+  data: minecraft:spruce_planks
+'903':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 82
+    z: 72
+  data: minecraft:spruce_planks
+'904':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 50
+    y: 82
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]
+'905':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 50
+    y: 83
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]
+'906':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 83
+    z: 62
+  data: minecraft:spruce_planks
+'907':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 83
+    z: 72
+  data: minecraft:spruce_planks
+'908':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 50
+    y: 83
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]
+'909':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 50
+    y: 84
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'910':
+  type: SPRUCE_LOG
+  location:
+    x: 50
+    y: 84
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'911':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 84
+    z: 63
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'912':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 84
+    z: 64
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'913':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 84
+    z: 65
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'914':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 84
+    z: 66
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'915':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 84
+    z: 67
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'916':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 84
+    z: 68
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'917':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 84
+    z: 69
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'918':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 84
+    z: 70
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'919':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 84
+    z: 71
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'920':
+  type: SPRUCE_LOG
+  location:
+    x: 50
+    y: 84
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'921':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 50
+    y: 84
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'922':
+  type: STONE_BRICKS
+  location:
+    x: 50
+    y: 85
+    z: 61
+  data: minecraft:stone_bricks
+'923':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 85
+    z: 62
+  data: minecraft:spruce_planks
+'924':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 85
+    z: 63
+  data: minecraft:spruce_planks
+'925':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 85
+    z: 64
+  data: minecraft:spruce_planks
+'926':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 85
+    z: 65
+  data: minecraft:spruce_planks
+'927':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 85
+    z: 66
+  data: minecraft:spruce_planks
+'928':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 85
+    z: 67
+  data: minecraft:spruce_planks
+'929':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 85
+    z: 68
+  data: minecraft:spruce_planks
+'930':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 85
+    z: 69
+  data: minecraft:spruce_planks
+'931':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 85
+    z: 70
+  data: minecraft:spruce_planks
+'932':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 85
+    z: 71
+  data: minecraft:spruce_planks
+'933':
+  type: SPRUCE_PLANKS
+  location:
+    x: 50
+    y: 85
+    z: 72
+  data: minecraft:spruce_planks
+'934':
+  type: STONE_BRICKS
+  location:
+    x: 50
+    y: 85
+    z: 73
+  data: minecraft:stone_bricks
+'935':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 50
+    y: 86
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'936':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 86
+    z: 62
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'937':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 86
+    z: 63
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'938':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 86
+    z: 64
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'939':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 86
+    z: 65
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'940':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 86
+    z: 66
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'941':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 86
+    z: 67
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'942':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 86
+    z: 68
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'943':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 86
+    z: 69
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'944':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 86
+    z: 70
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'945':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 86
+    z: 71
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'946':
+  type: SPRUCE_STAIRS
+  location:
+    x: 50
+    y: 86
+    z: 72
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'947':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 50
+    y: 86
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'948':
+  type: STONE_BRICKS
+  location:
+    x: 51
+    y: 70
+    z: 60
+  data: minecraft:stone_bricks
+'949':
+  type: DIRT
+  location:
+    x: 51
+    y: 70
+    z: 61
+  data: minecraft:dirt
+'950':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 70
+    z: 62
+  data: minecraft:spruce_planks
+'951':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 70
+    z: 63
+  data: minecraft:spruce_planks
+'952':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 70
+    z: 64
+  data: minecraft:spruce_planks
+'953':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 70
+    z: 65
+  data: minecraft:spruce_planks
+'954':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 70
+    z: 66
+  data: minecraft:spruce_planks
+'955':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 70
+    z: 67
+  data: minecraft:spruce_planks
+'956':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 70
+    z: 68
+  data: minecraft:spruce_planks
+'957':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 70
+    z: 69
+  data: minecraft:spruce_planks
+'958':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 70
+    z: 70
+  data: minecraft:spruce_planks
+'959':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 70
+    z: 71
+  data: minecraft:spruce_planks
+'960':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 70
+    z: 72
+  data: minecraft:spruce_planks
+'961':
+  type: DIRT
+  location:
+    x: 51
+    y: 70
+    z: 73
+  data: minecraft:dirt
+'962':
+  type: STONE_BRICKS
+  location:
+    x: 51
+    y: 70
+    z: 74
+  data: minecraft:stone_bricks
+'963':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 51
+    y: 71
+    z: 60
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'964':
+  type: STONE_BRICKS
+  location:
+    x: 51
+    y: 71
+    z: 61
+  data: minecraft:stone_bricks
+'965':
+  type: STONE_BRICKS
+  location:
+    x: 51
+    y: 71
+    z: 73
+  data: minecraft:stone_bricks
+'966':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 51
+    y: 71
+    z: 74
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'967':
+  type: GLASS_PANE
+  location:
+    x: 51
+    y: 72
+    z: 61
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'968':
+  type: GLASS_PANE
+  location:
+    x: 51
+    y: 72
+    z: 73
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'969':
+  type: GLASS_PANE
+  location:
+    x: 51
+    y: 73
+    z: 61
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'970':
+  type: GLASS_PANE
+  location:
+    x: 51
+    y: 73
+    z: 73
+  data: minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]
+'971':
+  type: SPRUCE_SLAB
+  location:
+    x: 51
+    y: 74
+    z: 60
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'972':
+  type: SPRUCE_LOG
+  location:
+    x: 51
+    y: 74
+    z: 61
+  data: minecraft:spruce_log[axis=x]
+'973':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 74
+    z: 62
+  data: minecraft:spruce_planks
+'974':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 74
+    z: 63
+  data: minecraft:spruce_planks
+'975':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 74
+    z: 64
+  data: minecraft:spruce_planks
+'976':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 74
+    z: 65
+  data: minecraft:spruce_planks
+'977':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 74
+    z: 66
+  data: minecraft:spruce_planks
+'978':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 74
+    z: 67
+  data: minecraft:spruce_planks
+'979':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 74
+    z: 68
+  data: minecraft:spruce_planks
+'980':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 74
+    z: 69
+  data: minecraft:spruce_planks
+'981':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 74
+    z: 70
+  data: minecraft:spruce_planks
+'982':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 74
+    z: 71
+  data: minecraft:spruce_planks
+'983':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 74
+    z: 72
+  data: minecraft:spruce_planks
+'984':
+  type: SPRUCE_LOG
+  location:
+    x: 51
+    y: 74
+    z: 73
+  data: minecraft:spruce_log[axis=x]
+'985':
+  type: SPRUCE_SLAB
+  location:
+    x: 51
+    y: 74
+    z: 74
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'986':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 51
+    y: 75
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'987':
+  type: STONE_BRICKS
+  location:
+    x: 51
+    y: 75
+    z: 62
+  data: minecraft:stone_bricks
+'988':
+  type: STONE_BRICKS
+  location:
+    x: 51
+    y: 75
+    z: 72
+  data: minecraft:stone_bricks
+'989':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 51
+    y: 75
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'990':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 51
+    y: 76
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]
+'991':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 76
+    z: 62
+  data: minecraft:spruce_planks
+'992':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 76
+    z: 72
+  data: minecraft:spruce_planks
+'993':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 51
+    y: 76
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]
+'994':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 51
+    y: 77
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]
+'995':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 77
+    z: 62
+  data: minecraft:spruce_planks
+'996':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 77
+    z: 72
+  data: minecraft:spruce_planks
+'997':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 51
+    y: 77
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]
+'998':
+  type: SPRUCE_SLAB
+  location:
+    x: 51
+    y: 78
+    z: 61
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'999':
+  type: SPRUCE_LOG
+  location:
+    x: 51
+    y: 78
+    z: 62
+  data: minecraft:spruce_log[axis=x]
+'1000':
+  type: SPRUCE_LOG
+  location:
+    x: 51
+    y: 78
+    z: 72
+  data: minecraft:spruce_log[axis=x]
+'1001':
+  type: SPRUCE_SLAB
+  location:
+    x: 51
+    y: 78
+    z: 73
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'1002':
+  type: STONE_BRICKS
+  location:
+    x: 51
+    y: 79
+    z: 62
+  data: minecraft:stone_bricks
+'1003':
+  type: STONE_BRICKS
+  location:
+    x: 51
+    y: 79
+    z: 72
+  data: minecraft:stone_bricks
+'1004':
+  type: STONE_BRICKS
+  location:
+    x: 51
+    y: 80
+    z: 62
+  data: minecraft:stone_bricks
+'1005':
+  type: STONE_BRICKS
+  location:
+    x: 51
+    y: 80
+    z: 72
+  data: minecraft:stone_bricks
+'1006':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 81
+    z: 62
+  data: minecraft:spruce_planks
+'1007':
+  type: SPRUCE_PLANKS
+  location:
+    x: 51
+    y: 81
+    z: 72
+  data: minecraft:spruce_planks
+'1008':
+  type: SPRUCE_LOG
+  location:
+    x: 51
+    y: 82
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'1009':
+  type: SPRUCE_LOG
+  location:
+    x: 51
+    y: 82
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'1010':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 51
+    y: 83
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1011':
+  type: SPRUCE_LOG
+  location:
+    x: 51
+    y: 83
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'1012':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 83
+    z: 63
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1013':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 83
+    z: 64
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1014':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 83
+    z: 65
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1015':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 83
+    z: 66
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1016':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 83
+    z: 67
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1017':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 83
+    z: 68
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1018':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 83
+    z: 69
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1019':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 83
+    z: 70
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1020':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 83
+    z: 71
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1021':
+  type: SPRUCE_LOG
+  location:
+    x: 51
+    y: 83
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'1022':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 51
+    y: 83
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1023':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 51
+    y: 84
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1024':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 84
+    z: 62
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1025':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 84
+    z: 63
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1026':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 84
+    z: 64
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1027':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 84
+    z: 65
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1028':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 84
+    z: 66
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1029':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 84
+    z: 67
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1030':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 84
+    z: 68
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1031':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 84
+    z: 69
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1032':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 84
+    z: 70
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1033':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 84
+    z: 71
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1034':
+  type: SPRUCE_STAIRS
+  location:
+    x: 51
+    y: 84
+    z: 72
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1035':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 51
+    y: 84
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1036':
+  type: STONE_BRICKS
+  location:
+    x: 52
+    y: 70
+    z: 60
+  data: minecraft:stone_bricks
+'1037':
+  type: DIRT
+  location:
+    x: 52
+    y: 70
+    z: 61
+  data: minecraft:dirt
+'1038':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 70
+    z: 62
+  data: minecraft:spruce_planks
+'1039':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 70
+    z: 63
+  data: minecraft:spruce_planks
+'1040':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 70
+    z: 64
+  data: minecraft:spruce_planks
+'1041':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 70
+    z: 65
+  data: minecraft:spruce_planks
+'1042':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 70
+    z: 66
+  data: minecraft:spruce_planks
+'1043':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 70
+    z: 67
+  data: minecraft:spruce_planks
+'1044':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 70
+    z: 68
+  data: minecraft:spruce_planks
+'1045':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 70
+    z: 69
+  data: minecraft:spruce_planks
+'1046':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 70
+    z: 70
+  data: minecraft:spruce_planks
+'1047':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 70
+    z: 71
+  data: minecraft:spruce_planks
+'1048':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 70
+    z: 72
+  data: minecraft:spruce_planks
+'1049':
+  type: DIRT
+  location:
+    x: 52
+    y: 70
+    z: 73
+  data: minecraft:dirt
+'1050':
+  type: STONE_BRICKS
+  location:
+    x: 52
+    y: 70
+    z: 74
+  data: minecraft:stone_bricks
+'1051':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 52
+    y: 71
+    z: 60
+  data: minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1052':
+  type: STONE_BRICKS
+  location:
+    x: 52
+    y: 71
+    z: 61
+  data: minecraft:stone_bricks
+'1053':
+  type: STONE_BRICKS
+  location:
+    x: 52
+    y: 71
+    z: 73
+  data: minecraft:stone_bricks
+'1054':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 52
+    y: 71
+    z: 74
+  data: minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+'1055':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 52
+    y: 72
+    z: 60
+  data: minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]
+'1056':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 72
+    z: 61
+  data: minecraft:spruce_planks
+'1057':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 72
+    z: 73
+  data: minecraft:spruce_planks
+'1058':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 52
+    y: 72
+    z: 74
+  data: minecraft:spruce_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]
+'1059':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 52
+    y: 73
+    z: 60
+  data: minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]
+'1060':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 73
+    z: 61
+  data: minecraft:spruce_planks
+'1061':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 73
+    z: 73
+  data: minecraft:spruce_planks
+'1062':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 52
+    y: 73
+    z: 74
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]
+'1063':
+  type: SPRUCE_SLAB
+  location:
+    x: 52
+    y: 74
+    z: 60
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'1064':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 74
+    z: 61
+  data: minecraft:spruce_log[axis=x]
+'1065':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 74
+    z: 62
+  data: minecraft:spruce_planks
+'1066':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 74
+    z: 63
+  data: minecraft:spruce_planks
+'1067':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 74
+    z: 64
+  data: minecraft:spruce_planks
+'1068':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 74
+    z: 65
+  data: minecraft:spruce_planks
+'1069':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 74
+    z: 66
+  data: minecraft:spruce_planks
+'1070':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 74
+    z: 67
+  data: minecraft:spruce_planks
+'1071':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 74
+    z: 68
+  data: minecraft:spruce_planks
+'1072':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 74
+    z: 69
+  data: minecraft:spruce_planks
+'1073':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 74
+    z: 70
+  data: minecraft:spruce_planks
+'1074':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 74
+    z: 71
+  data: minecraft:spruce_planks
+'1075':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 74
+    z: 72
+  data: minecraft:spruce_planks
+'1076':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 74
+    z: 73
+  data: minecraft:spruce_log[axis=x]
+'1077':
+  type: SPRUCE_SLAB
+  location:
+    x: 52
+    y: 74
+    z: 74
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'1078':
+  type: STONE_BRICK_WALL
+  location:
+    x: 52
+    y: 75
+    z: 61
+  data: minecraft:stone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=low]
+'1079':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 75
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'1080':
+  type: STONE_BRICKS
+  location:
+    x: 52
+    y: 75
+    z: 63
+  data: minecraft:stone_bricks
+'1081':
+  type: STONE_BRICKS
+  location:
+    x: 52
+    y: 75
+    z: 64
+  data: minecraft:stone_bricks
+'1082':
+  type: STONE_BRICKS
+  location:
+    x: 52
+    y: 75
+    z: 65
+  data: minecraft:stone_bricks
+'1083':
+  type: STONE_BRICKS
+  location:
+    x: 52
+    y: 75
+    z: 66
+  data: minecraft:stone_bricks
+'1084':
+  type: STONE_BRICKS
+  location:
+    x: 52
+    y: 75
+    z: 67
+  data: minecraft:stone_bricks
+'1085':
+  type: STONE_BRICKS
+  location:
+    x: 52
+    y: 75
+    z: 68
+  data: minecraft:stone_bricks
+'1086':
+  type: STONE_BRICKS
+  location:
+    x: 52
+    y: 75
+    z: 69
+  data: minecraft:stone_bricks
+'1087':
+  type: STONE_BRICKS
+  location:
+    x: 52
+    y: 75
+    z: 70
+  data: minecraft:stone_bricks
+'1088':
+  type: STONE_BRICKS
+  location:
+    x: 52
+    y: 75
+    z: 71
+  data: minecraft:stone_bricks
+'1089':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 75
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'1090':
+  type: STONE_BRICK_WALL
+  location:
+    x: 52
+    y: 75
+    z: 73
+  data: minecraft:stone_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=low]
+'1091':
+  type: SPRUCE_FENCE
+  location:
+    x: 52
+    y: 76
+    z: 61
+  data: minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+'1092':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 76
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'1093':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 76
+    z: 63
+  data: minecraft:spruce_planks
+'1094':
+  type: GLASS_PANE
+  location:
+    x: 52
+    y: 76
+    z: 64
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1095':
+  type: GLASS_PANE
+  location:
+    x: 52
+    y: 76
+    z: 65
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1096':
+  type: GLASS_PANE
+  location:
+    x: 52
+    y: 76
+    z: 66
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1097':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 76
+    z: 67
+  data: minecraft:spruce_planks
+'1098':
+  type: GLASS_PANE
+  location:
+    x: 52
+    y: 76
+    z: 68
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1099':
+  type: GLASS_PANE
+  location:
+    x: 52
+    y: 76
+    z: 69
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1100':
+  type: GLASS_PANE
+  location:
+    x: 52
+    y: 76
+    z: 70
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1101':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 76
+    z: 71
+  data: minecraft:spruce_planks
+'1102':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 76
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'1103':
+  type: SPRUCE_FENCE
+  location:
+    x: 52
+    y: 76
+    z: 73
+  data: minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+'1104':
+  type: SPRUCE_FENCE
+  location:
+    x: 52
+    y: 77
+    z: 61
+  data: minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+'1105':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 77
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'1106':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 77
+    z: 63
+  data: minecraft:spruce_planks
+'1107':
+  type: GLASS_PANE
+  location:
+    x: 52
+    y: 77
+    z: 64
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1108':
+  type: GLASS_PANE
+  location:
+    x: 52
+    y: 77
+    z: 65
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1109':
+  type: GLASS_PANE
+  location:
+    x: 52
+    y: 77
+    z: 66
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1110':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 77
+    z: 67
+  data: minecraft:spruce_planks
+'1111':
+  type: GLASS_PANE
+  location:
+    x: 52
+    y: 77
+    z: 68
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1112':
+  type: GLASS_PANE
+  location:
+    x: 52
+    y: 77
+    z: 69
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1113':
+  type: GLASS_PANE
+  location:
+    x: 52
+    y: 77
+    z: 70
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1114':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 77
+    z: 71
+  data: minecraft:spruce_planks
+'1115':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 77
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'1116':
+  type: SPRUCE_FENCE
+  location:
+    x: 52
+    y: 77
+    z: 73
+  data: minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+'1117':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 78
+    z: 61
+  data: minecraft:spruce_log[axis=z]
+'1118':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 78
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'1119':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 78
+    z: 63
+  data: minecraft:spruce_log[axis=z]
+'1120':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 78
+    z: 64
+  data: minecraft:spruce_log[axis=z]
+'1121':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 78
+    z: 65
+  data: minecraft:spruce_log[axis=z]
+'1122':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 78
+    z: 66
+  data: minecraft:spruce_log[axis=z]
+'1123':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 78
+    z: 67
+  data: minecraft:spruce_log[axis=z]
+'1124':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 78
+    z: 68
+  data: minecraft:spruce_log[axis=z]
+'1125':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 78
+    z: 69
+  data: minecraft:spruce_log[axis=z]
+'1126':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 78
+    z: 70
+  data: minecraft:spruce_log[axis=z]
+'1127':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 78
+    z: 71
+  data: minecraft:spruce_log[axis=z]
+'1128':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 78
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'1129':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 78
+    z: 73
+  data: minecraft:spruce_log[axis=z]
+'1130':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 79
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'1131':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 79
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'1132':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 80
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'1133':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 80
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'1134':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 52
+    y: 81
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1135':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 81
+    z: 62
+  data: minecraft:spruce_log[axis=y]
+'1136':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 81
+    z: 63
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1137':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 81
+    z: 64
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1138':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 81
+    z: 65
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1139':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 81
+    z: 66
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1140':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 81
+    z: 67
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1141':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 81
+    z: 68
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1142':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 81
+    z: 69
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1143':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 81
+    z: 70
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1144':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 81
+    z: 71
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1145':
+  type: SPRUCE_LOG
+  location:
+    x: 52
+    y: 81
+    z: 72
+  data: minecraft:spruce_log[axis=y]
+'1146':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 52
+    y: 81
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'1147':
+  type: STONE_BRICKS
+  location:
+    x: 52
+    y: 82
+    z: 61
+  data: minecraft:stone_bricks
+'1148':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 82
+    z: 62
+  data: minecraft:spruce_planks
+'1149':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 82
+    z: 63
+  data: minecraft:spruce_planks
+'1150':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 82
+    z: 64
+  data: minecraft:spruce_planks
+'1151':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 82
+    z: 65
+  data: minecraft:spruce_planks
+'1152':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 82
+    z: 66
+  data: minecraft:spruce_planks
+'1153':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 82
+    z: 67
+  data: minecraft:spruce_planks
+'1154':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 82
+    z: 68
+  data: minecraft:spruce_planks
+'1155':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 82
+    z: 69
+  data: minecraft:spruce_planks
+'1156':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 82
+    z: 70
+  data: minecraft:spruce_planks
+'1157':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 82
+    z: 71
+  data: minecraft:spruce_planks
+'1158':
+  type: SPRUCE_PLANKS
+  location:
+    x: 52
+    y: 82
+    z: 72
+  data: minecraft:spruce_planks
+'1159':
+  type: STONE_BRICKS
+  location:
+    x: 52
+    y: 82
+    z: 73
+  data: minecraft:stone_bricks
+'1160':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 52
+    y: 83
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1161':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 83
+    z: 62
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1162':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 83
+    z: 63
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1163':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 83
+    z: 64
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1164':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 83
+    z: 65
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1165':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 83
+    z: 66
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1166':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 83
+    z: 67
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1167':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 83
+    z: 68
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1168':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 83
+    z: 69
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1169':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 83
+    z: 70
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1170':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 83
+    z: 71
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1171':
+  type: SPRUCE_STAIRS
+  location:
+    x: 52
+    y: 83
+    z: 72
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1172':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 52
+    y: 83
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1173':
+  type: STONE_BRICK_WALL
+  location:
+    x: 53
+    y: 70
+    z: 60
+  data: minecraft:stone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=tall]
+'1174':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 70
+    z: 61
+  data: minecraft:spruce_log[axis=y]
+'1175':
+  type: DIRT
+  location:
+    x: 53
+    y: 70
+    z: 62
+  data: minecraft:dirt
+'1176':
+  type: DIRT
+  location:
+    x: 53
+    y: 70
+    z: 63
+  data: minecraft:dirt
+'1177':
+  type: DIRT
+  location:
+    x: 53
+    y: 70
+    z: 64
+  data: minecraft:dirt
+'1178':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 70
+    z: 65
+  data: minecraft:spruce_planks
+'1179':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 70
+    z: 66
+  data: minecraft:spruce_planks
+'1180':
+  type: DIRT
+  location:
+    x: 53
+    y: 70
+    z: 67
+  data: minecraft:dirt
+'1181':
+  type: DIRT
+  location:
+    x: 53
+    y: 70
+    z: 68
+  data: minecraft:dirt
+'1182':
+  type: DIRT
+  location:
+    x: 53
+    y: 70
+    z: 69
+  data: minecraft:dirt
+'1183':
+  type: DIRT
+  location:
+    x: 53
+    y: 70
+    z: 70
+  data: minecraft:dirt
+'1184':
+  type: DIRT
+  location:
+    x: 53
+    y: 70
+    z: 71
+  data: minecraft:dirt
+'1185':
+  type: DIRT
+  location:
+    x: 53
+    y: 70
+    z: 72
+  data: minecraft:dirt
+'1186':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 70
+    z: 73
+  data: minecraft:spruce_log[axis=y]
+'1187':
+  type: STONE_BRICK_WALL
+  location:
+    x: 53
+    y: 70
+    z: 74
+  data: minecraft:stone_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=tall]
+'1188':
+  type: STONE_BRICK_WALL
+  location:
+    x: 53
+    y: 71
+    z: 60
+  data: minecraft:stone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=low]
+'1189':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 71
+    z: 61
+  data: minecraft:spruce_log[axis=y]
+'1190':
+  type: STONE_BRICKS
+  location:
+    x: 53
+    y: 71
+    z: 62
+  data: minecraft:stone_bricks
+'1191':
+  type: STONE_BRICKS
+  location:
+    x: 53
+    y: 71
+    z: 63
+  data: minecraft:stone_bricks
+'1192':
+  type: STONE_BRICKS
+  location:
+    x: 53
+    y: 71
+    z: 64
+  data: minecraft:stone_bricks
+'1193':
+  type: SPRUCE_DOOR
+  location:
+    x: 53
+    y: 71
+    z: 65
+  data: minecraft:spruce_door[facing=west,half=lower,hinge=right,open=true,powered=false]
+'1194':
+  type: SPRUCE_DOOR
+  location:
+    x: 53
+    y: 71
+    z: 66
+  data: minecraft:spruce_door[facing=west,half=lower,hinge=left,open=true,powered=false]
+'1195':
+  type: STONE_BRICKS
+  location:
+    x: 53
+    y: 71
+    z: 67
+  data: minecraft:stone_bricks
+'1196':
+  type: STONE_BRICKS
+  location:
+    x: 53
+    y: 71
+    z: 68
+  data: minecraft:stone_bricks
+'1197':
+  type: STONE_BRICKS
+  location:
+    x: 53
+    y: 71
+    z: 69
+  data: minecraft:stone_bricks
+'1198':
+  type: STONE_BRICKS
+  location:
+    x: 53
+    y: 71
+    z: 70
+  data: minecraft:stone_bricks
+'1199':
+  type: STONE_BRICKS
+  location:
+    x: 53
+    y: 71
+    z: 71
+  data: minecraft:stone_bricks
+'1200':
+  type: STONE_BRICKS
+  location:
+    x: 53
+    y: 71
+    z: 72
+  data: minecraft:stone_bricks
+'1201':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 71
+    z: 73
+  data: minecraft:spruce_log[axis=y]
+'1202':
+  type: STONE_BRICK_WALL
+  location:
+    x: 53
+    y: 71
+    z: 74
+  data: minecraft:stone_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=low]
+'1203':
+  type: SPRUCE_FENCE
+  location:
+    x: 53
+    y: 72
+    z: 60
+  data: minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+'1204':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 72
+    z: 61
+  data: minecraft:spruce_log[axis=y]
+'1205':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 72
+    z: 62
+  data: minecraft:spruce_planks
+'1206':
+  type: GLASS_PANE
+  location:
+    x: 53
+    y: 72
+    z: 63
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1207':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 72
+    z: 64
+  data: minecraft:spruce_planks
+'1208':
+  type: SPRUCE_DOOR
+  location:
+    x: 53
+    y: 72
+    z: 65
+  data: minecraft:spruce_door[facing=west,half=upper,hinge=right,open=true,powered=false]
+'1209':
+  type: SPRUCE_DOOR
+  location:
+    x: 53
+    y: 72
+    z: 66
+  data: minecraft:spruce_door[facing=west,half=upper,hinge=left,open=true,powered=false]
+'1210':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 72
+    z: 67
+  data: minecraft:spruce_planks
+'1211':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 72
+    z: 68
+  data: minecraft:spruce_planks
+'1212':
+  type: GLASS_PANE
+  location:
+    x: 53
+    y: 72
+    z: 69
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1213':
+  type: GLASS_PANE
+  location:
+    x: 53
+    y: 72
+    z: 70
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1214':
+  type: GLASS_PANE
+  location:
+    x: 53
+    y: 72
+    z: 71
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1215':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 72
+    z: 72
+  data: minecraft:spruce_planks
+'1216':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 72
+    z: 73
+  data: minecraft:spruce_log[axis=y]
+'1217':
+  type: SPRUCE_FENCE
+  location:
+    x: 53
+    y: 72
+    z: 74
+  data: minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+'1218':
+  type: SPRUCE_FENCE
+  location:
+    x: 53
+    y: 73
+    z: 60
+  data: minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+'1219':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 73
+    z: 61
+  data: minecraft:spruce_log[axis=y]
+'1220':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 73
+    z: 62
+  data: minecraft:spruce_planks
+'1221':
+  type: GLASS_PANE
+  location:
+    x: 53
+    y: 73
+    z: 63
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1222':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 73
+    z: 64
+  data: minecraft:spruce_planks
+'1223':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 73
+    z: 65
+  data: minecraft:spruce_planks
+'1224':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 73
+    z: 66
+  data: minecraft:spruce_planks
+'1225':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 73
+    z: 67
+  data: minecraft:spruce_planks
+'1226':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 73
+    z: 68
+  data: minecraft:spruce_planks
+'1227':
+  type: GLASS_PANE
+  location:
+    x: 53
+    y: 73
+    z: 69
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1228':
+  type: GLASS_PANE
+  location:
+    x: 53
+    y: 73
+    z: 70
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1229':
+  type: GLASS_PANE
+  location:
+    x: 53
+    y: 73
+    z: 71
+  data: minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]
+'1230':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 73
+    z: 72
+  data: minecraft:spruce_planks
+'1231':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 73
+    z: 73
+  data: minecraft:spruce_log[axis=y]
+'1232':
+  type: SPRUCE_FENCE
+  location:
+    x: 53
+    y: 73
+    z: 74
+  data: minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+'1233':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 74
+    z: 60
+  data: minecraft:spruce_log[axis=z]
+'1234':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 74
+    z: 61
+  data: minecraft:spruce_log[axis=y]
+'1235':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 74
+    z: 62
+  data: minecraft:spruce_log[axis=z]
+'1236':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 74
+    z: 63
+  data: minecraft:spruce_log[axis=z]
+'1237':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 74
+    z: 64
+  data: minecraft:spruce_log[axis=z]
+'1238':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 74
+    z: 65
+  data: minecraft:spruce_log[axis=z]
+'1239':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 74
+    z: 66
+  data: minecraft:spruce_log[axis=z]
+'1240':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 74
+    z: 67
+  data: minecraft:spruce_log[axis=z]
+'1241':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 74
+    z: 68
+  data: minecraft:spruce_log[axis=z]
+'1242':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 74
+    z: 69
+  data: minecraft:spruce_log[axis=z]
+'1243':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 74
+    z: 70
+  data: minecraft:spruce_log[axis=z]
+'1244':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 74
+    z: 71
+  data: minecraft:spruce_log[axis=z]
+'1245':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 74
+    z: 72
+  data: minecraft:spruce_log[axis=z]
+'1246':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 74
+    z: 73
+  data: minecraft:spruce_log[axis=y]
+'1247':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 74
+    z: 74
+  data: minecraft:spruce_log[axis=z]
+'1248':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 53
+    y: 75
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]
+'1249':
+  type: STONE_BRICK_WALL
+  location:
+    x: 53
+    y: 75
+    z: 62
+  data: minecraft:stone_brick_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=tall]
+'1250':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 53
+    y: 75
+    z: 63
+  data: minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+'1251':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 53
+    y: 75
+    z: 64
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'1252':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 53
+    y: 75
+    z: 65
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'1253':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 53
+    y: 75
+    z: 66
+  data: minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+'1254':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 53
+    y: 75
+    z: 67
+  data: minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'1255':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 53
+    y: 75
+    z: 68
+  data: minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+'1256':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 53
+    y: 75
+    z: 69
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'1257':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 53
+    y: 75
+    z: 70
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'1258':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 53
+    y: 75
+    z: 71
+  data: minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+'1259':
+  type: STONE_BRICK_WALL
+  location:
+    x: 53
+    y: 75
+    z: 72
+  data: minecraft:stone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=tall]
+'1260':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 53
+    y: 75
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]
+'1261':
+  type: SPRUCE_FENCE
+  location:
+    x: 53
+    y: 76
+    z: 62
+  data: minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+'1262':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 53
+    y: 76
+    z: 63
+  data: minecraft:spruce_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]
+'1263':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 53
+    y: 76
+    z: 67
+  data: minecraft:spruce_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]
+'1264':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 53
+    y: 76
+    z: 71
+  data: minecraft:spruce_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]
+'1265':
+  type: SPRUCE_FENCE
+  location:
+    x: 53
+    y: 76
+    z: 72
+  data: minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+'1266':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 53
+    y: 77
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]
+'1267':
+  type: SPRUCE_FENCE
+  location:
+    x: 53
+    y: 77
+    z: 62
+  data: minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+'1268':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 53
+    y: 77
+    z: 63
+  data: minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]
+'1269':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 53
+    y: 77
+    z: 67
+  data: minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]
+'1270':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 53
+    y: 77
+    z: 71
+  data: minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]
+'1271':
+  type: SPRUCE_FENCE
+  location:
+    x: 53
+    y: 77
+    z: 72
+  data: minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+'1272':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 53
+    y: 77
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]
+'1273':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 53
+    y: 78
+    z: 61
+  data: minecraft:spruce_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]
+'1274':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 78
+    z: 62
+  data: minecraft:spruce_log[axis=x]
+'1275':
+  type: SPRUCE_SLAB
+  location:
+    x: 53
+    y: 78
+    z: 63
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'1276':
+  type: SPRUCE_SLAB
+  location:
+    x: 53
+    y: 78
+    z: 64
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'1277':
+  type: SPRUCE_SLAB
+  location:
+    x: 53
+    y: 78
+    z: 65
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'1278':
+  type: SPRUCE_SLAB
+  location:
+    x: 53
+    y: 78
+    z: 66
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'1279':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 53
+    y: 78
+    z: 67
+  data: minecraft:spruce_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]
+'1280':
+  type: SPRUCE_SLAB
+  location:
+    x: 53
+    y: 78
+    z: 68
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'1281':
+  type: SPRUCE_SLAB
+  location:
+    x: 53
+    y: 78
+    z: 69
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'1282':
+  type: SPRUCE_SLAB
+  location:
+    x: 53
+    y: 78
+    z: 70
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'1283':
+  type: SPRUCE_SLAB
+  location:
+    x: 53
+    y: 78
+    z: 71
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'1284':
+  type: SPRUCE_LOG
+  location:
+    x: 53
+    y: 78
+    z: 72
+  data: minecraft:spruce_log[axis=x]
+'1285':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 53
+    y: 78
+    z: 73
+  data: minecraft:spruce_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]
+'1286':
+  type: STONE_BRICKS
+  location:
+    x: 53
+    y: 79
+    z: 61
+  data: minecraft:stone_bricks
+'1287':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 79
+    z: 62
+  data: minecraft:spruce_planks
+'1288':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 79
+    z: 63
+  data: minecraft:spruce_planks
+'1289':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 79
+    z: 64
+  data: minecraft:spruce_planks
+'1290':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 79
+    z: 65
+  data: minecraft:spruce_planks
+'1291':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 79
+    z: 66
+  data: minecraft:spruce_planks
+'1292':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 79
+    z: 67
+  data: minecraft:spruce_planks
+'1293':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 79
+    z: 68
+  data: minecraft:spruce_planks
+'1294':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 79
+    z: 69
+  data: minecraft:spruce_planks
+'1295':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 79
+    z: 70
+  data: minecraft:spruce_planks
+'1296':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 79
+    z: 71
+  data: minecraft:spruce_planks
+'1297':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 79
+    z: 72
+  data: minecraft:spruce_planks
+'1298':
+  type: STONE_BRICKS
+  location:
+    x: 53
+    y: 79
+    z: 73
+  data: minecraft:stone_bricks
+'1299':
+  type: STONE_BRICKS
+  location:
+    x: 53
+    y: 80
+    z: 61
+  data: minecraft:stone_bricks
+'1300':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 80
+    z: 62
+  data: minecraft:spruce_planks
+'1301':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 80
+    z: 63
+  data: minecraft:spruce_planks
+'1302':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 80
+    z: 64
+  data: minecraft:spruce_planks
+'1303':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 80
+    z: 65
+  data: minecraft:spruce_planks
+'1304':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 80
+    z: 66
+  data: minecraft:spruce_planks
+'1305':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 80
+    z: 67
+  data: minecraft:spruce_planks
+'1306':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 80
+    z: 68
+  data: minecraft:spruce_planks
+'1307':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 80
+    z: 69
+  data: minecraft:spruce_planks
+'1308':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 80
+    z: 70
+  data: minecraft:spruce_planks
+'1309':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 80
+    z: 71
+  data: minecraft:spruce_planks
+'1310':
+  type: SPRUCE_PLANKS
+  location:
+    x: 53
+    y: 80
+    z: 72
+  data: minecraft:spruce_planks
+'1311':
+  type: STONE_BRICKS
+  location:
+    x: 53
+    y: 80
+    z: 73
+  data: minecraft:stone_bricks
+'1312':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 53
+    y: 81
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1313':
+  type: SPRUCE_STAIRS
+  location:
+    x: 53
+    y: 81
+    z: 62
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1314':
+  type: SPRUCE_STAIRS
+  location:
+    x: 53
+    y: 81
+    z: 63
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1315':
+  type: SPRUCE_STAIRS
+  location:
+    x: 53
+    y: 81
+    z: 64
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1316':
+  type: SPRUCE_STAIRS
+  location:
+    x: 53
+    y: 81
+    z: 65
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1317':
+  type: SPRUCE_STAIRS
+  location:
+    x: 53
+    y: 81
+    z: 66
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1318':
+  type: SPRUCE_STAIRS
+  location:
+    x: 53
+    y: 81
+    z: 67
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1319':
+  type: SPRUCE_STAIRS
+  location:
+    x: 53
+    y: 81
+    z: 68
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1320':
+  type: SPRUCE_STAIRS
+  location:
+    x: 53
+    y: 81
+    z: 69
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1321':
+  type: SPRUCE_STAIRS
+  location:
+    x: 53
+    y: 81
+    z: 70
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1322':
+  type: SPRUCE_STAIRS
+  location:
+    x: 53
+    y: 81
+    z: 71
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1323':
+  type: SPRUCE_STAIRS
+  location:
+    x: 53
+    y: 81
+    z: 72
+  data: minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1324':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 53
+    y: 81
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1325':
+  type: STONE_BRICK_WALL
+  location:
+    x: 54
+    y: 70
+    z: 61
+  data: minecraft:stone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=tall]
+'1326':
+  type: STONE_BRICKS
+  location:
+    x: 54
+    y: 70
+    z: 62
+  data: minecraft:stone_bricks
+'1327':
+  type: STONE_BRICKS
+  location:
+    x: 54
+    y: 70
+    z: 63
+  data: minecraft:stone_bricks
+'1328':
+  type: STONE_BRICKS
+  location:
+    x: 54
+    y: 70
+    z: 64
+  data: minecraft:stone_bricks
+'1329':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 54
+    y: 70
+    z: 65
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1330':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 54
+    y: 70
+    z: 66
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1331':
+  type: STONE_BRICKS
+  location:
+    x: 54
+    y: 70
+    z: 67
+  data: minecraft:stone_bricks
+'1332':
+  type: STONE_BRICKS
+  location:
+    x: 54
+    y: 70
+    z: 68
+  data: minecraft:stone_bricks
+'1333':
+  type: STONE_BRICKS
+  location:
+    x: 54
+    y: 70
+    z: 69
+  data: minecraft:stone_bricks
+'1334':
+  type: STONE_BRICKS
+  location:
+    x: 54
+    y: 70
+    z: 70
+  data: minecraft:stone_bricks
+'1335':
+  type: STONE_BRICKS
+  location:
+    x: 54
+    y: 70
+    z: 71
+  data: minecraft:stone_bricks
+'1336':
+  type: STONE_BRICKS
+  location:
+    x: 54
+    y: 70
+    z: 72
+  data: minecraft:stone_bricks
+'1337':
+  type: STONE_BRICK_WALL
+  location:
+    x: 54
+    y: 70
+    z: 73
+  data: minecraft:stone_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=tall]
+'1338':
+  type: STONE_BRICK_WALL
+  location:
+    x: 54
+    y: 71
+    z: 61
+  data: minecraft:stone_brick_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=tall]
+'1339':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 54
+    y: 71
+    z: 62
+  data: minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+'1340':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 54
+    y: 71
+    z: 63
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'1341':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 54
+    y: 71
+    z: 64
+  data: minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+'1342':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 54
+    y: 71
+    z: 67
+  data: minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+'1343':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 54
+    y: 71
+    z: 68
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'1344':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 54
+    y: 71
+    z: 69
+  data: minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+'1345':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 54
+    y: 71
+    z: 70
+  data: minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+'1346':
+  type: STONE_BRICK_SLAB
+  location:
+    x: 54
+    y: 71
+    z: 71
+  data: minecraft:stone_brick_slab[type=top,waterlogged=false]
+'1347':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 54
+    y: 71
+    z: 72
+  data: minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+'1348':
+  type: STONE_BRICK_WALL
+  location:
+    x: 54
+    y: 71
+    z: 73
+  data: minecraft:stone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=tall]
+'1349':
+  type: SPRUCE_FENCE
+  location:
+    x: 54
+    y: 72
+    z: 61
+  data: minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+'1350':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 54
+    y: 72
+    z: 62
+  data: minecraft:spruce_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]
+'1351':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 54
+    y: 72
+    z: 64
+  data: minecraft:spruce_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]
+'1352':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 54
+    y: 72
+    z: 68
+  data: minecraft:spruce_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]
+'1353':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 54
+    y: 72
+    z: 72
+  data: minecraft:spruce_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]
+'1354':
+  type: SPRUCE_FENCE
+  location:
+    x: 54
+    y: 72
+    z: 73
+  data: minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+'1355':
+  type: SPRUCE_FENCE
+  location:
+    x: 54
+    y: 73
+    z: 61
+  data: minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+'1356':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 54
+    y: 73
+    z: 62
+  data: minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]
+'1357':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 54
+    y: 73
+    z: 64
+  data: minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]
+'1358':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 54
+    y: 73
+    z: 67
+  data: minecraft:spruce_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]
+'1359':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 54
+    y: 73
+    z: 68
+  data: minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]
+'1360':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 54
+    y: 73
+    z: 72
+  data: minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]
+'1361':
+  type: SPRUCE_FENCE
+  location:
+    x: 54
+    y: 73
+    z: 73
+  data: minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+'1362':
+  type: SPRUCE_LOG
+  location:
+    x: 54
+    y: 74
+    z: 61
+  data: minecraft:spruce_log[axis=x]
+'1363':
+  type: SPRUCE_SLAB
+  location:
+    x: 54
+    y: 74
+    z: 62
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'1364':
+  type: SPRUCE_SLAB
+  location:
+    x: 54
+    y: 74
+    z: 63
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'1365':
+  type: SPRUCE_SLAB
+  location:
+    x: 54
+    y: 74
+    z: 64
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'1366':
+  type: SPRUCE_SLAB
+  location:
+    x: 54
+    y: 74
+    z: 65
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'1367':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 54
+    y: 74
+    z: 66
+  data: minecraft:spruce_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]
+'1368':
+  type: SPRUCE_TRAPDOOR
+  location:
+    x: 54
+    y: 74
+    z: 68
+  data: minecraft:spruce_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]
+'1369':
+  type: SPRUCE_SLAB
+  location:
+    x: 54
+    y: 74
+    z: 69
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'1370':
+  type: SPRUCE_SLAB
+  location:
+    x: 54
+    y: 74
+    z: 70
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'1371':
+  type: SPRUCE_SLAB
+  location:
+    x: 54
+    y: 74
+    z: 71
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'1372':
+  type: SPRUCE_SLAB
+  location:
+    x: 54
+    y: 74
+    z: 72
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'1373':
+  type: SPRUCE_LOG
+  location:
+    x: 54
+    y: 74
+    z: 73
+  data: minecraft:spruce_log[axis=x]
+'1374':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 54
+    y: 79
+    z: 61
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1375':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 54
+    y: 79
+    z: 62
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1376':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 54
+    y: 79
+    z: 63
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1377':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 54
+    y: 79
+    z: 64
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1378':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 54
+    y: 79
+    z: 65
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1379':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 54
+    y: 79
+    z: 66
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1380':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 54
+    y: 79
+    z: 67
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1381':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 54
+    y: 79
+    z: 68
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1382':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 54
+    y: 79
+    z: 69
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1383':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 54
+    y: 79
+    z: 70
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1384':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 54
+    y: 79
+    z: 71
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1385':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 54
+    y: 79
+    z: 72
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+'1386':
+  type: STONE_BRICK_STAIRS
+  location:
+    x: 54
+    y: 79
+    z: 73
+  data: minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+blockCount: 1386

@@ -1,0 +1,603 @@
+'1':
+  type: COBBLESTONE_WALL
+  location:
+    x: 17
+    y: 4
+    z: 31
+  data: minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]
+'2':
+  type: COBBLESTONE_WALL
+  location:
+    x: 17
+    y: 4
+    z: 35
+  data: minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]
+'3':
+  type: COBBLESTONE_WALL
+  location:
+    x: 17
+    y: 5
+    z: 31
+  data: minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]
+'4':
+  type: COBBLESTONE_WALL
+  location:
+    x: 17
+    y: 5
+    z: 35
+  data: minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]
+'5':
+  type: SPRUCE_SLAB
+  location:
+    x: 17
+    y: 6
+    z: 31
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'6':
+  type: SPRUCE_SLAB
+  location:
+    x: 17
+    y: 6
+    z: 32
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'7':
+  type: SPRUCE_SLAB
+  location:
+    x: 17
+    y: 6
+    z: 34
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'8':
+  type: SPRUCE_SLAB
+  location:
+    x: 17
+    y: 6
+    z: 35
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'9':
+  type: SPRUCE_SLAB
+  location:
+    x: 17
+    y: 7
+    z: 33
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'10':
+  type: COBBLESTONE_WALL
+  location:
+    x: 18
+    y: 4
+    z: 30
+  data: minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=none]
+'11':
+  type: OAK_LOG
+  location:
+    x: 18
+    y: 4
+    z: 31
+  data: minecraft:oak_log[axis=y]
+'12':
+  type: SPRUCE_STAIRS
+  location:
+    x: 18
+    y: 4
+    z: 32
+  data: minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+'13':
+  type: SPRUCE_SLAB
+  location:
+    x: 18
+    y: 4
+    z: 33
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'14':
+  type: SPRUCE_STAIRS
+  location:
+    x: 18
+    y: 4
+    z: 34
+  data: minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+'15':
+  type: OAK_LOG
+  location:
+    x: 18
+    y: 4
+    z: 35
+  data: minecraft:oak_log[axis=y]
+'16':
+  type: COBBLESTONE_WALL
+  location:
+    x: 18
+    y: 4
+    z: 36
+  data: minecraft:cobblestone_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=none]
+'17':
+  type: COBBLESTONE_WALL
+  location:
+    x: 18
+    y: 5
+    z: 30
+  data: minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=none]
+'18':
+  type: OAK_LOG
+  location:
+    x: 18
+    y: 5
+    z: 31
+  data: minecraft:oak_log[axis=y]
+'19':
+  type: OAK_LOG
+  location:
+    x: 18
+    y: 5
+    z: 35
+  data: minecraft:oak_log[axis=y]
+'20':
+  type: COBBLESTONE_WALL
+  location:
+    x: 18
+    y: 5
+    z: 36
+  data: minecraft:cobblestone_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=none]
+'21':
+  type: SPRUCE_SLAB
+  location:
+    x: 18
+    y: 6
+    z: 30
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'22':
+  type: RED_WOOL
+  location:
+    x: 18
+    y: 6
+    z: 31
+  data: minecraft:red_wool
+'23':
+  type: RED_WOOL
+  location:
+    x: 18
+    y: 6
+    z: 35
+  data: minecraft:red_wool
+'24':
+  type: SPRUCE_SLAB
+  location:
+    x: 18
+    y: 6
+    z: 36
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'25':
+  type: SPRUCE_FENCE
+  location:
+    x: 18
+    y: 7
+    z: 31
+  data: minecraft:spruce_fence[east=true,north=false,south=true,waterlogged=false,west=false]
+'26':
+  type: WHITE_WOOL
+  location:
+    x: 18
+    y: 7
+    z: 32
+  data: minecraft:white_wool
+'27':
+  type: RED_WOOL
+  location:
+    x: 18
+    y: 7
+    z: 33
+  data: minecraft:red_wool
+'28':
+  type: WHITE_WOOL
+  location:
+    x: 18
+    y: 7
+    z: 34
+  data: minecraft:white_wool
+'29':
+  type: SPRUCE_FENCE
+  location:
+    x: 18
+    y: 7
+    z: 35
+  data: minecraft:spruce_fence[east=true,north=true,south=false,waterlogged=false,west=false]
+'30':
+  type: SPRUCE_STAIRS
+  location:
+    x: 19
+    y: 4
+    z: 31
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'31':
+  type: SPRUCE_STAIRS
+  location:
+    x: 19
+    y: 4
+    z: 35
+  data: minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+'32':
+  type: SPRUCE_SLAB
+  location:
+    x: 19
+    y: 6
+    z: 30
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'33':
+  type: SPRUCE_SLAB
+  location:
+    x: 19
+    y: 6
+    z: 36
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'34':
+  type: WHITE_WOOL
+  location:
+    x: 19
+    y: 7
+    z: 31
+  data: minecraft:white_wool
+'35':
+  type: WHITE_WOOL
+  location:
+    x: 19
+    y: 7
+    z: 35
+  data: minecraft:white_wool
+'36':
+  type: RED_WOOL
+  location:
+    x: 19
+    y: 8
+    z: 32
+  data: minecraft:red_wool
+'37':
+  type: WHITE_WOOL
+  location:
+    x: 19
+    y: 8
+    z: 33
+  data: minecraft:white_wool
+'38':
+  type: RED_WOOL
+  location:
+    x: 19
+    y: 8
+    z: 34
+  data: minecraft:red_wool
+'39':
+  type: SPRUCE_SLAB
+  location:
+    x: 20
+    y: 4
+    z: 31
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'40':
+  type: SPRUCE_SLAB
+  location:
+    x: 20
+    y: 4
+    z: 35
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'41':
+  type: SPRUCE_SLAB
+  location:
+    x: 20
+    y: 7
+    z: 30
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'42':
+  type: RED_WOOL
+  location:
+    x: 20
+    y: 7
+    z: 31
+  data: minecraft:red_wool
+'43':
+  type: LANTERN
+  location:
+    x: 20
+    y: 7
+    z: 33
+  data: minecraft:lantern[hanging=true,waterlogged=false]
+'44':
+  type: RED_WOOL
+  location:
+    x: 20
+    y: 7
+    z: 35
+  data: minecraft:red_wool
+'45':
+  type: SPRUCE_SLAB
+  location:
+    x: 20
+    y: 7
+    z: 36
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'46':
+  type: WHITE_WOOL
+  location:
+    x: 20
+    y: 8
+    z: 32
+  data: minecraft:white_wool
+'47':
+  type: RED_WOOL
+  location:
+    x: 20
+    y: 8
+    z: 33
+  data: minecraft:red_wool
+'48':
+  type: WHITE_WOOL
+  location:
+    x: 20
+    y: 8
+    z: 34
+  data: minecraft:white_wool
+'49':
+  type: SPRUCE_STAIRS
+  location:
+    x: 21
+    y: 4
+    z: 31
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'50':
+  type: SPRUCE_STAIRS
+  location:
+    x: 21
+    y: 4
+    z: 35
+  data: minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+'51':
+  type: SPRUCE_SLAB
+  location:
+    x: 21
+    y: 6
+    z: 30
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'52':
+  type: SPRUCE_SLAB
+  location:
+    x: 21
+    y: 6
+    z: 36
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'53':
+  type: WHITE_WOOL
+  location:
+    x: 21
+    y: 7
+    z: 31
+  data: minecraft:white_wool
+'54':
+  type: WHITE_WOOL
+  location:
+    x: 21
+    y: 7
+    z: 35
+  data: minecraft:white_wool
+'55':
+  type: RED_WOOL
+  location:
+    x: 21
+    y: 8
+    z: 32
+  data: minecraft:red_wool
+'56':
+  type: WHITE_WOOL
+  location:
+    x: 21
+    y: 8
+    z: 33
+  data: minecraft:white_wool
+'57':
+  type: RED_WOOL
+  location:
+    x: 21
+    y: 8
+    z: 34
+  data: minecraft:red_wool
+'58':
+  type: COBBLESTONE_WALL
+  location:
+    x: 22
+    y: 4
+    z: 30
+  data: minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=none]
+'59':
+  type: OAK_LOG
+  location:
+    x: 22
+    y: 4
+    z: 31
+  data: minecraft:oak_log[axis=y]
+'60':
+  type: SPRUCE_STAIRS
+  location:
+    x: 22
+    y: 4
+    z: 32
+  data: minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+'61':
+  type: SPRUCE_SLAB
+  location:
+    x: 22
+    y: 4
+    z: 33
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'62':
+  type: SPRUCE_STAIRS
+  location:
+    x: 22
+    y: 4
+    z: 34
+  data: minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+'63':
+  type: OAK_LOG
+  location:
+    x: 22
+    y: 4
+    z: 35
+  data: minecraft:oak_log[axis=y]
+'64':
+  type: COBBLESTONE_WALL
+  location:
+    x: 22
+    y: 4
+    z: 36
+  data: minecraft:cobblestone_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=none]
+'65':
+  type: COBBLESTONE_WALL
+  location:
+    x: 22
+    y: 5
+    z: 30
+  data: minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=none]
+'66':
+  type: OAK_LOG
+  location:
+    x: 22
+    y: 5
+    z: 31
+  data: minecraft:oak_log[axis=y]
+'67':
+  type: OAK_LOG
+  location:
+    x: 22
+    y: 5
+    z: 35
+  data: minecraft:oak_log[axis=y]
+'68':
+  type: COBBLESTONE_WALL
+  location:
+    x: 22
+    y: 5
+    z: 36
+  data: minecraft:cobblestone_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=none]
+'69':
+  type: SPRUCE_SLAB
+  location:
+    x: 22
+    y: 6
+    z: 30
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'70':
+  type: RED_WOOL
+  location:
+    x: 22
+    y: 6
+    z: 31
+  data: minecraft:red_wool
+'71':
+  type: RED_WOOL
+  location:
+    x: 22
+    y: 6
+    z: 35
+  data: minecraft:red_wool
+'72':
+  type: SPRUCE_SLAB
+  location:
+    x: 22
+    y: 6
+    z: 36
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'73':
+  type: SPRUCE_FENCE
+  location:
+    x: 22
+    y: 7
+    z: 31
+  data: minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=true]
+'74':
+  type: WHITE_WOOL
+  location:
+    x: 22
+    y: 7
+    z: 32
+  data: minecraft:white_wool
+'75':
+  type: RED_WOOL
+  location:
+    x: 22
+    y: 7
+    z: 33
+  data: minecraft:red_wool
+'76':
+  type: WHITE_WOOL
+  location:
+    x: 22
+    y: 7
+    z: 34
+  data: minecraft:white_wool
+'77':
+  type: SPRUCE_FENCE
+  location:
+    x: 22
+    y: 7
+    z: 35
+  data: minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=true]
+'78':
+  type: COBBLESTONE_WALL
+  location:
+    x: 23
+    y: 4
+    z: 31
+  data: minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=tall]
+'79':
+  type: COBBLESTONE_WALL
+  location:
+    x: 23
+    y: 4
+    z: 35
+  data: minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=tall]
+'80':
+  type: COBBLESTONE_WALL
+  location:
+    x: 23
+    y: 5
+    z: 31
+  data: minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=tall]
+'81':
+  type: COBBLESTONE_WALL
+  location:
+    x: 23
+    y: 5
+    z: 35
+  data: minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=tall]
+'82':
+  type: SPRUCE_SLAB
+  location:
+    x: 23
+    y: 6
+    z: 31
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'83':
+  type: SPRUCE_SLAB
+  location:
+    x: 23
+    y: 6
+    z: 32
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'84':
+  type: SPRUCE_SLAB
+  location:
+    x: 23
+    y: 6
+    z: 34
+  data: minecraft:spruce_slab[type=top,waterlogged=false]
+'85':
+  type: SPRUCE_SLAB
+  location:
+    x: 23
+    y: 6
+    z: 35
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+'86':
+  type: SPRUCE_SLAB
+  location:
+    x: 23
+    y: 7
+    z: 33
+  data: minecraft:spruce_slab[type=bottom,waterlogged=false]
+blockCount: 86
