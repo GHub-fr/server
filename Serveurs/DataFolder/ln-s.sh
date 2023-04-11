@@ -10,7 +10,7 @@ ln -s /Serveurs/DataFolder/ops.json /Serveurs/Creatif
 ln -s /Serveurs/DataFolder/paper.jar /Serveurs/Creatif
 ln -s /Serveurs/DataFolder/bukkit.yml /Serveurs/Creatif
 ln -s /Serveurs/DataFolder/spigot.yml /Serveurs/Creatif
-mkdir -p /Serveurs/Creatif/paper-config
+mkdir -p /Serveurs/Creatif/config
 ln -s /Serveurs/DataFolder/paper-config/paper-global.yml /Serveurs/Creatif/config/paper-global.yml
 ln -s /Serveurs/DataFolder/paper-config/paper-world-defaults.yml /Serveurs/Creatif/config/paper-world-defaults.yml
 
@@ -26,7 +26,7 @@ ln -s /Serveurs/DataFolder/ops.json /Serveurs/Hub
 ln -s /Serveurs/DataFolder/paper.jar /Serveurs/Hub
 ln -s /Serveurs/DataFolder/bukkit.yml /Serveurs/Hub
 ln -s /Serveurs/DataFolder/spigot.yml /Serveurs/Hub
-mkdir -p /Serveurs/Hub/paper-config
+mkdir -p /Serveurs/Hub/config
 ln -s /Serveurs/DataFolder/paper-config/paper-global.yml /Serveurs/Hub/config/paper-global.yml
 ln -s /Serveurs/DataFolder/paper-config/paper-world-defaults.yml /Serveurs/Hub/config/paper-world-defaults.yml
 
@@ -42,7 +42,7 @@ ln -s /Serveurs/DataFolder/ops.json /Serveurs/RPG
 ln -s /Serveurs/DataFolder/paper.jar /Serveurs/RPG
 ln -s /Serveurs/DataFolder/bukkit.yml /Serveurs/RPG
 ln -s /Serveurs/DataFolder/spigot.yml /Serveurs/RPG
-mkdir -p /Serveurs/RPG/paper-config
+mkdir -p /Serveurs/RPG/config
 ln -s /Serveurs/DataFolder/paper-config/paper-global.yml /Serveurs/RPG/config/paper-global.yml
 ln -s /Serveurs/DataFolder/paper-config/paper-world-defaults.yml /Serveurs/RPG/config/paper-world-defaults.yml
 
@@ -58,7 +58,7 @@ ln -s /Serveurs/DataFolder/ops.json /Serveurs/SkyBlock
 ln -s /Serveurs/DataFolder/paper.jar /Serveurs/SkyBlock
 ln -s /Serveurs/DataFolder/bukkit.yml /Serveurs/SkyBlock
 ln -s /Serveurs/DataFolder/spigot.yml /Serveurs/SkyBlock
-mkdir -p /Serveurs/SkyBlock/paper-config
+mkdir -p /Serveurs/SkyBlock/config
 ln -s /Serveurs/DataFolder/paper-config/paper-global.yml /Serveurs/SkyBlock/config/paper-global.yml
 ln -s /Serveurs/DataFolder/paper-config/paper-world-defaults.yml /Serveurs/SkyBlock/config/paper-world-defaults.yml
 
@@ -74,7 +74,7 @@ ln -s /Serveurs/DataFolder/ops.json /Serveurs/Anarchie
 ln -s /Serveurs/DataFolder/paper.jar /Serveurs/Anarchie
 ln -s /Serveurs/DataFolder/bukkit.yml /Serveurs/Anarchie
 ln -s /Serveurs/DataFolder/spigot.yml /Serveurs/Anarchie
-mkdir -p /Serveurs/Anarchie/paper-config
+mkdir -p /Serveurs/Anarchie/config
 ln -s /Serveurs/DataFolder/paper-config/paper-global.yml /Serveurs/Anarchie/config/paper-global.yml
 ln -s /Serveurs/DataFolder/paper-config/paper-world-defaults.yml /Serveurs/Anarchie/config/paper-world-defaults.yml
 
@@ -90,7 +90,7 @@ ln -s /Serveurs/DataFolder/ops.json /Serveurs/Survie
 ln -s /Serveurs/DataFolder/paper.jar /Serveurs/Survie
 ln -s /Serveurs/DataFolder/bukkit.yml /Serveurs/Survie
 ln -s /Serveurs/DataFolder/spigot.yml /Serveurs/Survie
-mkdir -p /Serveurs/Survie/paper-config
+mkdir -p /Serveurs/Survie/config
 ln -s /Serveurs/DataFolder/paper-config/paper-global.yml /Serveurs/Survie/config/paper-global.yml
 ln -s /Serveurs/DataFolder/paper-config/paper-world-defaults.yml /Serveurs/Survie/config/paper-world-defaults.yml
 
