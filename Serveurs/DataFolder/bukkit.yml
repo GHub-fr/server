@@ -33,3 +33,5 @@ aliases: now-in-commands.yml
 worlds:
   world:
     generator: plugin
+  Spawn:
+    generator: plugin
