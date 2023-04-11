@@ -99,11 +99,6 @@ wget -O /Serveurs/DataFolder/structures/Maison2.yml 'https://raw.githubuserconte
 wget -O /Serveurs/DataFolder/structures/Maison3.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Maison3.yml'
 wget -O /Serveurs/DataFolder/structures/Moulin.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Moulin.yml'
 wget -O /Serveurs/DataFolder/structures/spawn_last.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/spawn_last.yml'
-wget -O /Serveurs/DataFolder/structures/Spawn_Nether.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Spawn_Nether.yml'
-wget -O /Serveurs/DataFolder/structures/Spawn_New.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Spawn_New.yml'
-wget -O /Serveurs/DataFolder/structures/Spawn_the_end.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Spawn_the_end.yml'
-wget -O /Serveurs/DataFolder/structures/Spawn.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Spawn.yml'
-wget -O /Serveurs/DataFolder/structures/SpawnNew.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/SpawnNew.yml'
 wget -O /Serveurs/DataFolder/structures/Torche.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Torche.yml'
 wget -O /Serveurs/DataFolder/structures/Village.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Village.yml'
 
