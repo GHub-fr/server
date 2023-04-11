@@ -88,17 +88,19 @@ chmod +x /Serveurs/DataFolder/ln-s.sh
 
 # structures
 mkdir -p /Serveurs/DataFolder/structures
+#
+wget -O /Serveurs/DataFolder/structures/spawn_last.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/spawn_last.yml'
+wget -O /Serveurs/DataFolder/structures/Island.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Island.yml'
+#
 wget -O /Serveurs/DataFolder/structures/echope.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/echope.yml'
 wget -O /Serveurs/DataFolder/structures/Floating_Island_baloon.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Floating_Island_baloon.yml'
 wget -O /Serveurs/DataFolder/structures/Floating_Island_Maison.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Floating_Island_Maison.yml'
 wget -O /Serveurs/DataFolder/structures/Floating_Island_tree.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Floating_Island_tree.yml'
 wget -O /Serveurs/DataFolder/structures/Floating_Island.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Floating_Island.yml'
-wget -O /Serveurs/DataFolder/structures/Island.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Island.yml'
 wget -O /Serveurs/DataFolder/structures/Maison.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Maison.yml'
 wget -O /Serveurs/DataFolder/structures/Maison2.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Maison2.yml'
 wget -O /Serveurs/DataFolder/structures/Maison3.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Maison3.yml'
 wget -O /Serveurs/DataFolder/structures/Moulin.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Moulin.yml'
-wget -O /Serveurs/DataFolder/structures/spawn_last.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/spawn_last.yml'
 wget -O /Serveurs/DataFolder/structures/Torche.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Torche.yml'
 wget -O /Serveurs/DataFolder/structures/Village.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Village.yml'
 
