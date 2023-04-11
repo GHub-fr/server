@@ -1,6 +1,6 @@
 # Minecraft - StartFiles
 # screen -XS waterfall quit
-screen -S waterfall -X stuff 'stop'$'\n'
+screen -S waterfall -X stuff 'end'$'\n'
 mkdir -p /Serveurs/Waterfall
 wget -O /Serveurs/Waterfall/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Waterfall/start.sh'
 chmod +x /Serveurs/Waterfall/start.sh
