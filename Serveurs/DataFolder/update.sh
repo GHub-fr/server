@@ -48,7 +48,6 @@ mkdir -p /Serveurs/DataFolder
 
 # Waterfall
 wget -O /Serveurs/Waterfall/config.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Waterfall/config.yml'
-wget -O /Serveurs/Waterfall/waterfall.jar 'https://api.papermc.io/v2/projects/waterfall/versions/1.19/builds/510/downloads/waterfall-1.19-510.jar'
 
 # global config
 mkdir -p /Serveurs/DataFolder
@@ -80,6 +79,10 @@ wget -O /Serveurs/DataFolder/paper-config/paper-global.yml 'https://raw.githubus
 mkdir -p /Serveurs/DataFolder/plugins
 wget -O /Serveurs/DataFolder/plugins/plugin.jar 'https://github.com/GHub-fr/plugin/releases/latest/download/plugin-1.0-fat.jar'
 wget -O /Serveurs/DataFolder/paper.jar 'https://api.papermc.io/v2/projects/paper/versions/1.19.2/builds/307/downloads/paper-1.19.2-307.jar'
+wget -O /Serveurs/Waterfall/waterfall.jar 'https://api.papermc.io/v2/projects/waterfall/versions/1.19/builds/510/downloads/waterfall-1.19-510.jar'
+wget -O /Serveurs/DataFolder/plugins/ViaBackwards.jar 'https://github.com/ViaVersion/ViaBackwards/releases/latest/download/ViaBackwards-4.6.1.jar'
+wget -O /Serveurs/DataFolder/plugins/ViaVersion.jar 'https://github.com/ViaVersion/ViaVersion/releases/latest/download/ViaVersion-4.6.2.jar'
+wget -O /Serveurs/DataFolder/plugins/WorldEdit.jar 'https://dev.bukkit.org/projects/worldedit/files/latest'
 
 # LN-S
 wget -O /Serveurs/DataFolder/ln-s.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/ln-s.sh'
@@ -103,7 +106,7 @@ wget -O /Serveurs/DataFolder/structures/Maison3.yml 'https://raw.githubuserconte
 #
 wget -O /Serveurs/DataFolder/structures/unknow.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/unknow.yml' # Too fat to load ? 
 wget -O /Serveurs/DataFolder/structures/Village.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Village.yml' # Tester si peut être chargé
-#
+
 # start
 wget -O /Serveurs/DataFolder/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/start.sh'
 chmod +x /Serveurs/DataFolder/start.sh
