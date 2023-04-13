@@ -31,13 +31,13 @@ listeners:
   force_default_server: true
   forced_hosts: *id006
 - query_port: 25563
-  motd: §r[ §2§lGHub§r.fr §r] §6SUHC §r! §rGHub.fr/§2discord
+  motd: §r[ §2§lGHub§r.fr §r] §6Anarchie §r! §rGHub.fr/§2discord
   tab_list: SERVER
   query_enabled: true
   proxy_protocol: false
   ping_passthrough: true
   priorities:
-  - suhc
+  - anarchie
   - hub
   bind_local_address: true
   host: 0.0.0.0:25563
@@ -124,8 +124,8 @@ servers:
     motd: §r[ §2§lGHub§r.fr §r] §6Survie §r!
     address: localhost:25505
     restricted: false
-  suhc:
-    motd: §r[ §2§lGHub§r.fr §r] §6SUHC §r!
+  anarchie:
+    motd: §r[ §2§lGHub§r.fr §r] §6Anarchie §r!
     address: localhost:25504
     restricted: false
   rpg:
