@@ -10,11 +10,11 @@ cd /Serveurs/SkyBlock
 cd /Serveurs/Survie
 /Serveurs/Survie/start.sh
 
-# cd /Serveurs/Creatif
-# /Serveurs/Creatif/start.sh
+cd /Serveurs/Creatif
+/Serveurs/Creatif/start.sh
 
-# cd /Serveurs/RPG
-# /Serveurs/RPG/start.sh
+cd /Serveurs/RPG
+/Serveurs/RPG/start.sh
 
 cd /Serveurs/Anarchie
 /Serveurs/Anarchie/start.sh
