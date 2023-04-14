@@ -1,10 +1,10 @@
 '1':
-  type: STONE_STAIRS
+  type: COBBLESTONE
   location:
-    x: -9
-    y: 59
-    z: 1
-  data: minecraft:stone_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+    x: 0
+    y: 63
+    z: 0
+  data: minecraft:cobblestone
 '2':
   type: STONE
   location:
@@ -18100,4 +18100,11 @@
     y: 64
     z: -2
   data: minecraft:grass
-blockCount: 2586
+'2587':
+  type: STONE_STAIRS
+  location:
+    x: -9
+    y: 59
+    z: 1
+  data: minecraft:stone_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+blockCount: 2587

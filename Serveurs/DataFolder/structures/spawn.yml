@@ -1,10 +1,10 @@
 '1':
-  type: DARK_PRISMARINE
+  type: WHITE_STAINED_GLASS
   location:
-    x: -47
-    y: 84
-    z: -45
-  data: minecraft:dark_prismarine
+    x: 0
+    y: 63
+    z: 0
+  data: minecraft:white_stained_glass
 '2':
   type: DARK_PRISMARINE
   location:
@@ -216417,4 +216417,11 @@
     y: 85
     z: 43
   data: minecraft:dark_prismarine
-blockCount: 30917
+'30918':
+  type: DARK_PRISMARINE
+  location:
+    x: -47
+    y: 84
+    z: -45
+  data: minecraft:dark_prismarine
+blockCount: 30918
