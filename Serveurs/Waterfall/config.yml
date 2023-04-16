@@ -5,7 +5,7 @@ listeners:
   tab_list: GLOBAL_PING
   query_enabled: true
   proxy_protocol: false
-  ping_passthrough: true
+  ping_passthrough: false
   priorities:
   - hub
   bind_local_address: true
@@ -14,7 +14,6 @@ listeners:
   tab_size: 50
   force_default_server: true
   forced_hosts: &id006
-    pvp.md-5.net: pvp
 - query_port: 25564
   motd: §r[ §2§lGHub§r.fr §r] §6Survie §r! §rGHub.fr/§2discord
   tab_list: SERVER
