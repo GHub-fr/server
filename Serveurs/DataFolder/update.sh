@@ -1,41 +1,34 @@
 # Minecraft - StartFiles
-# screen -XS waterfall quit
 screen -S waterfall -X stuff 'end'$'\n'
 mkdir -p /Serveurs/Waterfall
 wget -O /Serveurs/Waterfall/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Waterfall/start.sh'
 chmod +x /Serveurs/Waterfall/start.sh
 #
-# screen -XS creatif quit
 screen -S creatif -X stuff 'stop'$'\n'
 mkdir -p /Serveurs/Creatif
 wget -O /Serveurs/Creatif/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Creatif/start.sh'
 chmod +x /Serveurs/Creatif/start.sh
 #
-# screen -XS hub quit
 screen -S hub -X stuff 'stop'$'\n'
 mkdir -p /Serveurs/Hub
 wget -O /Serveurs/Hub/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Hub/start.sh'
 chmod +x /Serveurs/Hub/start.sh
 #
-# screen -XS RPG quit
 screen -S RPG -X stuff 'stop'$'\n'
 mkdir -p /Serveurs/RPG
 wget -O /Serveurs/RPG/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/RPG/start.sh'
 chmod +x /Serveurs/RPG/start.sh
 #
-# screen -XS SkyBlock quit
 screen -S SkyBlock -X stuff 'stop'$'\n'
 mkdir -p /Serveurs/SkyBlock
 wget -O /Serveurs/SkyBlock/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/SkyBlock/start.sh'
 chmod +x /Serveurs/SkyBlock/start.sh
 #
-# screen -XS anarchie quit
 screen -S anarchie -X stuff 'stop'$'\n'
 mkdir -p /Serveurs/Anarchie
 wget -O /Serveurs/Anarchie/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Anarchie/start.sh'
 chmod +x /Serveurs/Anarchie/start.sh
 #
-# screen -XS survie quit
 screen -S survie -X stuff 'stop'$'\n'
 mkdir -p /Serveurs/Survie
 wget -O /Serveurs/Survie/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Survie/start.sh'
