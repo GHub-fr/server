@@ -78,7 +78,7 @@ wget -O /Serveurs/DataFolder/paper-config/paper-global.yml 'https://raw.githubus
 # jars
 mkdir -p /Serveurs/DataFolder/plugins
 wget -O /Serveurs/DataFolder/plugins/plugin.jar 'https://github.com/GHub-fr/plugin/releases/latest/download/plugin-1.0-fat.jar'
-wget -O /Serveurs/DataFolder/paper.jar 'https://api.papermc.io/v2/projects/paper/versions/1.19.2/builds/307/downloads/paper-1.19.2-307.jar'
+wget -O /Serveurs/DataFolder/paper.jar 'https://api.papermc.io/v2/projects/paper/versions/1.19.4/builds/514/downloads/paper-1.19.4-514.jar'
 wget -O /Serveurs/Waterfall/waterfall.jar 'https://api.papermc.io/v2/projects/waterfall/versions/1.19/builds/510/downloads/waterfall-1.19-510.jar'
 wget -O /Serveurs/DataFolder/plugins/ViaBackwards.jar 'https://github.com/ViaVersion/ViaBackwards/releases/latest/download/ViaBackwards-4.6.1.jar'
 wget -O /Serveurs/DataFolder/plugins/ViaVersion.jar 'https://github.com/ViaVersion/ViaVersion/releases/latest/download/ViaVersion-4.6.2.jar'
