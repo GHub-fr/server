@@ -59,6 +59,9 @@ wget -O /Serveurs/DataFolder/bukkit.yml 'https://raw.githubusercontent.com/GHub-
 # Admin files
 mkdir -p /Serveurs/DataFolder/players/d0a8d68a-69b6-4dfc-bc03-9679841e7199
 wget -O /Serveurs/DataFolder/players/d0a8d68a-69b6-4dfc-bc03-9679841e7199/tag.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/players/d0a8d68a-69b6-4dfc-bc03-9679841e7199/tag.yml'
+# Admin player files
+mkdir -p /Serveurs/DataFolder/players/d0d42ff0-e2d1-4fb8-81e5-d14c9a22c97b
+wget -O /Serveurs/DataFolder/players/d0d42ff0-e2d1-4fb8-81e5-d14c9a22c97b/tag.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/players/d0d42ff0-e2d1-4fb8-81e5-d14c9a22c97b/tag.yml'
 
 # paper config
 mkdir -p /Serveurs/DataFolder/paper-config
