@@ -33,6 +33,11 @@ screen -S survie -X stuff 'stop'$'\n'
 mkdir -p /Serveurs/Survie
 wget -O /Serveurs/Survie/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Survie/start.sh'
 chmod +x /Serveurs/Survie/start.sh
+#
+screen -S OPPrison -X stuff 'stop'$'\n'
+mkdir -p /Serveurs/OPPrison
+wget -O /Serveurs/OPPrison/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/OPPrison/start.sh'
+chmod +x /Serveurs/OPPrison/start.sh
 
 
 # tokens
@@ -67,6 +72,7 @@ wget -O /Serveurs/DataFolder/paper-config/paper-global.yml 'https://raw.githubus
 # wget -O /Serveurs/RPG/server.properties 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/RPG/server.properties'
 # wget -O /Serveurs/SkyBlock/server.properties 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/SkyBlock/server.properties'
 # wget -O /Serveurs/Survie/server.properties 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Survie/server.properties'
+# wget -O /Serveurs/OPPrison/server.properties 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/OPPrison/server.properties'
 
 # jars
 mkdir -p /Serveurs/DataFolder/plugins

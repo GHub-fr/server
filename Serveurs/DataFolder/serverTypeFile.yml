@@ -1,7 +1,8 @@
 serverType:
-  '25500': Hub
+  '25506': OPPrison
   '25505': Survie
   '25504': Anarchie
-  '25502': RPG
   '25503': SkyBlock
+  '25502': RPG
   '25501': Creatif
+  '25500': Hub

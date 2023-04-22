@@ -84,6 +84,20 @@ mkdir -p /Serveurs/Survie/config
 ln -s /Serveurs/DataFolder/paper-config/paper-global.yml /Serveurs/Survie/config/paper-global.yml
 ln -s /Serveurs/DataFolder/paper-config/paper-world-defaults.yml /Serveurs/Survie/config/paper-world-defaults.yml
 
+mkdir -p /Serveurs/OPPrison/plugins
+ln -s /Serveurs/DataFolder/plugins/plugin.jar /Serveurs/OPPrison/plugins
+ln -s /Serveurs/DataFolder/plugins/ViaBackwards.jar /Serveurs/OPPrison/plugins
+ln -s /Serveurs/DataFolder/plugins/ViaVersion.jar /Serveurs/OPPrison/plugins
+ln -s /Serveurs/DataFolder/server-icon.png /Serveurs/OPPrison
+ln -s /Serveurs/DataFolder/eula.txt /Serveurs/OPPrison
+ln -s /Serveurs/DataFolder/ops.json /Serveurs/OPPrison
+ln -s /Serveurs/DataFolder/paper.jar /Serveurs/OPPrison
+ln -s /Serveurs/DataFolder/bukkit.yml /Serveurs/OPPrison
+ln -s /Serveurs/DataFolder/spigot.yml /Serveurs/OPPrison
+mkdir -p /Serveurs/OPPrison/config
+ln -s /Serveurs/DataFolder/paper-config/paper-global.yml /Serveurs/OPPrison/config/paper-global.yml
+ln -s /Serveurs/DataFolder/paper-config/paper-world-defaults.yml /Serveurs/OPPrison/config/paper-world-defaults.yml
+
 mkdir -p /Serveurs/Waterfall
 ln -s /Serveurs/DataFolder/server-icon.png /Serveurs/Waterfall
 ln -s /Serveurs/DataFolder/eula.txt /Serveurs/Waterfall

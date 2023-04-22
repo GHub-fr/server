@@ -18,3 +18,6 @@ cd /Serveurs/RPG
 
 cd /Serveurs/Anarchie
 /Serveurs/Anarchie/start.sh
+
+cd /Serveurs/OPPrison
+/Serveurs/OPPrison/start.sh

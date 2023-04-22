@@ -89,6 +89,21 @@ listeners:
   tab_size: 50
   force_default_server: true
   forced_hosts: *id006
+- query_port: 25566
+  motd: §r[ §2§lGHub§r.fr §r] §6OPPrison §r! §rGHub.fr/§2discord
+  tab_list: SERVER
+  query_enabled: true
+  proxy_protocol: false
+  ping_passthrough: true
+  priorities:
+  - opprison
+  - hub
+  bind_local_address: true
+  host: 0.0.0.0:25566
+  max_players: 0
+  tab_size: 50
+  force_default_server: true
+  forced_hosts: *id006
 remote_ping_cache: -1
 network_compression_threshold: 256
 permissions:
@@ -138,4 +153,8 @@ servers:
   creatif:
     motd: §r[ §2§lGHub§r.fr §r] §6Creatif §r!
     address: localhost:25501
+    restricted: false
+  opprison:
+    motd: §r[ §2§lGHub§r.fr §r] §6OPPrison §r!
+    address: localhost:25506
     restricted: false
