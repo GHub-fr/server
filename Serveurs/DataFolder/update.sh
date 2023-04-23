@@ -97,13 +97,8 @@ mkdir -p /Serveurs/DataFolder/structures
 wget -O /Serveurs/DataFolder/structures/spawn.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/spawn.yml' # Spawn
 wget -O /Serveurs/DataFolder/structures/spawn_OPPrison.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/spawn_OPPrison.yml'
 wget -O /Serveurs/DataFolder/structures/spawn_Survie.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/spawn_Survie.yml'
+wget -O /Serveurs/DataFolder/structures/spawn_SB.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/spawn_SB.yml'
 wget -O /Serveurs/DataFolder/structures/Island.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Island.yml' # Île SkyBlock
-#
-wget -O /Serveurs/DataFolder/structures/Maison3.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Maison3.yml' # Petite maison pas fini, désaxé du /structure
-#
-wget -O /Serveurs/DataFolder/structures/unknow.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/unknow.yml' # Too fat to load ? 
-wget -O /Serveurs/DataFolder/structures/Village.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Village.yml' # Tester si peut être chargé
-
 # start
 wget -O /Serveurs/DataFolder/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/start.sh'
 chmod +x /Serveurs/DataFolder/start.sh
