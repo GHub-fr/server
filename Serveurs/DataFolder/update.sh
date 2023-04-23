@@ -95,14 +95,9 @@ chmod +x /Serveurs/DataFolder/ln-s.sh
 mkdir -p /Serveurs/DataFolder/structures
 #
 wget -O /Serveurs/DataFolder/structures/spawn.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/spawn.yml' # Spawn
+wget -O /Serveurs/DataFolder/structures/spawn_OPPrison.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/spawn_OPPrison.yml'
+wget -O /Serveurs/DataFolder/structures/spawn_Survie.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/spawn_Survie.yml'
 wget -O /Serveurs/DataFolder/structures/Island.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Island.yml' # Île SkyBlock
-wget -O /Serveurs/DataFolder/structures/Floating_baloon.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Floating_baloon.yml' # montgolfière
-wget -O /Serveurs/DataFolder/structures/echope.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/echope.yml'
-wget -O /Serveurs/DataFolder/structures/Maison.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Maison.yml' # Hall de quête
-wget -O /Serveurs/DataFolder/structures/Maison0.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Maison0.yml' # Fausse maison
-wget -O /Serveurs/DataFolder/structures/Maison2.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Maison2.yml' # Taverne + INN
-wget -O /Serveurs/DataFolder/structures/Moulin.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Moulin.yml' # Moulin du spawn
-wget -O /Serveurs/DataFolder/structures/Torche.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Torche.yml' # Torche du RPG
 #
 wget -O /Serveurs/DataFolder/structures/Maison3.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Maison3.yml' # Petite maison pas fini, désaxé du /structure
 #
