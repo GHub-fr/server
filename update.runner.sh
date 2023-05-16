@@ -11,8 +11,13 @@ chmod +x /install.sh
 # azuriom
 wget -O /setup.azuriom.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/setup.azuriom.sh'
 chmod +x /setup.azuriom.sh
-wget -O /var/www/site/resources/lang/fr/messages.php 'https://raw.githubusercontent.com/GHub-fr/server/main/var/www/site/resources/lang/fr/messages.php' # Water mark
-# certbot
+# azuriom files
+wget -O /var/www/html/resources/lang/fr/messages.php 'https://raw.githubusercontent.com/GHub-fr/server/main/var/www/html/resources/lang/fr/messages.php' # Water mark
+wget -O /var/www/html/storage/app/public/img/background.jpg 'https://raw.githubusercontent.com/GHub-fr/server/main/var/www/html/storage/app/public/img/background.jpg'
+wget -O /var/www/html/storage/app/public/img/gif.gif 'https://raw.githubusercontent.com/GHub-fr/server/main/var/www/html/storage/app/public/img/gif.gif'
+wget -O /var/www/html/storage/app/public/img/icone.png 'https://raw.githubusercontent.com/GHub-fr/server/main/var/www/html/storage/app/public/img/icone.png'
+wget -O /var/www/html/storage/app/public/zip/resourcePack.zip 'https://raw.githubusercontent.com/GHub-fr/server/main/var/www/html/storage/app/public/zip/resourcePack.zip'
+# certbot 
 wget -O /setup.certbot.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/setup.certbot.sh'
 chmod +x /setup.certbot.sh
 # mysql
