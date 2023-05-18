@@ -77,6 +77,9 @@ wget -O /Serveurs/DataFolder/paper-config/paper-global.yml 'https://raw.githubus
 # wget -O /Serveurs/Survie/server.properties 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/Survie/server.properties'
 # wget -O /Serveurs/OPPrison/server.properties 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/OPPrison/server.properties'
 
+# ResourcePack update
+wget -O /var/www/html/storage/app/public/zip/resourcePack.zip 'https://github.com/GHub-fr/resourcePack/releases/latest/download/resourcePack.zip'
+
 # jars
 mkdir -p /Serveurs/DataFolder/plugins
 wget -O /Serveurs/DataFolder/plugins/plugin.jar 'https://github.com/GHub-fr/plugin/releases/latest/download/plugin-1.0-fat.jar'
@@ -93,12 +96,12 @@ chmod +x /Serveurs/DataFolder/ln-s.sh
 
 # structures
 mkdir -p /Serveurs/DataFolder/structures
-#
 wget -O /Serveurs/DataFolder/structures/spawn.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/spawn.yml' # Spawn
 wget -O /Serveurs/DataFolder/structures/spawn_OPPrison.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/spawn_OPPrison.yml'
 wget -O /Serveurs/DataFolder/structures/spawn_Survie.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/spawn_Survie.yml'
 wget -O /Serveurs/DataFolder/structures/spawn_SB.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/spawn_SB.yml'
 wget -O /Serveurs/DataFolder/structures/Island.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Island.yml' # Île SkyBlock
+
 # start
 wget -O /Serveurs/DataFolder/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/start.sh'
 chmod +x /Serveurs/DataFolder/start.sh

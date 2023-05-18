@@ -16,7 +16,6 @@ wget -O /var/www/html/resources/lang/fr/messages.php 'https://raw.githubusercont
 wget -O /var/www/html/storage/app/public/img/background.jpg 'https://raw.githubusercontent.com/GHub-fr/server/main/var/www/html/storage/app/public/img/background.jpg'
 wget -O /var/www/html/storage/app/public/img/gif.gif 'https://raw.githubusercontent.com/GHub-fr/server/main/var/www/html/storage/app/public/img/gif.gif'
 wget -O /var/www/html/storage/app/public/img/icone.png 'https://raw.githubusercontent.com/GHub-fr/server/main/var/www/html/storage/app/public/img/icone.png'
-wget -O /var/www/html/storage/app/public/zip/resourcePack.zip 'https://github.com/GHub-fr/resourcePack/releases/latest/download/resourcePack.zip'
 # certbot 
 wget -O /setup.certbot.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/setup.certbot.sh'
 chmod +x /setup.certbot.sh
