@@ -101,6 +101,7 @@ wget -O /Serveurs/DataFolder/structures/spawn_OPPrison.yml 'https://raw.githubus
 wget -O /Serveurs/DataFolder/structures/spawn_Survie.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/spawn_Survie.yml'
 wget -O /Serveurs/DataFolder/structures/spawn_SB.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/spawn_SB.yml'
 wget -O /Serveurs/DataFolder/structures/Island.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/Island.yml' # Île SkyBlock
+wget -O /Serveurs/DataFolder/structures/mine.yml 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/structures/mine.yml' # Mine
 
 # start
 wget -O /Serveurs/DataFolder/start.sh 'https://raw.githubusercontent.com/GHub-fr/server/main/Serveurs/DataFolder/start.sh'
