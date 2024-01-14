@@ -21,9 +21,11 @@ Apache2 + HTTPS/SSL,
 Discord bot, Minecraft servers & plugin  
 
 # Setup  
+```
 wget -O /setup.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/setup.sh'  
 chmod +x /setup.sh  
 /setup.sh  
+```
 
 # Configuration  
 - [MySQL password](/setup.mysql.sh)
@@ -32,9 +34,13 @@ chmod +x /setup.sh
 - [Minecraft RCON Password](/Serveurs/SERVERNAME/server.properties) | [exemple](/Serveurs/Hub/server.properties)
 
 # Start  
+```
 /install.sh  
+```
 
 # Force update
+```
 wget -O /update.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/update.sh'  
 chmod +x /update.sh  
 /update.sh  
+```
