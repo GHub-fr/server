@@ -74,3 +74,13 @@ Lancer un ou plusieurs services :
 # Tout mettre à jour et lancer
 /update.sh
 ```
+
+### une backup
+```
+# Backup
+/backup/backup.sh
+# Backup du serveur complet
+/backup/backupfull.sh
+# Backup serveurs MC
+/backup/backupsrv.sh
+```
