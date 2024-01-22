@@ -16,7 +16,8 @@
 # Applications
 - Apache2 + HTTPS/SSL
 - Discord bot
-- MC servers, plugin, hub & Web CMS
+- MC servers, hub, plugin
+- Web CMS Azuriom
 
 # Télécharger
 Lancer [/setup.sh](https://github.com/GHub-fr/server/blob/main/setup.sh) :
@@ -35,13 +36,13 @@ Configurer les différents tokens / mot de passes :
 - [Apache sites-available](https://github.com/GHub-fr/server/blob/main/etc/apache2/sites-available/ghub.fr.conf), du serveur Apache
 
 # Installer
-Lancer l' [/install.sh](https://github.com/GHub-fr/server/blob/main/install.sh) :
+Lancer [/install.sh](https://github.com/GHub-fr/server/blob/main/install.sh) :
 ```
 /install.sh  
 ```
 
 # Force update
-Forcer une mise à jour en téléchargent [update.sh](https://github.com/GHub-fr/server/blob/main/update.sh) et en le lançant :
+Forcer une mise à jour en téléchargent [/update.sh](https://github.com/GHub-fr/server/blob/main/update.sh) et en le lançant :
 ```
 wget -O /update.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/update.sh'  
 chmod +x /update.sh  
@@ -52,6 +53,8 @@ chmod +x /update.sh
 Lancer un ou plusieurs services :
 
 ## Serveurs MC
+- [/Serveurs/DataFolder/update.sh](https://github.com/GHub-fr/server/blob/main/Serveurs/DataFolder/update.sh)
+- [/Serveurs/DataFolder/start.sh](https://github.com/GHub-fr/server/blob/main/Serveurs/DataFolder/start.sh)
 ```
 # Update les serveurs MC
 /Serveurs/DataFolder/update.sh
@@ -61,6 +64,8 @@ Lancer un ou plusieurs services :
 ```
 
 ## Discord Bot
+- [/DiscordBot/update.sh](https://github.com/GHub-fr/server/blob/main/DiscordBot/update.sh)
+- [/DiscordBot/start.sh](https://github.com/GHub-fr/server/blob/main/DiscordBot/start.sh)
 ```
 # Update le bot Discord
 /DiscordBot/update.sh
@@ -70,12 +75,16 @@ Lancer un ou plusieurs services :
 ```
 
 ## Tout
+- [/update.sh](https://github.com/GHub-fr/server/blob/main/update.sh)
 ```
 # Tout mettre à jour et lancer
 /update.sh
 ```
 
 ### une backup
+- [/backup/backup.sh](https://github.com/GHub-fr/server/blob/main/backup/backup.sh)
+- [/backup/backupfull.sh](https://github.com/GHub-fr/server/blob/main/backup/backupfull.sh)
+- [/backup/backupsrv.sh](https://github.com/GHub-fr/server/blob/main/backup/backupsrv.sh)
 ```
 # Backup
 /backup/backup.sh
