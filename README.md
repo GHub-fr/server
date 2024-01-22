@@ -51,7 +51,7 @@ chmod +x /update.sh
 # Lancer
 Lancer un ou plusieurs services :
 
-## Serveirs MC
+## Serveurs MC
 ```
 # Update les serveurs MC
 /Serveurs/DataFolder/update.sh
