@@ -28,7 +28,7 @@ chmod +x /setup.sh
 ```
 
 # Configuration
-Configurer les différents tokens / mot de passes :
+Configurer les différents tokens / mot de passes suivant vos besoins :
 - [MySQL password](https://github.com/GHub-fr/server/blob/main/setup.mysql.sh) pour la base de donnée MySQL du CMS
 - [Discord token](https://github.com/GHub-fr/server/blob/main/DiscordBot/data/tokens.yml) du bot Discord
 - [MC Discord token](https://github.com/GHub-fr/server/blob/main/Serveurs/DataFolder/tokens.yml) des bots Discord MC
