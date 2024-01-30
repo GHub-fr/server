@@ -85,13 +85,18 @@ Lancer un ou plusieurs services :
 - [/backup/backup.sh](https://github.com/GHub-fr/server/blob/main/backup/backup.sh)
 - [/backup/backupfull.sh](https://github.com/GHub-fr/server/blob/main/backup/backupfull.sh)
 - [/backup/backupsrv.sh](https://github.com/GHub-fr/server/blob/main/backup/backupsrv.sh)
+
+## Backup par défaut
 ```
-# Backup
 /backup/backup.sh
+```
 
-# Backup du serveur complet
+## Backup du serveur complet
+```
 /backup/backupfull.sh
+```
 
-# Backup serveurs MC
+## Backup serveurs MC
+```
 /backup/backupsrv.sh
 ```
