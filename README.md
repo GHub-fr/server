@@ -43,7 +43,12 @@ Lancer [/install.sh](https://github.com/GHub-fr/server/blob/main/install.sh) :
 /install.sh  
 ```
 
-# Force update
+---
+
+# Commandes
+Lancer un ou plusieurs services :
+
+## Force update
 Forcer une mise à jour en téléchargent [/update.sh](https://github.com/GHub-fr/server/blob/main/update.sh) et en le lançant :
 ```
 wget -O /update.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/update.sh'  
@@ -51,37 +56,45 @@ chmod +x /update.sh
 /update.sh  
 ```
 
-# Commandes
-Lancer un ou plusieurs services :
-
 ## Serveurs MC
 - [/Serveurs/DataFolder/update.sh](https://github.com/GHub-fr/server/blob/main/Serveurs/DataFolder/update.sh)
 - [/Serveurs/DataFolder/start.sh](https://github.com/GHub-fr/server/blob/main/Serveurs/DataFolder/start.sh)
-```
-# Update les serveurs MC
-/Serveurs/DataFolder/update.sh
 
-# Lancer les serveurs MC et leurs bots
+### Update les serveurs MC
+```
+/Serveurs/DataFolder/update.sh
+```
+
+### Lancer les serveurs MC et leurs bots
+```
 /Serveurs/DataFolder/start.sh
 ```
+
+---
 
 ## Discord Bot
 - [/DiscordBot/update.sh](https://github.com/GHub-fr/server/blob/main/DiscordBot/update.sh)
 - [/DiscordBot/start.sh](https://github.com/GHub-fr/server/blob/main/DiscordBot/start.sh)
-```
-# Update le bot Discord
-/DiscordBot/update.sh
 
-# Lancer le bot
+### Update le bot Discord
+```
+/DiscordBot/update.sh
+```
+
+### Lancer le bot
+```
 /DiscordBot/start.sh
 ```
 
-## Tout
+---
+
+## Tout mettre à jour et lancer
 - [/update.sh](https://github.com/GHub-fr/server/blob/main/update.sh)
 ```
-# Tout mettre à jour et lancer
 /update.sh
 ```
+
+---
 
 # Backup
 - [/backup/backup.sh](https://github.com/GHub-fr/server/blob/main/backup/backup.sh)
