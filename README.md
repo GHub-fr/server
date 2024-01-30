@@ -14,12 +14,12 @@
 - [Commits](https://github.com/GHub-fr/server/commits/main)
 
 # Applications
-- Apache2 + HTTPS/SSL
-- Discord bot
-- MC servers, hub, plugin
-- Web CMS Azuriom
+- Apache2 + HTTPS/SSL (**CertBot**)
+- Discord bot (**JavaCord**)
+- MC servers, hub, plugin (**PaperMC & Waterfall**)
+- Web CMS & Shop (**Azuriom**)
 
-# Télécharger
+# Télécharger l'installeur
 Lancer [/setup.sh](https://github.com/GHub-fr/server/blob/main/setup.sh) :
 ```
 wget -O /setup.sh -L 'https://raw.githubusercontent.com/GHub-fr/server/main/setup.sh'  
@@ -49,7 +49,7 @@ chmod +x /update.sh
 /update.sh  
 ```
 
-# Lancer
+# Commandes
 Lancer un ou plusieurs services :
 
 ## Serveurs MC
@@ -81,7 +81,7 @@ Lancer un ou plusieurs services :
 /update.sh
 ```
 
-### une backup
+# Backup
 - [/backup/backup.sh](https://github.com/GHub-fr/server/blob/main/backup/backup.sh)
 - [/backup/backupfull.sh](https://github.com/GHub-fr/server/blob/main/backup/backupfull.sh)
 - [/backup/backupsrv.sh](https://github.com/GHub-fr/server/blob/main/backup/backupsrv.sh)
