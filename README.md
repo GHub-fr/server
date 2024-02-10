@@ -33,10 +33,6 @@ chmod +x /setup.sh
 Configurer les différents tokens / mot de passes suivant vos besoins :
 - [MySQL password](https://github.com/GHub-fr/server/blob/main/setup.mysql.sh) pour la base de donnée MySQL du CMS
 - [Apache sites-available](https://github.com/GHub-fr/server/blob/main/etc/apache2/sites-available/ghub.fr.conf), du serveur Apache
-- [Discord token](https://github.com/GHub-fr/server/blob/main/DiscordBot/data/tokens.yml) du bot Discord
-- [MC Discord token](https://github.com/GHub-fr/server/blob/main/Serveurs/DataFolder/tokens.yml) des bots Discord MC
-- [MC RCON Password & YML & Server properties](https://github.com/GHub-fr/server/blob/main/Serveurs/Waterfall/config.yml), des serveurs MC : ([exemple hub](https://github.com/GHub-fr/server/blob/main/Serveurs/Hub/server.properties))
-- [ServerType list](https://github.com/GHub-fr/server/blob/main/Serveurs/DataFolder/serverTypeFile.yml) Configuration des serveurs / ports 
 
 # Installer
 Lancer [/install.sh](https://github.com/GHub-fr/server/blob/main/install.sh) :
