@@ -16,9 +16,10 @@
 # Applications
 - Web server (**__Apache2__**)
 - HTTPS/SSL (**__CertBot__**)
-- Discord bot (**__JavaCord__**)
+- Discord bot lib (**__JavaCord__**)
 - MC servers, hub (**__PaperMC & Waterfall__**)
 - MC Plugin ([repo](https://github.com/GHub-fr/plugin))
+- Discord Bot ([repo](https://github.com/GHub-fr/bot))
 - Web CMS & Shop ([Azuriom](https://github.com/Azuriom))
 
 # Télécharger l'installeur
