@@ -18,8 +18,8 @@
 - HTTPS/SSL (**__CertBot__**)
 - Discord bot (**__JavaCord__**)
 - MC servers, hub (**__PaperMC & Waterfall__**)
-- MC Plugin ([**__repo__**](https://github.com/GHub-fr/plugin))
-- Web CMS & Shop ([**__Azuriom__**](https://github.com/Azuriom))
+- MC Plugin ([repo](https://github.com/GHub-fr/plugin))
+- Web CMS & Shop ([Azuriom](https://github.com/Azuriom))
 
 # Télécharger l'installeur
 Lancer [/setup.sh](https://github.com/GHub-fr/server/blob/main/setup.sh) :
