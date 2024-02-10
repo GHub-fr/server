@@ -14,13 +14,14 @@
 - [Commits](https://github.com/GHub-fr/server/commits/main)
 
 # Applications
-- Web server (**__Apache2__**)
+- Web server (**__Apache 2__**)
 - HTTPS/SSL (**__CertBot__**)
 - Discord bot lib (**__JavaCord__**)
 - MC servers, hub (**__PaperMC & Waterfall__**)
-- MC Plugin ([repo](https://github.com/GHub-fr/plugin))
-- Discord Bot ([repo](https://github.com/GHub-fr/bot))
 - Web CMS & Shop ([Azuriom](https://github.com/Azuriom))
+
+- MC Plugin ([repo](https://doc.ghub.fr/github/plugin))
+- Discord Bot ([repo](https://doc.ghub.fr/github//bot))
 
 # Télécharger l'installeur
 Lancer [/setup.sh](https://github.com/GHub-fr/server/blob/main/setup.sh) :
