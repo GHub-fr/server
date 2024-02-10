@@ -30,9 +30,12 @@ chmod +x /setup.sh
 ```
 
 # Configuration
-Configurer les différents tokens / mot de passes suivant vos besoins :
-- [MySQL password](https://github.com/GHub-fr/server/blob/main/setup.mysql.sh) pour la base de donnée MySQL du CMS
-- [Apache sites-available](https://github.com/GHub-fr/server/blob/main/etc/apache2/sites-available/ghub.fr.conf), du serveur Apache
+- [MySQL password](https://github.com/GHub-fr/server/blob/main/setup.mysql.sh)
+- [Apache sites-available](https://github.com/GHub-fr/server/blob/main/etc/apache2/sites-available/ghub.fr.conf)
+- [Azuriom a2ensite](https://github.com/GHub-fr/server/blob/main/setup.azuriom.sh)
+- [CertBot](https://github.com/GHub-fr/server/blob/main/setup.certbot.sh)
+- [MC plugin](https://doc.ghub.fr/github/plugin)
+- [Discord bot](https://doc.ghub.fr/github/bot)
 
 # Installer
 Lancer [/install.sh](https://github.com/GHub-fr/server/blob/main/install.sh) :
