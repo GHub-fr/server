@@ -102,6 +102,7 @@ chmod +x /update.sh
 - [/backup/backup.sh](https://github.com/GHub-fr/server/blob/main/backup/backup.sh)
 - [/backup/backupfull.sh](https://github.com/GHub-fr/server/blob/main/backup/backupfull.sh)
 - [/backup/backupsrv.sh](https://github.com/GHub-fr/server/blob/main/backup/backupsrv.sh)
+- [/backup/backup-custom.sh](https://github.com/GHub-fr/server/blob/main/backup/backup-custom.sh)
 
 ## Backup par défaut
 ```
@@ -116,4 +117,9 @@ chmod +x /update.sh
 ## Backup serveurs MC
 ```
 /backup/backupsrv.sh
+```
+
+### Backup custom
+```
+/backup/backup-custom.sh
 ```
