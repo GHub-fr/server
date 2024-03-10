@@ -119,6 +119,12 @@ chmod +x /update.sh
 /backup/backupsrv.sh
 ```
 
+## Créer une backup custom
+### Configuration de la backup custom
+- Modifier le fichier [/backup/backup-custom.sh](https://github.com/GHub-fr/server/blob/main/backup/backup-custom.sh)
+- Changer les dossiers dans la liste
+- Changer le chemin d'exportation
+
 ### Backup custom
 ```
 /backup/backup-custom.sh
